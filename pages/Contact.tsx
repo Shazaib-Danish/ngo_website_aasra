@@ -78,7 +78,8 @@ const Contact: React.FC<ContactProps> = ({ data, setData }) => {
                 <div className="space-y-1">
                   <h4 className="font-black text-sky-950 mb-2 uppercase tracking-widest text-sm">Helpline Numbers</h4>
                   <p className="text-slate-500 text-base font-bold">{CONTACT_INFO.phone}</p>
-                  <p className="text-slate-500 text-base font-bold">{CONTACT_INFO.whatsappDisplay} (WhatsApp)</p>
+                  <p className="text-slate-500 text-base font-bold">{CONTACT_INFO.phone1}</p>
+       
                 </div>
               </div>
               <div className="flex items-start gap-8">
@@ -92,14 +93,27 @@ const Contact: React.FC<ContactProps> = ({ data, setData }) => {
               </div>
             </div>
 
-            <div className="h-80 rounded-[3rem] overflow-hidden shadow-2xl relative group">
-               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3401.328333527581!2d74.27976827618588!3d31.48834044891157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3919036c01e6992d%3A0x6a1608796851f505!2sNargis%20Block%20Allama%20Iqbal%20Town%2C%20Lahore%2C%20Punjab!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s" 
-                width="100%" height="100%" style={{ border: 0 }} allowFullScreen loading="lazy" 
-                className="grayscale hover:grayscale-0 transition-all duration-1000"
-               />
-               <a href={CONTACT_INFO.mapUrl} target="_blank" rel="noopener noreferrer" className="absolute bottom-6 right-6 bg-white text-sky-950 px-6 py-3 rounded-2xl font-black text-[10px] uppercase tracking-widest shadow-2xl hover:bg-sky-950 hover:text-white transition-all">Open in Google Maps</a>
+          <div className="h-80 rounded-[3rem] overflow-hidden shadow-2xl relative group">
+              <iframe
+                src="https://www.google.com/maps?q=Aasra+Welfare+Society&&z=14&output=embed"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+    
+              />
+              
+              <a
+                href="https://maps.google.com/?q=Aasra+Welfare+Society"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="absolute bottom-6 right-6 bg-white text-sky-950 px-6 py-3 rounded-2xl font-black text-[10px] uppercase tracking-widest shadow-2xl hover:bg-sky-950 hover:text-white transition-all"
+              >
+                Open in Google Maps
+              </a>
             </div>
+
           </div>
 
           <div className="bg-white p-12 md:p-16 rounded-[4rem] shadow-2xl border border-slate-100 relative reveal-right">
