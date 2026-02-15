@@ -14,6 +14,7 @@ import ZakatCalculator from './pages/ZakatCalculator';
 import PostDetail from './pages/PostDetail';
 import Admin from './pages/Admin';
 import { CONTACT_INFO } from './constants';
+import ScrollToTop from "./ScrollToTop"; 
 
 
 const TopSocialBar = () => (
@@ -266,31 +267,33 @@ export default function App() {
   if (loading) return <div className="h-screen flex items-center justify-center bg-sky-950 text-[#07847F] text-5xl font-black">AASRA</div>;
 
   return (
-    <BrowserRouter>
-      <div className="min-h-screen flex flex-col font-sans">
-        <Navbar />
-        <main className="flex-grow pt-[116px] md:pt-[132px]">
-          <Routes>
-            <Route path="/" element={<Home data={data} />} />
-            <Route path="/about" element={<About data={data} />} />
-            <Route path="/programs" element={<Programs data={data} />} />
-            <Route path="/programs/:id" element={<ProgramDetail data={data} />} />
-            <Route path="/gallery" element={<Gallery data={data} />} />
-            <Route path="/donate" element={<Donate />} />
-            <Route path="/contact" element={<Contact data={data} setData={setData} />} />
-            <Route path="/zakat" element={<ZakatCalculator />} />
-            <Route path="/posts/:id" element={<PostDetail data={data} />} />
-            <Route path="/admin" element={<Admin data={data} setData={setData} />} />
-          </Routes>
-        </main>
-        <Footer />
-        
-        <div className="fixed bottom-6 right-6 z-[100]">
-          <a href={`https://wa.me/${CONTACT_INFO.whatsapp}`} target="_blank" className="w-16 h-16 bg-green-500 text-white rounded-full shadow-2xl flex items-center justify-center text-3xl hover:scale-110 transition-transform">
-            <i className="fa-brands fa-whatsapp"></i>
-          </a>
-        </div>
-      </div>
-    </BrowserRouter>
+   <BrowserRouter>
+  <ScrollToTop />
+  <div className="min-h-screen flex flex-col font-sans">
+    <Navbar />
+    <main className="flex-grow pt-[116px] md:pt-[132px]">
+      <Routes>
+        <Route path="/" element={<Home data={data} />} />
+        <Route path="/about" element={<About data={data} />} />
+        <Route path="/programs" element={<Programs data={data} />} />
+        <Route path="/programs/:id" element={<ProgramDetail data={data} />} />
+        <Route path="/gallery" element={<Gallery data={data} />} />
+        <Route path="/donate" element={<Donate />} />
+        <Route path="/contact" element={<Contact data={data} setData={setData} />} />
+        <Route path="/zakat" element={<ZakatCalculator />} />
+        <Route path="/posts/:id" element={<PostDetail data={data} />} />
+        <Route path="/admin" element={<Admin data={data} setData={setData} />} />
+      </Routes>
+    </main>
+    <Footer />
+    
+    <div className="fixed bottom-6 right-6 z-[100]">
+      <a href={`https://wa.me/${CONTACT_INFO.whatsapp}`} target="_blank" className="w-16 h-16 bg-green-500 text-white rounded-full shadow-2xl flex items-center justify-center text-3xl hover:scale-110 transition-transform">
+        <i className="fa-brands fa-whatsapp"></i>
+      </a>
+    </div>
+  </div>
+</BrowserRouter>
+
   );
 }
