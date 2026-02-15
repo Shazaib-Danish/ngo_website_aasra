@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: '/ngo_website_aasra/',   // ⭐ REQUIRED for GitHub Pages
+    base: '/',   // ⭐ REQUIRED for GitHub Pages
 
     server: {
       port: 3000,
