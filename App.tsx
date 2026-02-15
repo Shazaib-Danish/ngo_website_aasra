@@ -15,6 +15,7 @@ import PostDetail from './pages/PostDetail';
 import Admin from './pages/Admin';
 import { CONTACT_INFO } from './constants';
 import ScrollToTop from "./ScrollToTop"; 
+import Logo from "./logo.png";
 
 
 const TopSocialBar = () => (
@@ -63,7 +64,7 @@ const Navbar = () => {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="flex justify-between h-20 md:h-24">
             <Link to="/" className="flex items-center space-x-3 group">
-              <img src="logo.png" alt="AASRA Logo" className="w-10 h-10 md:w-16 md:h-16 object-contain transition-all group-hover:scale-110" />
+              <img src={Logo}  alt="AASRA Logo" className="w-10 h-10 md:w-16 md:h-16 object-contain transition-all group-hover:scale-110" />
               <div className="flex flex-col">
               <span className="text-sky-900 font-medium text-base md:text-2xl uppercase tracking-widest font-sans">
                 Aasra Welfare
