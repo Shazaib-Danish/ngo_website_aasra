@@ -285,7 +285,7 @@ const Home: React.FC<HomeProps> = ({ data }) => {
                     <h3 className="text-sky-950 text-base md:text-xl font-black mb-6 leading-tight tracking-tight uppercase line-clamp-2 h-12 md:h-14">
                       {camp.title}
                     </h3>
-                    <Link to={camp.link} className="inline-flex items-center gap-2 bg-[#07847F] text-white px-6 py-4 rounded-xl font-black text-[8px] md:text-[9px] uppercase tracking-widest text-center shadow-md hover:bg-orange-600 transition-all w-full justify-center">
+                    <Link to='/donate' className="inline-flex items-center gap-2 bg-[#07847F] text-white px-6 py-4 rounded-xl font-black text-[8px] md:text-[9px] uppercase tracking-widest text-center shadow-md hover:bg-orange-600 transition-all w-full justify-center">
                       Donate Now <i className="fa-solid fa-arrow-right text-[8px]"></i>
                     </Link>
                  </div>
