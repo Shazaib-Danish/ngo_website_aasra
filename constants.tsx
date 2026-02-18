@@ -18,7 +18,7 @@ export const CONTACT_INFO = {
   email: 'info@aasra-welfare.org', // Updated email
   address: '80, Nargis Block Allama Iqbal Town Lahore, Pakistan.',
   mapUrl: 'https://maps.app.goo.gl/Zo5XBgNfBs6TmLfE6',
-  internationalPaymentLink: 'https://www.launchgood.com/aasra', 
+  internationalPaymentLink: 'https://whydonate.com/donate/emergency-flood-relief-2025', 
   currency: 'PKR',
   taxExempt: true,
   registrationNumbers: [

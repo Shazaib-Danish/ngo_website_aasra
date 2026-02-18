@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { BANK_DETAILS, CONTACT_INFO } from '../constants';
+import BankLogo from "../bank_logo.png";
 
 const Donate: React.FC = () => {
   const handleCopyBankDetails = () => {
@@ -53,12 +54,9 @@ IBAN No: ${BANK_DETAILS.iban}
                         <p className="text-teal-600 font-black text-[9px] uppercase tracking-[0.3em]">SECURE LOCAL DONATION PORTAL</p>
                       </div>
                     </div>
-                    <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 flex flex-col items-center justify-center min-w-[140px] shadow-sm">
-                      <i className="fa-solid fa-building-columns text-sky-900 text-4xl mb-2"></i>
-                      <span className="text-[10px] font-black uppercase text-slate-400 tracking-widest">Bank Makramah Ltd</span>
-                    </div>
+                  
                   </div>
-
+                  <img src={BankLogo}  alt="bank logo" className="w-100 h-100 md:w-160 md:h-160 object-contain transition-all group-hover:scale-110 mb-4" />
                   {/* ACCOUNT INFORMATION: REDUCED FONT SIZE FOR MOBILE COMPATIBILITY */}
                   <div className="space-y-8 md:space-y-12 mb-10">
                     <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
@@ -84,7 +82,7 @@ IBAN No: ${BANK_DETAILS.iban}
 
                     <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all bg-sky-50/40 py-6 md:py-8 rounded-r-[2.5rem] md:rounded-r-[3rem] pr-6">
                       <p className="text-[10px] md:text-[11px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 md:mb-4">IBAN No</p>
-                      <p className="text-sm md:text-4xl font-normal tracking-tight text-sky-900 leading-none break-all select-all whitespace-nowrap">
+                      <p className="text-xl md:text-5xl font-normal tracking-tight text-sky-900 leading-none break-all select-all whitespace-nowrap">
                         PK56SUMB9944207140134112
                       </p>
                     </div>

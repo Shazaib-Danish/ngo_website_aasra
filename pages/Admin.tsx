@@ -21,7 +21,7 @@ const Admin: React.FC<{ data: any, setData: any }> = ({ data, setData }) => {
     }
   }, [isLoggedIn]);
 
-  const handleLogin = () => pass === 'admin123' ? setIsLoggedIn(true) : alert('Wrong Password');
+  const handleLogin = () => pass === '@@Sra80' ? setIsLoggedIn(true) : alert('Wrong Password');
 
   const handleDelete = async (id: string, col: string) => {
     if (window.confirm('Delete this item from Cloud?')) {

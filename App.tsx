@@ -24,11 +24,52 @@ const TopSocialBar = () => (
       <div className="flex items-center gap-6">
         <span className="opacity-60 lowercase italic font-light tracking-widest">connecting hearts digitally —</span>
         <div className="flex gap-5">
-          {['facebook-f', 'instagram', 'linkedin-in', 'tiktok', 'youtube'].map((icon, i) => (
-            <a key={i} href="#" className="hover:text-[#07847F] transition-all opacity-80 hover:opacity-100">
-              <i className={`fa-brands fa-${icon}`}></i>
-            </a>
-          ))}
+          <a 
+  href="https://www.facebook.com/aasra.welfare.s" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="hover:text-[#07847F] transition-all opacity-80 hover:opacity-100"
+>
+  <i className="fa-brands fa-facebook-f"></i>
+</a>
+
+<a 
+  href="https://www.instagram.com/aasrawelfare_society" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="hover:text-[#07847F] transition-all opacity-80 hover:opacity-100"
+>
+  <i className="fa-brands fa-instagram"></i>
+</a>
+
+<a 
+  href="https://www.linkedin.com/company/aasra-welfare-society-lahore" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="hover:text-[#07847F] transition-all opacity-80 hover:opacity-100"
+>
+  <i className="fa-brands fa-linkedin-in"></i>
+</a>
+
+<a 
+  href="https://www.tiktok.com/@aasra_welfare_society" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="hover:text-[#07847F] transition-all opacity-80 hover:opacity-100"
+>
+  <i className="fa-brands fa-tiktok"></i>
+</a>
+
+<a 
+  href="https://www.youtube.com/@aasra_welfare_society" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="hover:text-[#07847F] transition-all opacity-80 hover:opacity-100"
+>
+  <i className="fa-brands fa-youtube"></i>
+</a>
+
+
         </div>
       </div>
       <div className="flex items-center gap-8 font-light">
@@ -117,11 +158,51 @@ const Footer = () => (
         <h3 className="text-white font-black text-3xl tracking-tighter uppercase">AASRA Welfare</h3>
         <p className="text-base leading-relaxed text-slate-400 font-medium">Serving humanity with excellence and Ihsan. A 100% transparent and verified NGO in Pakistan.</p>
         <div className="flex gap-4">
-          {['facebook-f', 'instagram', 'linkedin-in', 'tiktok', 'youtube'].map(icon => (
-            <div key={icon} className="w-12 h-12 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center hover:bg-[#07847F] transition-all cursor-pointer">
-              <i className={`fa-brands fa-${icon}`}></i>
-            </div>
-          ))}
+        <a 
+  href="https://www.facebook.com/aasra.welfare.s" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="w-12 h-12 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center hover:bg-[#07847F] transition-all cursor-pointer"
+>
+  <i className="fa-brands fa-facebook-f"></i>
+</a>
+
+<a 
+  href="https://www.instagram.com/aasrawelfare_society" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="w-12 h-12 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center hover:bg-[#07847F] transition-all cursor-pointer"
+>
+  <i className="fa-brands fa-instagram"></i>
+</a>
+
+<a 
+  href="https://www.linkedin.com/company/aasra-welfare-society-lahore" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="w-12 h-12 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center hover:bg-[#07847F] transition-all cursor-pointer"
+>
+  <i className="fa-brands fa-linkedin-in"></i>
+</a>
+
+<a 
+  href="https://www.tiktok.com/@aasra_welfare_society" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="w-12 h-12 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center hover:bg-[#07847F] transition-all cursor-pointer"
+>
+  <i className="fa-brands fa-tiktok"></i>
+</a>
+
+<a 
+  href="https://www.youtube.com/@aasra_welfare_society" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="w-12 h-12 bg-white/5 border border-white/10 rounded-2xl flex items-center justify-center hover:bg-[#07847F] transition-all cursor-pointer"
+>
+  <i className="fa-brands fa-youtube"></i>
+</a>
+
         </div>
       </div>
       <div>
@@ -144,6 +225,10 @@ const Footer = () => (
       </div>
       <div>
         <h4 className="text-[#07847F] font-black text-[10px] uppercase tracking-[0.4em] mb-10">Registration</h4>
+         <div className="flex items-center gap-2">
+          <i className="fa-solid fa-shield-check text-[#07847F]"></i>
+          <span className="text-[#FFD700] font-bold uppercase">100% Tax Exempted NGO</span>
+        </div>
         {CONTACT_INFO.registrationNumbers.map((num, i) => (
           <div key={i} className="bg-sky-900/40 p-3 rounded-xl text-[11px] font- uppercase mb-2 border border-white/5 text-slate-300">
             {num}
@@ -152,7 +237,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="text-center text-[9px] font-black tracking-[0.4em] text-slate-500">
-      © 2024 AASRA WELFARE SOCIETY. ALL RIGHTS RESERVED. <Link to="/admin" className="ml-4 hover:text-white">STAFF ACCESS</Link>
+      © 2026 AASRA WELFARE SOCIETY. ALL RIGHTS RESERVED. <Link to="/admin" className="ml-4 hover:text-white">STAFF ACCESS</Link>
     </div>
   </footer>
 );
