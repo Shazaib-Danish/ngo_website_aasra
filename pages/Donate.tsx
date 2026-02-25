@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import { BANK_DETAILS, CONTACT_INFO } from '../constants';
 import BankLogo from "../bank_logo.png";
+import { useState } from "react";
 
 const Donate: React.FC = () => {
   const widgetRef = useRef<HTMLDivElement>(null);
@@ -49,7 +50,9 @@ IBAN No: ${BANK_DETAILS.iban}
         script.remove();
       };
     }
-  }, []); // 
+  }, []); //
+  
+  const [donationType, setDonationType] = useState("Zakat");
 
 
   return (
@@ -82,11 +85,30 @@ IBAN No: ${BANK_DETAILS.iban}
               <span className="text-orange-600 font-black uppercase tracking-[0.3em] text-[9px] mb-6 block">GLOBAL GIVING</span>
               <h2 className="text-2xl font-black text-sky-950 tracking-tighter mb-4 uppercase leading-none">Credit Card Donation</h2>
               <p className="text-slate-500 text-sm mb-10 leading-relaxed font-medium">
-                Donate via Credit Card securely.
+                Donate via Credit Card securely. Please wait — the form may take a few moments to load or refresh.
               </p>
-
+              {/* Donation Type Tabs */}
+              <div className="flex gap-4 mb-8">
+                {["Zakat", "Sadqah", "General"].map((type) => (
+                  <button
+                    key={type}
+                    onClick={() => setDonationType(type)}
+                    className={`px-6 py-3 rounded-full text-sm font-bold transition-all duration-300 border 
+                      ${
+                        donationType === type
+                          ? "bg-orange-600 text-white border-orange-600 shadow-lg"
+                          : "bg-white text-slate-600 border-slate-200 hover:bg-slate-100"
+                      }`}
+                  >
+                    {type}
+                  </button>
+                ))}
+              </div>
               {/* Whydonate Widget */}
-               <div>    <div ref={widgetRef} id="widget-here-wWmjJ"        class="widget-here"        data-shortcode="wWmjJ"        data-lang="auto"        value="donation-widget"    ></div></div>
+               <div>    <div ref={widgetRef} id="widget-here-wWmjJ"        
+               class="widget-here"        data-shortcode="wWmjJ"        
+               data-lang="auto"        value="donation-widget"    >
+                </div></div>
             </div>
           </div>
 
@@ -140,12 +162,54 @@ IBAN No: ${BANK_DETAILS.iban}
                       <span>Share Details</span>
                     </button>
                   </div>
+                  
                 </div>
+                
               </div>
             </div>
           </div>
-
         </div>
+        {/* Horizontal Donation Receipt Box */}
+<div className="max-w-6xl mx-auto px-6 pt-8">
+  <div className="relative overflow-hidden bg-gradient-to-r from-emerald-700 to-teal-600 rounded-[3rem] shadow-[0_40px_100px_-20px_rgba(0,0,0,0.25)] p-10 md:p-16 flex flex-col md:flex-row items-center justify-between gap-8 text-white">
+
+    {/* Background Glow */}
+    <div className="absolute -top-20 -right-20 w-72 h-72 bg-white/10 rounded-full blur-3xl"></div>
+
+    {/* Left Side Text */}
+    <div className="relative z-10 flex-1 text-center md:text-left">
+      <span className="uppercase tracking-[0.4em] text-[10px] font-black text-white/70 block mb-3">
+        Donation Confirmation
+      </span>
+
+      <h3 className="text-2xl md:text-4xl font-black tracking-tight mb-4">
+        Sent Your Donation?
+      </h3>
+
+      <p className="max-w-xl text-sm md:text-lg text-white/90 leading-relaxed font-medium">
+        Please send your <strong>transaction receipt</strong> on WhatsApp to receive your official donation receipt from Aasra Welfare Society.
+      </p>
+
+      <p className="mt-3 text-white/80 text-sm tracking-wide">
+        WhatsApp: +92 321 111 2447
+      </p>
+    </div>
+
+    {/* Right Side Button */}
+    <div className="relative z-10 flex-shrink-0">
+      <a
+        href="https://wa.me/923211112447?text=Assalamualaikum%20I%20have%20sent%20a%20donation.%20Please%20find%20my%20transaction%20receipt%20attached."
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-flex items-center gap-4 bg-white text-emerald-700 px-10 py-5 rounded-full font-black tracking-wide uppercase text-sm hover:bg-green-500 hover:text-white transition-all duration-300 shadow-xl group"
+      >
+        <i className="fa-brands fa-whatsapp text-2xl group-hover:scale-110 transition-transform"></i>
+        Send Receipt
+      </a>
+    </div>
+
+  </div>
+</div>
       </div>
 
     </div>

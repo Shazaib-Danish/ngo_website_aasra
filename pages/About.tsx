@@ -20,43 +20,111 @@ const About: React.FC<AboutProps> = ({ data }) => {
       </section>
 
       {/* History Timeline */}
-      <section className="py-24 max-w-7xl mx-auto px-4">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-          <div className="space-y-6">
-            <h2 className="text-4xl font-extrabold text-sky-950">A Journey of Hope Since 2021</h2>
-            <p className="text-slate-600 leading-relaxed">
-              AASRA Welfare Society started in a small room in Lahore with a handful of volunteers who noticed that many orphans were lacking basic schooling despite having shelter. We realized that true welfare is not just about survival, but about thriving with dignity.
+     <section className="py-24 max-w-7xl mx-auto px-4">
+  <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+    
+    {/* LEFT CONTENT */}
+    <div className="space-y-6">
+      <h2 className="text-4xl font-extrabold text-sky-950">
+        A Journey of Hope Since 2021
+      </h2>
+
+      <p className="text-slate-600 leading-relaxed">
+        Aasra Welfare Society was founded in 2021 in Lahore with a simple but powerful belief 
+        every orphan deserves education, dignity, and opportunity. What began in a small rented 
+        room with just five children has grown into a dedicated welfare organization serving 
+        vulnerable communities across Pakistan. We believe true welfare is not just about survival, 
+        but about empowering individuals to live with confidence, faith, and independence.
+      </p>
+
+      {/* Timeline */}
+      <div className="space-y-4">
+
+        <div className="flex gap-4">
+          <div className="w-1 bg-teal-500 rounded-full"></div>
+          <div>
+            <h4 className="font-bold text-sky-900">2021: The Beginning</h4>
+            <p className="text-sm text-slate-500">
+              Founded with focus on 5 orphans in a small rented house in Lahore.
             </p>
-            <div className="space-y-4">
-              <div className="flex gap-4">
-                <div className="w-1 bg-teal-500 rounded-full"></div>
-                <div>
-                  <h4 className="font-bold text-sky-900">2021: The Beginning</h4>
-                  <p className="text-sm text-slate-500">Founded with focus on 5 orphans in a small rented house.</p>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <div className="w-1 bg-teal-500 rounded-full"></div>
-                <div>
-                  <h4 className="font-bold text-sky-900">202: Water Expansion</h4>
-                  <p className="text-sm text-slate-500">Launched our first deep well project in Tharparkar.</p>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <div className="w-1 bg-teal-500 rounded-full"></div>
-                <div>
-                  <h4 className="font-bold text-sky-900">2023: Empowerment Centers</h4>
-                  <p className="text-sm text-slate-500">Established 3 vocational training centers for women.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="grid grid-cols-2 gap-4">
-            <img src="https://picsum.photos/seed/about1/400/500" className="rounded-2xl shadow-xl mt-8" />
-            <img src="https://picsum.photos/seed/about2/400/500" className="rounded-2xl shadow-xl" />
           </div>
         </div>
-      </section>
+
+        <div className="flex gap-4">
+          <div className="w-1 bg-teal-500 rounded-full"></div>
+          <div>
+            <h4 className="font-bold text-sky-900">2022: Water Expansion</h4>
+            <p className="text-sm text-slate-500">
+              Launched our first deep well project to provide clean drinking water in Tharparkar.
+            </p>
+          </div>
+        </div>
+
+        <div className="flex gap-4">
+          <div className="w-1 bg-teal-500 rounded-full"></div>
+          <div>
+            <h4 className="font-bold text-sky-900">2023: Empowerment Centers</h4>
+            <p className="text-sm text-slate-500">
+              Established vocational training centers to support widows and underprivileged women.
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      {/* Vision & Mission */}
+      <div className="mt-10 space-y-6">
+
+        <div>
+          <h3 className="text-2xl font-bold text-sky-900 mb-2">Our Vision</h3>
+          <p className="text-slate-600 leading-relaxed">
+            To build a compassionate society where no orphan feels abandoned, 
+            no child is deprived of education, and every family has access to 
+            food, shelter, healthcare, and clean water.
+          </p>
+        </div>
+
+        <div>
+          <h3 className="text-2xl font-bold text-sky-900 mb-2">Our Mission</h3>
+          <p className="text-slate-600 leading-relaxed">
+            Our mission is to provide holistic care through education, character 
+            development, healthcare support, and sustainable livelihood programs. 
+            We strive to empower orphans, support widows, deliver clean water solutions, 
+            and respond to emergencies with transparency and integrity.
+          </p>
+        </div>
+
+        {/* Core Programs */}
+        <div>
+          <h3 className="text-2xl font-bold text-sky-900 mb-4">Our Core Programs</h3>
+          <ul className="text-slate-600 space-y-2 list-disc list-inside">
+            <li>Orphan Care & Education Support</li>
+            <li>Ramadan Ration & Iftar Programs</li>
+            <li>Clean Water & Deep Well Projects</li>
+            <li>Emergency Relief & Flood Support</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+
+    {/* RIGHT IMAGES */}
+    <div className="grid grid-row-2 gap-6">
+      <img 
+        src="https://i.postimg.cc/yYSMS0Tj/FLOOD-2025.png" 
+        alt="Aasra Welfare Society Orphan Care"
+        className="rounded-2xl shadow-xl mt-8"
+      />
+      <img 
+        src="https://i.postimg.cc/mrTJqJGt/Logo-PNG.png" 
+        alt="Aasra Welfare Society Programs"
+        className="rounded-2xl shadow-xl"
+      />
+    </div>
+
+  </div>
+</section>
+
 
       {/* Team Section */}
 <section className="py-24 bg-slate-50">

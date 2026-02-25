@@ -3,6 +3,8 @@ import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Program } from '../types';
 import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import remarkBreaks from "remark-breaks";
 import Contact from './Contact';
 
 const ProgramDetail: React.FC<{ data: any }> = ({ data }) => {
@@ -33,7 +35,7 @@ const ProgramDetail: React.FC<{ data: any }> = ({ data }) => {
             <div className="space-y-6">
                <h2 className="text-3xl font-bold text-sky-950">About the Project</h2>
                <div className="prose prose-slate max-w-none">
-  <ReactMarkdown>
+  <ReactMarkdown  remarkPlugins={[remarkGfm, remarkBreaks]}>
     {program.longDescription || program.description}
   </ReactMarkdown>
 </div>
@@ -71,7 +73,7 @@ const ProgramDetail: React.FC<{ data: any }> = ({ data }) => {
               <h3 className="text-xl font-bold mb-4">Direct Inquiry?</h3>
               <p className="text-sm opacity-90 mb-6">Talk to our project coordinators about specific sponsorship tiers.</p>
               <a href="tel:+923001234567" className="flex items-center gap-3 font-bold border-b border-white/30 pb-2">
-                <i className="fa-solid fa-phone"></i> +92 321 111
+                <i className="fa-solid fa-phone"></i> +92 321 111 2447
               </a>
             </div>
           </aside>

@@ -24,15 +24,7 @@ const PostDetail: React.FC<{ data: any }> = ({ data }) => {
                <span className="text-slate-400">{post.date}</span>
             </div>
             <h1 className="text-4xl font-extrabold text-sky-950 leading-tight">{post.title}</h1>
-            <div className="prose prose-slate max-w-none text-slate-600 leading-relaxed text-lg">
-               {post.content || post.excerpt}
-               <p className="mt-6">
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-               </p>
-               <p className="mt-4">
-                 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-               </p>
-            </div>
+          
           </div>
         </article>
 
