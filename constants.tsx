@@ -41,5 +41,6 @@ export const BANK_DETAILS = {
   accountTitle: 'Aasra Welfare Society',
   accountNumber: '01994426001714134112',
   iban: 'PK56SUMB9944207140134112',
-  branch: 'Main Branch'
+  branch_code: '134',
+  branch: 'Kashmir Block Allama Iqbal Town Lahore'
 };

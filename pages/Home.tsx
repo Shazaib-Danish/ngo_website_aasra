@@ -114,6 +114,54 @@ const Home: React.FC<HomeProps> = ({ data }) => {
         </div>
       </section>
 
+{/* IMPACT VIDEO SECTION */}
+<section className="bg-white py-20 md:py-32 relative overflow-hidden">
+  {/* Decorative Background Element */}
+  <div className="absolute top-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-slate-200 to-transparent"></div>
+  
+  <div className="max-w-6xl mx-auto px-6">
+    <div className="text-center mb-12 reveal">
+      <span className="text-[#07847F] font-black text-[10px] tracking-[0.5em] uppercase border-b-2 border-[#07847F]/20 pb-2">
+        See Our Work in Action
+      </span>
+      <h2 className="text-slate-900 text-4xl md:text-6xl font-black tracking-tighter uppercase mt-6">
+        Changing Lives <span className="text-orange-600">Together</span>
+      </h2>
+    </div>
+
+    {/* Video Container with Professional Glow */}
+    <div className="relative group max-w-5xl mx-auto">
+      {/* Soft Glow Effect behind video */}
+      <div className="absolute -inset-1 bg-gradient-to-r from-[#07847F] to-orange-500 rounded-[2rem] blur opacity-20 group-hover:opacity-40 transition duration-1000"></div>
+      
+      {/* The Actual Iframe Container */}
+      <div className="relative aspect-video rounded-[2rem] overflow-hidden bg-black shadow-2xl border border-slate-100">
+        <iframe
+          className="w-full h-full"
+          /* FIXED URL BELOW: Changed /watch?v= to /embed/ */
+          src="https://www.youtube.com/embed/guwXyT7pYto?rel=0&modestbranding=1&showinfo=0"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+        ></iframe>
+      </div>
+
+      {/* Floating Badge */}
+      <div className="absolute -bottom-6 -right-6 hidden md:flex bg-[#07847F] text-white p-6 rounded-2xl shadow-2xl items-center gap-4 animate-bounce-slow">
+         <div className="w-12 h-12 bg-orange-600 rounded-full flex items-center justify-center">
+            <i className="fa-solid fa-play"></i>
+         </div>
+         <div>
+            <p className="text-[10px] font-bold opacity-80 uppercase tracking-widest">Now Playing</p>
+            <p className="font-black text-sm">About us</p>
+         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
       {/* HADITH 1 - Background: White */}
       <section className="bg-white py-24 border-b border-slate-100 relative overflow-hidden">
         <div className="absolute top-0 right-0 p-12 opacity-5 pointer-events-none">

@@ -75,7 +75,7 @@ const TopSocialBar = () => (
       <div className="flex items-center gap-8 font-light">
         <div className="flex items-center gap-2">
           <i className="fa-solid fa-shield-check text-[#07847F]"></i>
-          <span className="text-[#FFD700] font-bold uppercase">100% Tax Exempted NGO</span>
+          {/* <span className="text-[#FFD700] font-bold uppercase">100% Tax Exempted NGO</span> */}
         </div>
         <div className="flex items-center gap-2">
           <i className="fa-solid fa-envelope text-[#07847F]/70"></i>
@@ -223,7 +223,7 @@ const Footer = () => (
            <li className="flex gap-4"><i className="fa-solid fa-email text-[#07847F]"></i> <span>{CONTACT_INFO.email}</span></li>
         </ul>
       </div>
-      <div>
+      {/* <div>
         <h4 className="text-[#07847F] font-black text-[10px] uppercase tracking-[0.4em] mb-10">Registration</h4>
          <div className="flex items-center gap-2">
           <i className="fa-solid fa-shield-check text-[#07847F]"></i>
@@ -234,7 +234,7 @@ const Footer = () => (
             {num}
           </div>
         ))}
-      </div>
+      </div> */}
     </div>
     <div className="text-center text-[9px] font-black tracking-[0.4em] text-slate-500">
       © 2026 AASRA WELFARE SOCIETY. ALL RIGHTS RESERVED. <Link to="/admin" className="ml-4 hover:text-white">STAFF ACCESS</Link>

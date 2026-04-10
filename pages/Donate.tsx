@@ -8,15 +8,14 @@ const Donate: React.FC = () => {
 
   const handleCopyBankDetails = () => {
     const text = `
-🌟 AASRA WELFARE SOCIETY (Bank Details) 🌟
------------------------------------------
+🌟Bank Account Details🌟
+
 Bank Name: ${BANK_DETAILS.bankName}
 Title: ${BANK_DETAILS.accountTitle}
 Acc No: ${BANK_DETAILS.accountNumber}
 IBAN No: ${BANK_DETAILS.iban}
-
-"The believer’s shade on the Day of Resurrection will be their charity." (Tirmidhi)
------------------------------------------
+Branch Code: ${BANK_DETAILS.branch_code}
+Branch: ${BANK_DETAILS.branch}
     `.trim();
     navigator.clipboard.writeText(text);
     alert('✅ Bank details copied to clipboard!');
@@ -128,24 +127,43 @@ IBAN No: ${BANK_DETAILS.iban}
                     </div>
                   </div>
                   <img src={BankLogo} alt="bank logo" className="w-100 h-100 md:w-160 md:h-160 object-contain transition-all group-hover:scale-110 mb-4" />
-                  <div className="space-y-8 md:space-y-12 mb-10">
-                    <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
-                      <p className="text-[10px] md:text-[11px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 md:mb-4">Bank Name</p>
-                      <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none whitespace-nowrap">{BANK_DETAILS.bankName}</p>
-                    </div>
-                    <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
-                      <p className="text-[10px] md:text-[11px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 md:mb-4">Title</p>
-                      <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none whitespace-nowrap">{BANK_DETAILS.accountTitle}</p>
-                    </div>
-                    <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
-                      <p className="text-[10px] md:text-[11px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 md:mb-4">Acc No</p>
-                      <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none break-all select-all whitespace-nowrap">{BANK_DETAILS.accountNumber}</p>
-                    </div>
-                    <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all bg-sky-50/40 py-6 md:py-8 rounded-r-[2.5rem] md:rounded-r-[3rem] pr-6">
-                      <p className="text-[10px] md:text-[11px] font-black uppercase tracking-[0.3em] text-slate-400 mb-2 md:mb-4">IBAN No</p>
-                      <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none break-all select-all whitespace-nowrap">{BANK_DETAILS.iban}</p>
-                    </div>
-                  </div>
+               <div className="space-y-4 md:space-y-6 mb-10">
+                {/* Bank Name */}
+                <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
+                  <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.2em] text-slate-400 mb-1 md:mb-2">Bank Name</p>
+                  <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none whitespace-nowrap">{BANK_DETAILS.bankName}</p>
+                </div>
+
+                {/* Account Title */}
+                <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
+                  <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.2em] text-slate-400 mb-1 md:mb-2">Title</p>
+                  <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none whitespace-nowrap">{BANK_DETAILS.accountTitle}</p>
+                </div>
+
+                {/* Account Number */}
+                <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
+                  <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.2em] text-slate-400 mb-1 md:mb-2">Acc No</p>
+                  <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none break-all select-all whitespace-nowrap">{BANK_DETAILS.accountNumber}</p>
+                </div>
+
+                {/* IBAN - Highlighted Bottom */}
+                <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all bg-sky-50/40 py-4 md:py-3 rounded-r-[2.5rem] md:rounded-r-[3rem] pr-6">
+                  <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.2em] text-slate-400 mb-1 md:mb-2">IBAN No</p>
+                  <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none break-all select-all whitespace-nowrap">{BANK_DETAILS.iban}</p>
+                </div>
+
+                  {/* Branch Code - NEW */}
+                <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
+                  <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.2em] text-slate-400 mb-1 md:mb-2">Branch Code</p>
+                  <p className="text-xl md:text-3xl font-normal tracking-tight text-sky-900 leading-none whitespace-nowrap">{BANK_DETAILS.branch_code}</p>
+                </div>
+
+                {/* Branch Address - NEW */}
+                <div className="group border-l-4 border-slate-100 pl-4 md:pl-8 hover:border-[#07847F] transition-all">
+                  <p className="text-[10px] md:text-[12px] font-black uppercase tracking-[0.2em] text-slate-400 mb-1 md:mb-2">Branch Address</p>
+                  <p className="text-lg md:text-2xl font-normal tracking-tight text-sky-900 leading-tight">{BANK_DETAILS.branch}</p>
+                </div>
+              </div>
                   <div className="flex flex-col md:flex-row gap-4">
                     <button 
                       onClick={handleCopyBankDetails}
@@ -198,7 +216,7 @@ IBAN No: ${BANK_DETAILS.iban}
     {/* Right Side Button */}
     <div className="relative z-10 flex-shrink-0">
       <a
-        href="https://wa.me/923211112447?text=Assalamualaikum%20I%20have%20sent%20a%20donation.%20Please%20find%20my%20transaction%20receipt%20attached."
+        href="https://wa.me/923211112447?text=Assalamualaikum"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-4 bg-white text-emerald-700 px-10 py-5 rounded-full font-black tracking-wide uppercase text-sm hover:bg-green-500 hover:text-white transition-all duration-300 shadow-xl group"
