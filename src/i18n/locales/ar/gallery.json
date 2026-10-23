@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "شفافية بصرية وإثبات للعمل المنجز",
+    "title": "الأثر بالصور",
+    "subtitle": "شاهد التحول الحقيقي الذي أحدثه كرمك للأيتام والقرى التي تعاني من العطش والأسر المتضررة من الفيضانات."
+  },
+  "clickToView": "انقر للعرض",
+  "closeViewer": "إغلاق عارض الصور",
+  "previousImage": "الصورة السابقة",
+  "nextImage": "الصورة التالية",
+  "photoCounter": "صورة {{current}} من {{total}} • {{category}}",
+  "categories": {
+    "All": "الكل",
+    "Orphan Care": "رعاية الأيتام",
+    "Clean Water": "مياه نظيفة",
+    "Flood Relief": "إغاثة الفيضانات",
+    "Relief Work": "أعمال الإغاثة"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "الحياة في دار رعاية الأيتام",
+    "Learning Together": "التعلّم معًا",
+    "Shared Meals, Shared Family": "وجبات مشتركة، أسرة واحدة",
+    "Celebrating Achievements": "الاحتفال بالإنجازات",
+    "A Safe Place to Grow": "مكان آمن للنمو",
+    "School Days": "أيام الدراسة",
+    "Clean Water Handover": "تسليم مياه نظيفة",
+    "Hand Pump Installation": "تركيب مضخة يدوية",
+    "Water for Every Home": "مياه لكل بيت",
+    "Community Water Point": "نقطة مياه مجتمعية",
+    "Dua Ceremony at a New Well": "حفل دعاء عند بئر جديد",
+    "Flood Relief Response": "استجابة إغاثة الفيضانات",
+    "Assessing the Damage": "تقييم الأضرار",
+    "Emergency Aid Distribution": "توزيع المساعدات الطارئة",
+    "Standing With Flood-Hit Families": "الوقوف مع الأسر المتضررة من الفيضانات",
+    "Field Relief Operations": "عمليات الإغاثة الميدانية",
+    "Rebuilding After the Flood": "إعادة الإعمار بعد الفيضان",
+    "Community Outreach": "التواصل المجتمعي",
+    "Field Visit": "زيارة ميدانية",
+    "Serving the Community": "خدمة المجتمع",
+    "Relief Work in Progress": "أعمال إغاثة جارية"
+  }
+}

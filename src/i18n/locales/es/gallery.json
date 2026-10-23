@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Transparencia visual y prueba del trabajo realizado",
+    "title": "Impacto en imágenes",
+    "subtitle": "Sé testigo de la transformación real que tu generosidad ha traído a huérfanos, pueblos sin agua y familias afectadas por inundaciones."
+  },
+  "clickToView": "Haz clic para ver",
+  "closeViewer": "Cerrar visor de fotos",
+  "previousImage": "Imagen anterior",
+  "nextImage": "Siguiente imagen",
+  "photoCounter": "Foto {{current}} de {{total}} • {{category}}",
+  "categories": {
+    "All": "Todas",
+    "Orphan Care": "Cuidado de huérfanos",
+    "Clean Water": "Agua limpia",
+    "Flood Relief": "Ayuda ante inundaciones",
+    "Relief Work": "Trabajo de ayuda"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "La vida en el hogar de cuidado de huérfanos",
+    "Learning Together": "Aprendiendo juntos",
+    "Shared Meals, Shared Family": "Comidas compartidas, familia compartida",
+    "Celebrating Achievements": "Celebrando logros",
+    "A Safe Place to Grow": "Un lugar seguro para crecer",
+    "School Days": "Días de escuela",
+    "Clean Water Handover": "Entrega de agua limpia",
+    "Hand Pump Installation": "Instalación de bomba manual",
+    "Water for Every Home": "Agua para cada hogar",
+    "Community Water Point": "Punto de agua comunitario",
+    "Dua Ceremony at a New Well": "Ceremonia de dua en un nuevo pozo",
+    "Flood Relief Response": "Respuesta de ayuda ante inundaciones",
+    "Assessing the Damage": "Evaluando los daños",
+    "Emergency Aid Distribution": "Distribución de ayuda de emergencia",
+    "Standing With Flood-Hit Families": "Junto a las familias afectadas por inundaciones",
+    "Field Relief Operations": "Operaciones de ayuda sobre el terreno",
+    "Rebuilding After the Flood": "Reconstruyendo tras la inundación",
+    "Community Outreach": "Alcance comunitario",
+    "Field Visit": "Visita de campo",
+    "Serving the Community": "Sirviendo a la comunidad",
+    "Relief Work in Progress": "Trabajo de ayuda en curso"
+  }
+}

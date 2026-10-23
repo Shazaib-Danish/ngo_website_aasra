@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "badge": "Unisciti alla nostra famiglia di volontari",
+    "title": "Dona il tuo tempo. Cambia una vita.",
+    "subtitle": "Studenti, professionisti, genitori e pensionati: ogni competenza conta. Unisciti ai volontari AASRA che aiutano orfani, famiglie alluvionate e comunità in tutto il Pakistan.",
+    "cta": "Candidati come volontario",
+    "whatsapp": "Chiedi su WhatsApp",
+    "statValue": "Ogni ora conta",
+    "statLabel": "Impatto reale sul campo"
+  },
+  "why": {
+    "eyebrow": "Perché fare volontariato",
+    "title": "Più che aiutare. Appartenere.",
+    "perks": {
+      "impact": {
+        "title": "Impatto diretto",
+        "text": "Vedi il tuo impegno raggiungere orfani, famiglie e sfollati."
+      },
+      "certificate": {
+        "title": "Attestato",
+        "text": "Ricevi un attestato di volontariato e una referenza."
+      },
+      "community": {
+        "title": "Comunità",
+        "text": "Incontra persone che condividono i tuoi valori di Ihsan e servizio."
+      },
+      "flexible": {
+        "title": "Orari flessibili",
+        "text": "Aiuta sul posto o da remoto, nel weekend o poche ore al mese."
+      }
+    }
+  },
+  "steps": {
+    "title": "Come funziona",
+    "apply": {
+      "title": "Candidati online",
+      "text": "Compila il breve modulo, circa 2 minuti."
+    },
+    "call": {
+      "title": "Ti contattiamo",
+      "text": "Il nostro team ti contatta su WhatsApp o per telefono."
+    },
+    "start": {
+      "title": "Inizia ad aiutare",
+      "text": "Partecipa a un progetto adatto alle tue competenze e al tuo tempo."
+    }
+  },
+  "form": {
+    "eyebrow": "Registrazione volontari",
+    "title": "Parlaci di te",
+    "subtitle": "I campi contrassegnati da * sono obbligatori.",
+    "sections": {
+      "about": "I tuoi dati",
+      "skills": "Le tue competenze",
+      "more": "Altro"
+    },
+    "name": "Nome completo *",
+    "namePlaceholder": "es. Ayesha Malik",
+    "email": "Indirizzo e-mail *",
+    "emailPlaceholder": "ayesha@example.com",
+    "phone": "Numero di telefono *",
+    "phonePlaceholder": "+92 300 1234567",
+    "sameWhatsapp": "Uso questo numero su WhatsApp",
+    "whatsapp": "Numero WhatsApp *",
+    "skillsHint": "Seleziona quelle pertinenti (facoltativo) o aggiungine una tua.",
+    "otherSkillPlaceholder": "Altra competenza, es. Cucina",
+    "addSkill": "Aggiungi",
+    "removeSkill": "Rimuovi {{skill}}",
+    "additionalInfo": "Altre informazioni",
+    "additionalInfoPlaceholder": "La tua città, disponibilità, esperienze di volontariato, lingue parlate...",
+    "submit": "Invia candidatura",
+    "sending": "Invio...",
+    "error": "Spiacenti, non è stato possibile inviare la candidatura. Controlla la connessione e riprova, oppure scrivici su WhatsApp al {{whatsapp}}.",
+    "privacyNote": "I tuoi dati sono usati solo da AASRA per contattarti riguardo al volontariato."
+  },
+  "success": {
+    "title": "JazakAllah Khair!",
+    "text": "Abbiamo ricevuto la tua candidatura. Il nostro team ti contatterà presto su WhatsApp o per telefono.",
+    "explore": "Scopri i nostri programmi",
+    "another": "Registra un altro volontario"
+  },
+  "skills": {
+    "Teaching & Tutoring": "Insegnamento e ripetizioni",
+    "Medical & Healthcare": "Medicina e sanità",
+    "Social Media & Design": "Social media e design",
+    "Photography & Video": "Foto e video",
+    "Fundraising": "Raccolta fondi",
+    "Event Management": "Organizzazione eventi",
+    "IT & Web Development": "Informatica e web",
+    "Logistics & Distribution": "Logistica e distribuzione",
+    "Translation": "Traduzione",
+    "Field Work": "Lavoro sul campo"
+  }
+}

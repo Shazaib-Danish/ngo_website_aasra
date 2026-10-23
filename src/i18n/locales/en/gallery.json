@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Visual Transparency & Proof of Work",
+    "title": "Impact in Pictures",
+    "subtitle": "Witness the real-life transformation brought by your generosity to orphans, water-starved villages, and flood-affected families."
+  },
+  "clickToView": "Click to view",
+  "closeViewer": "Close photo viewer",
+  "previousImage": "Previous image",
+  "nextImage": "Next image",
+  "photoCounter": "Photo {{current}} of {{total}} • {{category}}",
+  "categories": {
+    "All": "All",
+    "Orphan Care": "Orphan Care",
+    "Clean Water": "Clean Water",
+    "Flood Relief": "Flood Relief",
+    "Relief Work": "Relief Work"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "Life at the Orphan Care Home",
+    "Learning Together": "Learning Together",
+    "Shared Meals, Shared Family": "Shared Meals, Shared Family",
+    "Celebrating Achievements": "Celebrating Achievements",
+    "A Safe Place to Grow": "A Safe Place to Grow",
+    "School Days": "School Days",
+    "Clean Water Handover": "Clean Water Handover",
+    "Hand Pump Installation": "Hand Pump Installation",
+    "Water for Every Home": "Water for Every Home",
+    "Community Water Point": "Community Water Point",
+    "Dua Ceremony at a New Well": "Dua Ceremony at a New Well",
+    "Flood Relief Response": "Flood Relief Response",
+    "Assessing the Damage": "Assessing the Damage",
+    "Emergency Aid Distribution": "Emergency Aid Distribution",
+    "Standing With Flood-Hit Families": "Standing With Flood-Hit Families",
+    "Field Relief Operations": "Field Relief Operations",
+    "Rebuilding After the Flood": "Rebuilding After the Flood",
+    "Community Outreach": "Community Outreach",
+    "Field Visit": "Field Visit",
+    "Serving the Community": "Serving the Community",
+    "Relief Work in Progress": "Relief Work in Progress"
+  }
+}

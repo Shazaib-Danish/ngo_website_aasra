@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "badge": "Rejoignez notre famille de bénévoles",
+    "title": "Donnez de votre temps. Changez une vie.",
+    "subtitle": "Étudiants, professionnels, parents ou retraités : chaque compétence compte. Rejoignez les bénévoles d’AASRA qui aident orphelins, familles sinistrées et communautés à travers le Pakistan.",
+    "cta": "Devenir bénévole",
+    "whatsapp": "Demander sur WhatsApp",
+    "statValue": "Chaque heure compte",
+    "statLabel": "Un impact réel sur le terrain"
+  },
+  "why": {
+    "eyebrow": "Pourquoi devenir bénévole",
+    "title": "Plus qu’aider. Appartenir.",
+    "perks": {
+      "impact": {
+        "title": "Impact direct",
+        "text": "Voyez votre engagement atteindre orphelins, familles et sinistrés."
+      },
+      "certificate": {
+        "title": "Certificat",
+        "text": "Recevez un certificat de bénévolat et une recommandation."
+      },
+      "community": {
+        "title": "Communauté",
+        "text": "Rencontrez des personnes qui partagent vos valeurs d’Ihsan et de service."
+      },
+      "flexible": {
+        "title": "Horaires flexibles",
+        "text": "Aidez sur place ou à distance, le week-end ou quelques heures par mois."
+      }
+    }
+  },
+  "steps": {
+    "title": "Comment ça marche",
+    "apply": {
+      "title": "Postulez en ligne",
+      "text": "Remplissez le court formulaire, environ 2 minutes."
+    },
+    "call": {
+      "title": "Nous vous contactons",
+      "text": "Notre équipe vous contacte sur WhatsApp ou par téléphone."
+    },
+    "start": {
+      "title": "Passez à l’action",
+      "text": "Rejoignez un projet adapté à vos compétences et à votre temps."
+    }
+  },
+  "form": {
+    "eyebrow": "Inscription bénévole",
+    "title": "Parlez-nous de vous",
+    "subtitle": "Les champs marqués * sont obligatoires.",
+    "sections": {
+      "about": "Vos coordonnées",
+      "skills": "Vos compétences",
+      "more": "Autres informations"
+    },
+    "name": "Nom complet *",
+    "namePlaceholder": "ex. Ayesha Malik",
+    "email": "Adresse e-mail *",
+    "emailPlaceholder": "ayesha@example.com",
+    "phone": "Numéro de téléphone *",
+    "phonePlaceholder": "+92 300 1234567",
+    "sameWhatsapp": "J’utilise ce numéro sur WhatsApp",
+    "whatsapp": "Numéro WhatsApp *",
+    "skillsHint": "Sélectionnez celles qui vous correspondent (facultatif) ou ajoutez la vôtre.",
+    "otherSkillPlaceholder": "Autre compétence, ex. Cuisine",
+    "addSkill": "Ajouter",
+    "removeSkill": "Retirer {{skill}}",
+    "additionalInfo": "Autres informations",
+    "additionalInfoPlaceholder": "Votre ville, vos disponibilités, expériences de bénévolat, langues parlées...",
+    "submit": "Envoyer ma candidature",
+    "sending": "Envoi...",
+    "error": "Désolé, votre candidature n'a pas pu être envoyée. Vérifiez votre connexion et réessayez, ou écrivez-nous sur WhatsApp au {{whatsapp}}.",
+    "privacyNote": "Vos informations sont utilisées uniquement par AASRA pour vous contacter au sujet du bénévolat."
+  },
+  "success": {
+    "title": "JazakAllah Khair !",
+    "text": "Votre candidature a bien été reçue. Notre équipe vous contactera bientôt sur WhatsApp ou par téléphone.",
+    "explore": "Découvrir nos programmes",
+    "another": "Inscrire un autre bénévole"
+  },
+  "skills": {
+    "Teaching & Tutoring": "Enseignement et soutien scolaire",
+    "Medical & Healthcare": "Médical et santé",
+    "Social Media & Design": "Réseaux sociaux et design",
+    "Photography & Video": "Photo et vidéo",
+    "Fundraising": "Collecte de fonds",
+    "Event Management": "Organisation d’événements",
+    "IT & Web Development": "Informatique et web",
+    "Logistics & Distribution": "Logistique et distribution",
+    "Translation": "Traduction",
+    "Field Work": "Travail de terrain"
+  }
+}

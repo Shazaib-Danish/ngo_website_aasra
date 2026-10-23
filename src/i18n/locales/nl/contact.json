@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "badge": "Wij staan altijd voor u klaar",
+    "title": "Neem contact op",
+    "subtitle": "Assalam-o-Alaikum! Heeft u vragen over het sponsoren van wezen, het opdragen van een schoonwaterput, of vrijwilligerswerk? Neem contact op met ons toegewijde team."
+  },
+  "intentChips": {
+    "Sponsor an Orphan": "Sponsor een wees",
+    "Water Well Dedication": "Opdracht waterput",
+    "Volunteer / Ambassador": "Vrijwilliger / Ambassadeur",
+    "Zakat Inquiries": "Vragen over Zakat",
+    "General Question": "Algemene vraag"
+  },
+  "inquiryPrefill": "Vraag over: {{chip}}",
+  "contactPoints": {
+    "headquarters": {
+      "label": "Hoofdkantoor",
+      "action": "Kaart openen"
+    },
+    "helpline": {
+      "label": "Hulplijn & vragen",
+      "action": "Nu bellen"
+    },
+    "email": {
+      "label": "Officiële e-mail",
+      "action": "E-mail ons"
+    },
+    "whatsapp": {
+      "label": "WhatsApp-hulplijn",
+      "action": "Live chatten"
+    }
+  },
+  "map": {
+    "openInMaps": "Openen in Maps"
+  },
+  "form": {
+    "eyebrow": "Direct bericht",
+    "title": "Hoe kunnen wij u helpen?",
+    "selectReason": "Selecteer de reden van uw vraag:",
+    "fullName": "Uw volledige naam *",
+    "fullNamePlaceholder": "bijv. Abdullah Khan",
+    "email": "E-mailadres *",
+    "emailPlaceholder": "abdullah@example.com",
+    "phone": "Telefoon-/WhatsAppnummer",
+    "phonePlaceholder": "+92 300 1234567",
+    "subject": "Onderwerp *",
+    "message": "Uw bericht *",
+    "messagePlaceholder": "Deel eventuele details of vragen...",
+    "submit": "Bericht naar team versturen",
+    "privacyNote": "Wij respecteren uw privacy. Vragen worden rechtstreeks behandeld door onze uitvoerend directeuren.",
+    "sending": "Verzenden...",
+    "error": "Sorry, je bericht kon niet worden verzonden. Controleer je verbinding en probeer het opnieuw, of stuur ons een WhatsApp op {{whatsapp}}."
+  },
+  "success": {
+    "title": "Dank u!",
+    "text": "Je bericht is bij ons team aangekomen. We reageren meestal binnen 24–48 uur. Voor een sneller antwoord kun je ons een WhatsApp sturen op {{whatsapp}}.",
+    "sendAnother": "Nog een vraag versturen"
+  },
+  "volunteerPrompt": "Wil je vrijwilliger worden? Vul dan ons vrijwilligersformulier in"
+}

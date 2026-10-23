@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "badge": "Siamo sempre qui per assisterti",
+    "title": "Mettiti in contatto",
+    "subtitle": "Assalam-o-Alaikum! Hai domande sulla sponsorizzazione di orfani, sulla dedica di un pozzo d'acqua pulita o sul volontariato? Contatta il nostro team dedicato."
+  },
+  "intentChips": {
+    "Sponsor an Orphan": "Sponsorizza un orfano",
+    "Water Well Dedication": "Dedica di un pozzo d'acqua",
+    "Volunteer / Ambassador": "Volontario / Ambasciatore",
+    "Zakat Inquiries": "Domande sullo Zakat",
+    "General Question": "Domanda generale"
+  },
+  "inquiryPrefill": "Richiesta riguardante: {{chip}}",
+  "contactPoints": {
+    "headquarters": {
+      "label": "Sede centrale",
+      "action": "Apri mappa"
+    },
+    "helpline": {
+      "label": "Assistenza e richieste",
+      "action": "Chiama ora"
+    },
+    "email": {
+      "label": "Email ufficiale",
+      "action": "Scrivici"
+    },
+    "whatsapp": {
+      "label": "Assistenza WhatsApp",
+      "action": "Chatta dal vivo"
+    }
+  },
+  "map": {
+    "openInMaps": "Apri in Maps"
+  },
+  "form": {
+    "eyebrow": "Messaggio diretto",
+    "title": "Come possiamo aiutarti?",
+    "selectReason": "Seleziona il motivo della richiesta:",
+    "fullName": "Il tuo nome completo *",
+    "fullNamePlaceholder": "es. Abdullah Khan",
+    "email": "Indirizzo email *",
+    "emailPlaceholder": "abdullah@example.com",
+    "phone": "Numero di telefono / WhatsApp",
+    "phonePlaceholder": "+92 300 1234567",
+    "subject": "Oggetto *",
+    "message": "Il tuo messaggio *",
+    "messagePlaceholder": "Condividi eventuali dettagli o domande...",
+    "submit": "Invia messaggio al team",
+    "privacyNote": "Rispettiamo la tua privacy. Le richieste sono gestite direttamente dai nostri direttori esecutivi.",
+    "sending": "Invio...",
+    "error": "Spiacenti, non è stato possibile inviare il messaggio. Controlla la connessione e riprova, oppure scrivici su WhatsApp al {{whatsapp}}."
+  },
+  "success": {
+    "title": "Grazie!",
+    "text": "Il tuo messaggio è arrivato al nostro team. Di solito rispondiamo entro 24–48 ore. Per risposte più rapide, scrivici su WhatsApp al {{whatsapp}}.",
+    "sendAnother": "Invia un'altra richiesta"
+  },
+  "volunteerPrompt": "Vuoi fare volontariato? Compila il nostro modulo volontari"
+}

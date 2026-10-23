@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "badge": "A nossa origem e compromisso",
+    "title": "Restaurando Esperança e Dignidade",
+    "quote": "\"Servir a humanidade com Ihsan, gestão ética e transparência radical.\""
+  },
+  "story": {
+    "eyebrow": "A nossa jornada",
+    "title": "De um começo humilde a uma tábua de salvação nacional",
+    "paragraph1": "A Aasra Welfare Society foi fundada em 2021 em Lahore, Paquistão, com uma convicção profundamente pessoal: nenhum órfão deveria alguma vez sentir-se abandonado, não amado ou sem educação.",
+    "paragraph2": "O que começou com um punhado de crianças numa casa modesta cresceu para se tornar uma sociedade de assistência de grande impacto. Combinamos o apadrinhamento de órfãos a longo prazo com poços de água de emergência e ajuda em catástrofes, operando com 100% de responsabilização direta."
+  },
+  "timeline": {
+    "title": "Marcos principais",
+    "items": {
+      "1": {
+        "year": "2021",
+        "badge": "Fundação",
+        "title": "A fundação em Lahore",
+        "text": "Fundada em Lahore com uma missão sentida: resgatar crianças órfãs da indigência, proporcionando abrigo completo, cuidado familiar e escolaridade formal."
+      },
+      "2": {
+        "year": "2022–2024",
+        "badge": "Sadaqah Jariyah",
+        "title": "Expansão da água limpa",
+        "text": "Lançámos a nossa iniciativa dedicada de instalação de bombas manuais em aldeias carenciadas do Punjab, ultrapassando 170+ projetos de água limpa com placas de dedicatória individuais para doadores."
+      },
+      "3": {
+        "year": "2025–Presente",
+        "badge": "Ajuda em catástrofes",
+        "title": "Ajuda de emergência em inundações e resposta rápida",
+        "text": "Mobilização de equipas de resposta de emergência no terreno durante inundações catastróficas no sul do Punjab e Sindh, entregando tendas impermeáveis, rações alimentares, água limpa e reabilitação."
+      }
+    }
+  },
+  "vision": {
+    "title": "A nossa visão",
+    "text": "Uma sociedade compassiva e equitativa onde os órfãos prosperam, a água potável limpa é acessível a cada lar rural, e nenhuma família dorme com fome."
+  },
+  "mission": {
+    "title": "A nossa missão",
+    "text": "Fornecer serviços de assistência holísticos através de educação formadora de caráter, infraestrutura permanente de água limpa e distribuição de emergência transparente."
+  },
+  "imageAlts": {
+    "students": "Estudantes do lar de acolhimento de órfãos da AASRA",
+    "waterHandover": "Entrega de água limpa"
+  },
+  "commitmentBox": {
+    "eyebrow": "Gestão ética",
+    "title": "Garantia de política a 100%",
+    "text": "A Aasra Welfare Society não deduz despesas administrativas dos seus donativos de caridade designados. Cada rupia chega diretamente às crianças e aos projetos no terreno."
+  },
+  "registrations": {
+    "eyebrow": "Verificação legal",
+    "title": "ONG oficialmente registada e verificada",
+    "subtitle": "Totalmente em conformidade com os estatutos paquistaneses para organizações sem fins lucrativos, regulamentos de bem-estar social e auditorias da comissão de caridade.",
+    "items": {
+      "1": {
+        "authority": "Governo do Punjab",
+        "label": "Bem-Estar Social e Bait-ul-Maal",
+        "status": "Verificado e ativo"
+      },
+      "2": {
+        "authority": "Comissão de Caridade do Punjab",
+        "label": "Registo oficial",
+        "status": "Auditado e em conformidade"
+      },
+      "3": {
+        "authority": "Autoridade Federal de Receitas (FBR)",
+        "label": "Número Fiscal Nacional (NTN)",
+        "status": "Organização sem fins lucrativos isenta de impostos"
+      }
+    },
+    "exploreCta": "Explore os nossos programas em ação"
+  }
+}

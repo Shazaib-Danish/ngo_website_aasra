@@ -1,0 +1,193 @@
+{
+  "hero": {
+    "badge": "Serving with Ihsan Since 2021 • Registered NGO",
+    "donateNow": "Donate Now",
+    "explorePrograms": "Explore 4 Programs",
+    "slides": {
+      "orphan-care": {
+        "eyebrow": "Sponsor an Orphan",
+        "title": "Give a Child Back Their",
+        "highlight": "Childhood & Their Future",
+        "subtitle": "Full boarding, quality schooling, healthcare and a loving home for 32+ orphaned children. For ₨30,000 a month, you can sponsor a child's entire future."
+      },
+      "clean-water": {
+        "eyebrow": "Install a Water Point",
+        "title": "Turn Thirst Into",
+        "highlight": "Lasting Hope",
+        "subtitle": "One dedicated hand pump brings safe, clean water to 40+ families for years to come. Install a water point today as an everlasting Sadaqah Jariyah."
+      }
+    }
+  },
+  "stats": {
+    "orphanCare": "Orphan Care",
+    "orphanCareDesc": "Children in Full Boarding & Schooling",
+    "lahoreHome": "Lahore Home",
+    "ongoingCare": "Ongoing Care",
+    "cleanWater": "Clean Water",
+    "waterDesc": "Hand Pumps Installed in Rural Punjab",
+    "numberedPlaques": "Numbered Plaques",
+    "sadaqahJariyah": "Sadaqah Jariyah",
+    "foodRelief": "Food Relief",
+    "foodDesc": "Ration Bags & Hot Meals Distributed",
+    "widowsNeedy": "Widows & Needy",
+    "directHandover": "Direct Handover",
+    "totalBeneficiaries": "Total Beneficiaries",
+    "beneficiariesDesc": "Human Lives Reached & Uplifted",
+    "punjabSindh": "Punjab & Sindh",
+    "audited": "Audited"
+  },
+  "sponsorship": {
+    "eyebrow": "Orphan Sponsorship",
+    "title": "Sponsor a Child's",
+    "titleHighlight": "Entire Future",
+    "subtitle": "One monthly sponsorship covers a child's schooling, nutrition and a safe, loving home at our Lahore orphanage.",
+    "perMonth": "/ month per child",
+    "imageBadge": "Fully Transparent",
+    "imageCaption": "Every rupee accounted for",
+    "includesLabel": "Includes",
+    "fxNote": "EUR & USD amounts are approximate and vary with exchange rates.",
+    "cta": "Sponsor a Child",
+    "ctaSecondary": "Talk to Us",
+    "learnMore": "Learn More",
+    "categories": {
+      "education": {
+        "title": "Education",
+        "items": ["Private School", "School Van", "Home Tuition", "Stationery", "Tajweed & Quran Translation"]
+      },
+      "food": {
+        "title": "Food",
+        "items": ["3 Meals Daily", "Organic Meals", "Weekly Fast Food", "Fresh Fruits"]
+      },
+      "other": {
+        "title": "Home & Care",
+        "items": ["Rented House", "Utility Bills", "Caretakers & Chefs", "Weekly Doctor Visit", "Martial Arts Classes"]
+      }
+    }
+  },
+  "about": {
+    "yearsOfService": "Years of Service",
+    "registeredLine": "Registered in Lahore, serving all Pakistan",
+    "govtCertified": "Govt. Certified Non-Profit",
+    "eyebrow": "Who We Are",
+    "titleLine1": "Restoring hope,",
+    "titleLine2": "preserving human dignity.",
+    "paragraph": "Founded in Lahore in 2021, Aasra Welfare Society began with an unwavering conviction: that every orphaned child and impoverished family deserves equal access to safety, clean water, education, and compassion.",
+    "pillar1Title": "Serving with Ihsan",
+    "pillar1Text": "Excellence in every ration delivered, every well installed, and every orphan raised.",
+    "pillar2Title": "100% Transparency",
+    "pillar2Text": "Direct photographic and location documentation provided to donors for every project.",
+    "learnMoreLink": "Learn about our mission, leadership & registrations"
+  },
+  "donateSection": {
+    "eyebrow": "Easy & Verified Giving",
+    "title": "How to Send Your Donation",
+    "subtitle": "We offer multiple transparent, 100% verified avenues to contribute your Sadaqah, Zakat, and donations from Pakistan and across the world.",
+    "card1": {
+      "badgeShort": "01",
+      "badgeFull": "Option 01 • Instant",
+      "title": "Online Donation",
+      "descShort": "Donate via Credit/Debit Card or Direct Transfer.",
+      "descFull": "Donate via Credit / Debit Card (Visa, MasterCard, Apple Pay) or direct Bank Makramah transfer with instant receipt.",
+      "accountLabel": "Direct Account:",
+      "ctaShort": "Donate Now",
+      "ctaFull": "Donate Online Now"
+    },
+    "card2": {
+      "badgeShort": "02",
+      "badgeFull": "Option 02 • Fast",
+      "title": "Mobile Wallets & Raast",
+      "desc": "Transfer instantly from your EasyPaisa, JazzCash, or Raast instant pay ID with zero transaction deductions.",
+      "ibanLabel": "IBAN / Raast:",
+      "titleLabel": "Title:",
+      "ctaShort": "Wallet Guide",
+      "ctaFull": "View Wallet Guide"
+    },
+    "card3": {
+      "badgeShort": "03",
+      "badgeFull": "Option 03 • Cheque",
+      "title": "Pay Cheque via Mail",
+      "descPrefix": "Make a crossed cheque payable to",
+      "descQuoted": "Aasra Welfare Society",
+      "descSuffix": "and mail it directly to our registered Lahore office.",
+      "addressLabel": "Mailing Address:",
+      "ctaShort": "Copy Address",
+      "ctaFull": "Copy Office Address",
+      "ctaCopiedShort": "Copied!",
+      "ctaCopiedFull": "Address Copied!"
+    },
+    "card4": {
+      "badgeShort": "04",
+      "badgeFull": "Option 04 • Pickup",
+      "title": "Doorstep Pickup",
+      "desc": "Our authorized representative will personally visit your home or office in Lahore to collect cash or cheque with an official receipt.",
+      "coverageLabel": "Coverage:",
+      "coverageValue": "Lahore City & Suburbs",
+      "receiptNote": "✓ Stamped Receipt Issued on Spot",
+      "ctaShort": "Request Pickup",
+      "ctaFull": "Request Pickup on WhatsApp"
+    }
+  },
+  "quote": {
+    "text": "\"The example of those who spend their wealth in the way of Allah is like a seed of grain which grows seven ears; in each ear is a hundred grains.\"",
+    "reference": "Surah Al-Baqarah 2:261"
+  },
+  "programsSection": {
+    "eyebrow": "Our Core Programs",
+    "title": "Transformative Action in the Field",
+    "viewAll": "View All 4 Impact Areas",
+    "funded": "% Funded",
+    "raised": "Raised:",
+    "goal": "Goal:",
+    "details": "Details",
+    "sponsor": "Sponsor →"
+  },
+  "zakatSection": {
+    "badge": "3rd Pillar of Islam • 2.5% Purification",
+    "title": "Purify Your Wealth with the AASRA Zakat Fund",
+    "text": "100% of your Zakat goes directly to verified eligible (Mustahiq) orphans, widows, and families living in extreme poverty across Pakistan, strictly adhering to Sharia principles.",
+    "nisabLabel": "Silver Nisab Benchmark (612.36g):",
+    "nisabNote": "If your net savings exceed this threshold for one lunar year, Zakat is due at 2.5%.",
+    "calculatorCta": "Open Interactive Zakat Calculator",
+    "donateCta": "Donate Zakat Directly",
+    "imageCaptionTitle": "Direct Beneficiary Allocation",
+    "imageCaptionText": "Zero intermediary deductions"
+  },
+  "achievementsSection": {
+    "eyebrow": "Documented Progress",
+    "title": "Major Milestones & Recognition",
+    "verifiedMilestone": "Verified Milestone",
+    "items": {
+      "1": {
+        "title": "Clean Water Project Inauguration",
+        "text": "Community dua ceremony marking the handover of a new hand pump, one of over 170 water points installed by AASRA across Punjab."
+      },
+      "2": {
+        "title": "Wheelchair Distribution Recognition",
+        "text": "Recognised alongside allied welfare organisations for distributing wheelchairs to persons with disabilities in flood-affected communities."
+      },
+      "3": {
+        "title": "Annual Result & Achievement Day",
+        "text": "Our orphan students were celebrated for their academic achievements at the annual result day ceremony, held with games, prizes and gifts."
+      }
+    }
+  },
+  "reviewsSection": {
+    "eyebrow": "Voices From Our Community",
+    "title": "What Visitors & Donors Say",
+    "ratingLabel": "Rated by visitors & donors on Google",
+    "readAll": "Read All Reviews on Google"
+  },
+  "gallerySection": {
+    "eyebrow": "Transparency in Pictures",
+    "title": "Moments of Hope",
+    "exploreLink": "Explore Complete 50+ Photo Gallery",
+    "viewInGallery": "View in Gallery"
+  },
+  "volunteerSection": {
+    "eyebrow": "Become a Change-Maker",
+    "title": "Lend Your Skills, Heart & Voice to AASRA",
+    "text": "Whether you are a student, medical professional, educator, or digital creator, you can join our network of selfless ambassadors driving real change.",
+    "registerCta": "Register as Volunteer",
+    "whatsappCta": "Inquire on WhatsApp"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "seo": {
+    "title": "Sponsor an Orphan – PKR 30,000/Month | Aasra Welfare Society",
+    "description": "Sponsor an orphan child in Lahore for PKR 30,000 (≈ €95 / $107) a month. See exactly how your sponsorship covers education, food and a safe home – a fully transparent breakdown.",
+    "keywords": "sponsor an orphan Pakistan, orphan sponsorship Lahore, monthly child sponsorship, orphan sponsorship cost, Aasra Welfare Society sponsorship"
+  },
+  "breadcrumbHome": "Home",
+  "breadcrumbCurrent": "Orphan Sponsorship",
+  "hero": {
+    "eyebrow": "Monthly Orphan Sponsorship",
+    "title": "Sponsor a Child,",
+    "titleHighlight": "Change a Whole Life",
+    "subtitle": "Your monthly sponsorship gives one orphaned child quality schooling, three nutritious meals a day and a safe, loving home at our Lahore orphanage – with every rupee transparently accounted for.",
+    "priceLabel": "Total sponsorship per child",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "perMonth": "/ month",
+    "perYear": "/ year",
+    "approx": "Approximate value",
+    "ctaPrimary": "Sponsor a Child",
+    "ctaWhatsapp": "Ask on WhatsApp",
+    "trust1": "Govt. Registered",
+    "trust2": "100% Transparent",
+    "trust3": "Lahore Home"
+  },
+  "nav": {
+    "label": "On this page",
+    "overview": "Overview",
+    "breakdown": "Full Breakdown",
+    "life": "Life at the Home",
+    "how": "How to Sponsor",
+    "faq": "FAQs"
+  },
+  "overview": {
+    "eyebrow": "Where your money goes",
+    "title": "One Sponsorship, Three Essentials",
+    "subtitle": "A transparent look at how one child's monthly sponsorship is allocated.",
+    "total": "Total",
+    "ofTotal": "of total"
+  },
+  "categories": {
+    "education": {
+      "title": "Education",
+      "tagline": "Schooling, tuition & Islamic learning",
+      "items": {
+        "school": { "label": "Private School", "desc": "Monthly fee at a quality private school" },
+        "van": { "label": "School Van", "desc": "Safe daily pick & drop to school" },
+        "tuition": { "label": "Home Tuition", "desc": "After-school tutoring for homework & exams" },
+        "stationery": { "label": "Stationery", "desc": "Books, copies & supplies every month" },
+        "islamic": { "label": "Islamic Education", "desc": "Tajweed Quran & Quran Translation classes" }
+      },
+      "sub": {
+        "tajweed": "Tajweed Quran",
+        "translation": "Quran Translation"
+      }
+    },
+    "food": {
+      "title": "Food",
+      "tagline": "Healthy, balanced nutrition every day",
+      "items": {
+        "meals": { "label": "3 Meals Daily", "desc": "Breakfast, lunch & dinner – every single day" },
+        "organic": { "label": "Organic Meals", "desc": "Fresh, home-cooked, wholesome food" },
+        "fastfood": { "label": "Weekly Fast Food", "desc": "A treat the children look forward to once a week" },
+        "fruits": { "label": "Fresh Fruits", "desc": "Seasonal fruits every 2–3 days" }
+      }
+    },
+    "other": {
+      "title": "Home & Care",
+      "tagline": "A safe home, utilities & dedicated staff",
+      "items": {
+        "house": { "label": "Rented House", "desc": "A 10 Marla home where the children live together" },
+        "utilities": { "label": "Utility Bills", "desc": "Electricity, gas & water" },
+        "staff": { "label": "Staff Salaries", "desc": "The team that cares for the children every day" }
+      },
+      "staff": {
+        "chefs": "2 Chefs",
+        "maids": "3 Maids",
+        "doctor": "Weekly Doctor Visit",
+        "driver": "Van Driver",
+        "accountant": "Accountant",
+        "martial": "Martial Arts Instructor"
+      }
+    }
+  },
+  "breakdown": {
+    "eyebrow": "Complete breakdown",
+    "title": "Every Rupee, Accounted For",
+    "subtitle": "Tap a category to see exactly what it covers. Switch currency anytime.",
+    "includes": "Included",
+    "showDetails": "Show details",
+    "hideDetails": "Hide details",
+    "currency": "Currency"
+  },
+  "life": {
+    "eyebrow": "Life at the home",
+    "title": "What Your Sponsorship Builds",
+    "points": {
+      "learn": { "title": "Learning", "text": "School, tuition and Quran classes build a strong future." },
+      "nourish": { "title": "Nourishment", "text": "Three wholesome meals, fresh fruit and a weekly treat." },
+      "health": { "title": "Health", "text": "A doctor visits the home every week." },
+      "confidence": { "title": "Confidence", "text": "Martial arts classes build discipline and self-belief." }
+    }
+  },
+  "how": {
+    "eyebrow": "Simple & secure",
+    "title": "How to Sponsor in 3 Steps",
+    "steps": {
+      "1": { "title": "Choose to Sponsor", "text": "Decide to sponsor one child (or more) for PKR 30,000 a month." },
+      "2": { "title": "Transfer Monthly", "text": "Send your sponsorship to our registered bank account below, or donate online." },
+      "3": { "title": "Receive Receipt & Updates", "text": "Share your transfer receipt on WhatsApp. You'll receive an official donation receipt, along with weekly and monthly progress updates with photos and videos." }
+    },
+    "bankTitle": "Bank Transfer Details",
+    "bankName": "Bank",
+    "accountTitle": "Account Title",
+    "accountNumber": "Account Number",
+    "iban": "IBAN",
+    "branch": "Branch",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "donateOnline": "Donate Online",
+    "whatsappReceipt": "Send Receipt on WhatsApp"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Frequently Asked Questions",
+    "items": [
+      { "q": "What does PKR 30,000 a month cover?", "a": "It covers one child's complete monthly needs: Education (PKR 10,000), Food (PKR 9,000) and Home & Care (PKR 11,000) – including school, tuition, Quran classes, three meals a day, housing, utilities and the staff who look after the children." },
+      { "q": "Why are the Euro and Dollar amounts approximate?", "a": "Our sponsorship is set in Pakistani Rupees. Euro and Dollar values are shown for convenience and change with exchange rates, so the exact amount may differ slightly." },
+      { "q": "Can I sponsor more than one child?", "a": "Yes. Simply multiply the monthly amount by the number of children you wish to sponsor, and let us know on WhatsApp so we can confirm." },
+      { "q": "How do I make my monthly payment?", "a": "You can transfer to our registered bank account (details on this page) or use the online donation page. Please share your receipt with us on WhatsApp after each transfer." },
+      { "q": "Is Aasra Welfare Society a registered organization?", "a": "Yes. We are registered with the Government of Punjab, the Punjab Charity Commission and the FBR." }
+    ]
+  },
+  "finalCta": {
+    "title": "Be the Reason a Child Smiles Every Day",
+    "text": "PKR 30,000 a month gives one orphaned child education, nourishment and a safe home.",
+    "primary": "Sponsor a Child Now",
+    "secondary": "Contact Us"
+  },
+  "fxNote": "EUR & USD values are approximate (≈ PKR {{eur}} per Euro, ≈ PKR {{usd}} per Dollar) and may vary with exchange rates."
+}

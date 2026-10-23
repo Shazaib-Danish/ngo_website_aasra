@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Transparência visual e prova do trabalho realizado",
+    "title": "Impacto em imagens",
+    "subtitle": "Testemunhe a transformação real trazida pela sua generosidade a órfãos, aldeias sem água e famílias afetadas por inundações."
+  },
+  "clickToView": "Clique para ver",
+  "closeViewer": "Fechar visualizador de fotos",
+  "previousImage": "Imagem anterior",
+  "nextImage": "Imagem seguinte",
+  "photoCounter": "Foto {{current}} de {{total}} • {{category}}",
+  "categories": {
+    "All": "Todas",
+    "Orphan Care": "Cuidado de órfãos",
+    "Clean Water": "Água limpa",
+    "Flood Relief": "Ajuda em inundações",
+    "Relief Work": "Trabalho de assistência"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "A vida no lar de acolhimento de órfãos",
+    "Learning Together": "Aprender juntos",
+    "Shared Meals, Shared Family": "Refeições partilhadas, família partilhada",
+    "Celebrating Achievements": "A celebrar conquistas",
+    "A Safe Place to Grow": "Um lugar seguro para crescer",
+    "School Days": "Dias de escola",
+    "Clean Water Handover": "Entrega de água limpa",
+    "Hand Pump Installation": "Instalação de bomba manual",
+    "Water for Every Home": "Água para cada lar",
+    "Community Water Point": "Ponto de água comunitário",
+    "Dua Ceremony at a New Well": "Cerimónia de dua num novo poço",
+    "Flood Relief Response": "Resposta de ajuda a inundações",
+    "Assessing the Damage": "A avaliar os danos",
+    "Emergency Aid Distribution": "Distribuição de ajuda de emergência",
+    "Standing With Flood-Hit Families": "Ao lado das famílias afetadas por inundações",
+    "Field Relief Operations": "Operações de assistência no terreno",
+    "Rebuilding After the Flood": "A reconstruir após a inundação",
+    "Community Outreach": "Ação comunitária",
+    "Field Visit": "Visita ao terreno",
+    "Serving the Community": "Ao serviço da comunidade",
+    "Relief Work in Progress": "Trabalho de assistência em curso"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "badge": "100% direct-hulpbeleid • Geen verlies aan tussenpersonen",
+    "titlePrefix": "Investeer in uw",
+    "titleHighlight": "eeuwige toekomst",
+    "subtitle": "Uw Sadaqah en Zakat voorzien wezen en gezinnen in de diepste nood in heel Pakistan van voedsel, onderwijs, schoon water en onderdak."
+  },
+  "preSelected": {
+    "label": "Vooraf geselecteerde bijdrage",
+    "defaultCause": "Geselecteerd doel",
+    "note": "Ga hieronder verder met kaart of directe overschrijving naar Bank Makramah."
+  },
+  "tiers": {
+    "eyebrow": "Richtprijzen",
+    "title": "Geverifieerde sponsorpakketten",
+    "swipeHint": "Veeg horizontaal om te verkennen"
+  },
+  "gatewaySelector": {
+    "bank": "Directe bank & mobiele wallets",
+    "card": "Online kaart (wereldwijd)"
+  },
+  "bankPortal": {
+    "eyebrow": "Lokaal & digitaal bankieren",
+    "title": "Directe bankoverschrijving",
+    "bankLogoAlt": "Bank Makramah",
+    "description": "Maak rechtstreeks over vanaf elke Pakistaanse bankrekening, Raast-ID, of via de Easypaisa- of JazzCash-app, zonder transactiekosten.",
+    "rows": {
+      "bankName": "Naam van de bank",
+      "accountTitle": "Naam rekeninghouder",
+      "accountNumber": "Rekeningnummer",
+      "ibanNumber": "IBAN-nummer",
+      "branchCode": "Filiaalcode",
+      "branchAddress": "Filiaaladres"
+    },
+    "copy": "Kopiëren",
+    "copied": "Gekopieerd",
+    "copyAllDetails": "Alle bankgegevens kopiëren",
+    "allCopied": "Alle gegevens gekopieerd!",
+    "whatsappSlip": "Stuur donatiebewijs via WhatsApp",
+    "doorstepTitle": "Ophaling aan huis & chequeoverdracht",
+    "doorstepText": "Heeft u liever ophaling van contant geld/cheque aan huis in Lahore? Of wilt u een gekruiste cheque per koerier versturen? Neem contact op met onze hulplijn via {{phone}} of bezoek ons kantoor op {{address}}."
+  },
+  "cardPortal": {
+    "eyebrow": "Wereldwijde creditcard- & betaalkaartdonaties",
+    "title": "Online kaartdonatie",
+    "subtitle": "Veilige, directe bijdrage via Visa, MasterCard, Apple Pay en Google Pay wereldwijd.",
+    "categories": {
+      "Zakat": "Zakat",
+      "Sadaqah": "Sadaqah",
+      "General Relief": "Algemene hulp",
+      "Orphan Care": "Zorg voor wezen"
+    },
+    "trustBadges": {
+      "ssl": "256-bit SSL-versleuteling",
+      "receipt": "Officiële donatiebon",
+      "taxExempt": "FBR belastingvrij NTN: 4547488",
+      "compliant": "100% beleidsconform"
+    }
+  },
+  "impactTiers": {
+    "meal-person": { "title": "Voedsel voor 1 persoon", "description": "Biedt een volwaardige, voedzame warme maaltijd aan een hongerig kind of dagloner.", "badge": "Snelle Sadaqah" },
+    "food-pack": { "title": "Maandelijks voedselrantsoenpakket", "description": "Meel, rijst, peulvruchten, bakolie en basisbenodigdheden om een gezin in nood een volledige maand te ondersteunen." },
+    "orphan-month": { "title": "Sponsor 1 wees (maandelijks)", "description": "Volledige kost en inwoning, 3 voedzame maaltijden per dag, formeel privéonderwijs, gezondheidszorg en bijles.", "badge": "Meest nodig" },
+    "hand-pump": { "title": "Eigen handpomp voor schoon water", "description": "Volledige installatie van een gegraveerde, zware handpomp die dagelijks meer dan 40 gezinnen bedient.", "badge": "Sadaqah Jariyah" },
+    "solar-pump": { "title": "Zonne-energie waterpompproject", "description": "Diep, op zonne-energie werkend onderwaterpompsysteem dat hele door droogte getroffen dorpen van water voorziet.", "badge": "Hoge impact" },
+    "orphan-year": { "title": "Sponsor 1 wees (1 jaar)", "description": "12 volledige maanden van holistische ontwikkeling, kost en inwoning, kwalitatief onderwijs, medische zorg en waardigheid.", "badge": "Transformerend" }
+  }
+}

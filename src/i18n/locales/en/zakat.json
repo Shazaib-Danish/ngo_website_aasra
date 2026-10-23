@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Interactive Sharia Calculation Engine",
+    "title": "Zakat Calculator",
+    "subtitle": "Calculate your obligatory 2.5% wealth purification accurately, according to classical Islamic jurisprudence, and allocate directly to verified orphans and destitute families."
+  },
+  "nisabSelector": {
+    "eyebrow": "Select Nisab Benchmark",
+    "note": "Most contemporary scholars recommend the <1>Silver Standard</1> to maximize aid to the poor.",
+    "silverOption": "Silver Nisab (612.36g)",
+    "goldOption": "Gold Nisab (87.48g)",
+    "activeThreshold": "Active Threshold:",
+    "standardSuffix": "standard",
+    "rateNote": "Silver Rate: ₨{{silverRate}}/g • Gold Rate: ₨{{goldRate}}/g"
+  },
+  "fields": {
+    "cashInHand": { "label": "Cash at Home & Bank", "description": "Savings, current accounts, and emergency cash funds" },
+    "foreignCurrency": { "label": "Foreign Currency (in PKR)", "description": "Equivalent value of USD, GBP, EUR, SAR, etc." },
+    "goldValue": { "label": "Gold & Gold Jewelry (PKR)", "description": "Total current market resale value of gold assets" },
+    "silverValue": { "label": "Silver & Silver Items (PKR)", "description": "Current market value of silver bars, coins & jewelry" },
+    "businessStock": { "label": "Business Merchandise & Stock", "description": "Net wholesale market value of goods for resale" },
+    "receivables": { "label": "Money Owed to You (Good Debts)", "description": "Loans given that you expect to be repaid" },
+    "sharesInvestments": { "label": "Shares, Mutual Funds & Crypto", "description": "Liquid tradable investment portfolio values" },
+    "liabilities": { "label": "Immediate Debts & Bills Due", "description": "Overdue payments, upcoming month bills, immediate loans" }
+  },
+  "assetsCard": {
+    "title": "Enter Your Assets (PKR)",
+    "resetAll": "Reset All"
+  },
+  "results": {
+    "liveCalculation": "Live Calculation",
+    "nisabMet": "Nisab Met (Obligatory)",
+    "belowNisab": "Below Nisab Threshold",
+    "totalGrossWealth": "Total Gross Wealth:",
+    "deductibleLiabilities": "Deductible Liabilities:",
+    "netZakatableWealth": "Net Zakatable Wealth:",
+    "calculatedZakat": "Calculated Zakat Due (2.5%)",
+    "purifyNote": "Purify your wealth with 100% direct orphan & emergency aid.",
+    "noObligatoryNote": "You do not owe obligatory Zakat, but voluntary Sadaqah is beloved by Allah.",
+    "instantAllocation": "Instant Allocation to AASRA:",
+    "allocateOrphan": "Allocate to Orphan Care Fund",
+    "allocateWater": "Allocate to Clean Water Wells",
+    "allocateGeneral": "General Mustahiq Zakat Fund"
+  },
+  "causes": {
+    "orphanCare": "Orphan Care & Education",
+    "cleanWater": "Clean Water Projects",
+    "generalZakat": "General Zakat Fund"
+  },
+  "hawlNote": {
+    "title": "Hawl (1 Lunar Year) Rule",
+    "text": "Zakat is due once an individual possesses the Nisab threshold continuously for one full lunar year (approximately 354 days)."
+  }
+}

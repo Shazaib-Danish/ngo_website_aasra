@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Visuele transparantie & bewijs van het werk",
+    "title": "Impact in beeld",
+    "subtitle": "Getuig van de echte verandering die uw vrijgevigheid heeft gebracht voor wezen, dorpen met watertekort en door overstromingen getroffen gezinnen."
+  },
+  "clickToView": "Klik om te bekijken",
+  "closeViewer": "Fotoviewer sluiten",
+  "previousImage": "Vorige afbeelding",
+  "nextImage": "Volgende afbeelding",
+  "photoCounter": "Foto {{current}} van {{total}} • {{category}}",
+  "categories": {
+    "All": "Alles",
+    "Orphan Care": "Zorg voor wezen",
+    "Clean Water": "Schoon water",
+    "Flood Relief": "Overstromingshulp",
+    "Relief Work": "Hulpwerk"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "Het leven in het weeshuis",
+    "Learning Together": "Samen leren",
+    "Shared Meals, Shared Family": "Gedeelde maaltijden, gedeeld gezin",
+    "Celebrating Achievements": "Prestaties vieren",
+    "A Safe Place to Grow": "Een veilige plek om op te groeien",
+    "School Days": "Schooldagen",
+    "Clean Water Handover": "Overdracht van schoon water",
+    "Hand Pump Installation": "Installatie van handpomp",
+    "Water for Every Home": "Water voor elk huis",
+    "Community Water Point": "Gemeenschappelijk waterpunt",
+    "Dua Ceremony at a New Well": "Dua-ceremonie bij een nieuwe put",
+    "Flood Relief Response": "Reactie op overstromingshulp",
+    "Assessing the Damage": "Schade beoordelen",
+    "Emergency Aid Distribution": "Verdeling van noodhulp",
+    "Standing With Flood-Hit Families": "Naast door overstromingen getroffen gezinnen",
+    "Field Relief Operations": "Hulpoperaties in het veld",
+    "Rebuilding After the Flood": "Wederopbouw na de overstroming",
+    "Community Outreach": "Gemeenschapswerk",
+    "Field Visit": "Veldbezoek",
+    "Serving the Community": "Ten dienste van de gemeenschap",
+    "Relief Work in Progress": "Hulpwerk in uitvoering"
+  }
+}

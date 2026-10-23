@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Aree di impatto umanitario",
+    "title": "I nostri programmi principali",
+    "subtitle": "Iniziative di assistenza mirate e incentrate sulla comunità, progettate per un'autosufficienza, una dignità e una trasparenza durature in tutto il Pakistan."
+  },
+  "filters": {
+    "all": "Tutti i programmi",
+    "orphan-care": "Cura ed educazione degli orfani",
+    "clean-water": "Progetti per l'acqua pulita",
+    "flood-relief": "Soccorso in caso di alluvione ed emergenza",
+    "relief-work": "Sostegno alimentare per la comunità"
+  },
+  "card": {
+    "donationGoal": "Obiettivo di raccolta",
+    "raisedOf": "raccolti su",
+    "funded": "% finanziato",
+    "needed": "M necessari",
+    "unitCosts": "Costi unitari:",
+    "fullStory": "Storia completa del programma e foto",
+    "sponsorProject": "Sponsorizza il progetto"
+  },
+  "bottomCta": {
+    "title": "Non riesci a decidere quale programma sostenere?",
+    "text": "Dona al nostro <1>Fondo per le Necessità più Urgenti</1>, e i nostri direttori sul campo destineranno la tua Sadaqah al caso di emergenza più urgente sul terreno.",
+    "fundName": "Fondo per le Necessità più Urgenti",
+    "cta": "Dona alle necessità più urgenti"
+  },
+  "detail": {
+    "aboutInitiative": "Informazioni sull'iniziativa",
+    "sustainableTitle": "Impatto sostenibile",
+    "sustainableText": "Progettato per un beneficio duraturo, non un aiuto temporaneo. Le pompe a mano durano decenni e gli orfani istruiti diventano leader indipendenti.",
+    "photographicTitle": "Prova fotografica al 100%",
+    "photographicText": "I donatori ricevono consegne fotografiche in tempo reale con posizioni GPS e targhe di dedica incise con il nome del donatore.",
+    "fieldDocEyebrow": "Documentazione sul campo",
+    "fromTheField": "Dal campo",
+    "clickToView": "Clicca su una foto per visualizzarla a grandezza intera",
+    "supportInitiative": "Sostieni questa specifica iniziativa",
+    "makeADifference": "Fai una vera differenza oggi",
+    "everyContribution": "Ogni singolo contributo porta dignità, sostentamento e speranza a famiglie che non hanno nessun altro a cui rivolgersi.",
+    "sponsorNow": "Sponsorizza subito questo programma",
+    "activeCampaignGoal": "Obiettivo della campagna attiva",
+    "funded": "% finanziato",
+    "raised": "Raccolto:",
+    "targetGoal": "Obiettivo target:",
+    "millionNeeded": "milioni necessari per raggiungere l'obiettivo di questo ciclo.",
+    "standardUnitCosts": "Costi unitari standard:",
+    "immediateAction": "Azione immediata",
+    "supportProgram": "Sostieni {{title}}",
+    "zakatSadaqah": "Scegli di donare il tuo Zakat o la tua Sadaqah a questa iniziativa verificata con allocazione diretta al 100%.",
+    "donateProject": "Dona a questo progetto",
+    "speakCoordinator": "Parla con il coordinatore del programma",
+    "whatsappCoordinator": "Coordinatore WhatsApp",
+    "callPhone": "Chiama {{phone}}",
+    "backToPrograms": "Torna alla panoramica di tutti i programmi",
+    "closeViewer": "Chiudi il visualizzatore immagini",
+    "previousPhoto": "Foto precedente",
+    "nextPhoto": "Foto successiva",
+    "photoCounter": "Foto {{current}} di {{total}} • {{title}}",
+    "fullView": "vista completa",
+    "documentation": "documentazione"
+  },
+  "items": {
+    "orphan-care": {
+      "title": "Cura ed educazione degli orfani",
+      "tagline": "Riparo, istruzione e famiglia per i bambini che ne sono privi.",
+      "description": "Fornire riparo sicuro, istruzione di qualità, pasti nutrienti ed educazione religiosa a bambini orfani e vulnerabili.",
+      "longDescription": [
+        "Aasra Welfare Society gestisce una casa di accoglienza dedicata agli orfani a Lahore, sostenendo attualmente più di 32 bambini che hanno perso uno o entrambi i genitori. Ogni bambino a nostra cura riceve un luogo sicuro in cui vivere, tre pasti nutrienti al giorno e accesso all'istruzione formale insieme all'educazione islamica.",
+        "Oltre alle basi, investiamo nel futuro a lungo termine di ogni bambino attraverso supporto scolastico, attività extracurricolari, celebrazioni annuali dei risultati e controlli sanitari regolari. Il nostro obiettivo non è solo ospitare i bambini, ma crescere individui sicuri di sé e istruiti, capaci di camminare con le proprie gambe.",
+        "Ogni donazione a questo programma viene utilizzata direttamente per i costi di vitto e alloggio, le tasse scolastiche, le divise, i libri e l'assistenza sanitaria dei bambini a nostra cura."
+      ],
+      "unitCosts": ["Sponsorizzazione mensile", "Sponsorizzazione annuale"]
+    },
+    "clean-water": {
+      "title": "Progetti per l'acqua pulita",
+      "tagline": "Pompe a mano e punti d'acqua pulita per villaggi svantaggiati.",
+      "description": "Installazione di pompe a mano e punti d'acqua solari nei villaggi colpiti da alluvioni e con scarsità d'acqua in tutto il Punjab, affinché le famiglie non debbano più camminare per procurarsi acqua pulita.",
+      "longDescription": [
+        "L'accesso all'acqua potabile pulita rimane una delle sfide più grandi per le comunità rurali in tutto il Pakistan, specialmente nelle aree in ripresa dalle alluvioni. Aasra Welfare Society ha installato e consegnato ad oggi oltre 170 pompe a mano e punti d'acqua, ciascuno numerato, documentato e dedicato al nome del donatore o dei suoi cari.",
+        "Ogni installazione viene completata alla presenza della comunità locale, e ogni pompa è dotata di una targa che riporta il numero del progetto, così i donatori possono monitorare esattamente dove è andato il loro contributo. Diamo priorità ai villaggi privi di una fonte d'acqua sicura esistente, lavorando a stretto contatto con gli anziani locali per identificare le posizioni più urgenti.",
+        "Una singola pompa dell'acqua può servire decine di famiglie per anni, rendendola una delle forme di carità (Sadaqah Jariyah) più sostenibili ed economicamente vantaggiose che tu possa offrire."
+      ],
+      "unitCosts": ["Pompa a mano dedicata", "Pompa sommersa solare"]
+    },
+    "relief-work": {
+      "title": "Soccorso comunitario e sostegno alimentare",
+      "tagline": "Al fianco delle famiglie vulnerabili nelle difficoltà quotidiane.",
+      "description": "Attività di sensibilizzazione sul territorio, distribuzione di razioni, pasti cucinati quotidiani e sostegno a vedove, lavoratori giornalieri e famiglie che vivono sotto la soglia di povertà.",
+      "longDescription": [
+        "Non tutte le difficoltà finiscono sui titoli dei giornali. Accanto al nostro lavoro di risposta alle emergenze, Aasra Welfare Society gestisce operazioni continue di soccorso comunitario, visitando villaggi e insediamenti per distribuire razioni alimentari, incontrare famiglie bisognose e metterle in contatto con i nostri altri programmi come la sponsorizzazione degli orfani e i progetti per l'acqua.",
+        "I nostri team sul campo lavorano direttamente con le comunità, ascoltando le loro esigenze e garantendo che il sostegno raggiunga le famiglie che ne hanno più bisogno, con piena trasparenza e senza intermediari."
+      ],
+      "unitCosts": ["Cibo per 1 persona", "Pacco razione mensile"]
+    },
+    "flood-relief": {
+      "title": "Soccorso alluvioni e risposta di emergenza",
+      "tagline": "Risposta rapida sul campo quando colpisce il disastro.",
+      "description": "Tende di emergenza, pacchi di razioni, acqua pulita e sostegno alla ricostruzione consegnati direttamente alle famiglie colpite dalle alluvioni in Punjab e Sindh.",
+      "longDescription": [
+        "Quando le alluvioni devastano una regione, i team di Aasra Welfare Society sono tra i primi ad arrivare sul posto: valutano i danni, distribuiscono tende di emergenza e pacchi di razioni, e allestiscono punti d'acqua temporanei nei villaggi colpiti.",
+        "La nostra risposta di soccorso va oltre l'emergenza immediata. Proseguiamo con lavori di riabilitazione, inclusa la ricostruzione di strutture comunitarie danneggiate come moschee e strutture condivise, e la distribuzione di beni essenziali come coperte, kit igienici e pasti cucinati alle famiglie sfollate.",
+        "Nelle recenti operazioni di risposta alle alluvioni abbiamo distribuito pacchi di razioni e acqua pulita a centinaia di famiglie, e continuiamo a sostenere gli sforzi di riabilitazione ben oltre la fine dell'emergenza iniziale."
+      ],
+      "unitCosts": ["Kit di emergenza", "Tenda rifugio"]
+    }
+  }
+}

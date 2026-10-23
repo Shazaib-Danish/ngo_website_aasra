@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "badge": "Word deel van ons vrijwilligersteam",
+    "title": "Geef je tijd. Verander een leven.",
+    "subtitle": "Studenten, professionals, ouders en gepensioneerden: elke vaardigheid telt. Help samen met AASRA-vrijwilligers wezen, door overstromingen getroffen gezinnen en gemeenschappen in heel Pakistan.",
+    "cta": "Meld je aan",
+    "whatsapp": "Vraag via WhatsApp",
+    "statValue": "Elk uur telt",
+    "statLabel": "Echte impact ter plaatse"
+  },
+  "why": {
+    "eyebrow": "Waarom vrijwilligen",
+    "title": "Meer dan helpen. Erbij horen.",
+    "perks": {
+      "impact": {
+        "title": "Directe impact",
+        "text": "Zie hoe je inzet wezen, gezinnen en overstromingsslachtoffers bereikt."
+      },
+      "certificate": {
+        "title": "Certificaat",
+        "text": "Ontvang een vrijwilligerscertificaat en referentie."
+      },
+      "community": {
+        "title": "Gemeenschap",
+        "text": "Ontmoet mensen die jouw waarden van Ihsan en dienstbaarheid delen."
+      },
+      "flexible": {
+        "title": "Flexibele tijden",
+        "text": "Help ter plaatse of op afstand, in het weekend of een paar uur per maand."
+      }
+    }
+  },
+  "steps": {
+    "title": "Hoe het werkt",
+    "apply": {
+      "title": "Online aanmelden",
+      "text": "Vul het korte formulier in, ongeveer 2 minuten."
+    },
+    "call": {
+      "title": "Wij nemen contact op",
+      "text": "Ons team neemt contact op via WhatsApp of telefoon."
+    },
+    "start": {
+      "title": "Ga aan de slag",
+      "text": "Doe mee aan een project dat bij je vaardigheden en tijd past."
+    }
+  },
+  "form": {
+    "eyebrow": "Aanmelding vrijwilliger",
+    "title": "Vertel ons over jezelf",
+    "subtitle": "Velden met * zijn verplicht.",
+    "sections": {
+      "about": "Jouw gegevens",
+      "skills": "Jouw vaardigheden",
+      "more": "Overig"
+    },
+    "name": "Volledige naam *",
+    "namePlaceholder": "bijv. Ayesha Malik",
+    "email": "E-mailadres *",
+    "emailPlaceholder": "ayesha@example.com",
+    "phone": "Telefoonnummer *",
+    "phonePlaceholder": "+92 300 1234567",
+    "sameWhatsapp": "Ik gebruik dit nummer voor WhatsApp",
+    "whatsapp": "WhatsApp-nummer *",
+    "skillsHint": "Kies wat van toepassing is (optioneel) of voeg je eigen vaardigheid toe.",
+    "otherSkillPlaceholder": "Andere vaardigheid, bijv. Koken",
+    "addSkill": "Toevoegen",
+    "removeSkill": "{{skill}} verwijderen",
+    "additionalInfo": "Overige informatie",
+    "additionalInfoPlaceholder": "Je woonplaats, beschikbaarheid, eerder vrijwilligerswerk, talen...",
+    "submit": "Aanmelding versturen",
+    "sending": "Verzenden...",
+    "error": "Sorry, je aanmelding kon niet worden verzonden. Controleer je verbinding en probeer het opnieuw, of stuur ons een WhatsApp op {{whatsapp}}.",
+    "privacyNote": "Je gegevens worden alleen door AASRA gebruikt om contact met je op te nemen over vrijwilligerswerk."
+  },
+  "success": {
+    "title": "JazakAllah Khair!",
+    "text": "Je aanmelding is ontvangen. Ons team neemt binnenkort contact met je op via WhatsApp of telefoon.",
+    "explore": "Bekijk onze programma’s",
+    "another": "Nog een vrijwilliger aanmelden"
+  },
+  "skills": {
+    "Teaching & Tutoring": "Lesgeven & bijles",
+    "Medical & Healthcare": "Medisch & zorg",
+    "Social Media & Design": "Social media & ontwerp",
+    "Photography & Video": "Foto & video",
+    "Fundraising": "Fondsenwerving",
+    "Event Management": "Evenementen organiseren",
+    "IT & Web Development": "IT & webontwikkeling",
+    "Logistics & Distribution": "Logistiek & distributie",
+    "Translation": "Vertalen",
+    "Field Work": "Veldwerk"
+  }
+}

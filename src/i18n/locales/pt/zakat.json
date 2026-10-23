@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Motor de cálculo interativo conforme a Sharia",
+    "title": "Calculadora de Zakat",
+    "subtitle": "Calcule com precisão a sua purificação obrigatória de riqueza de 2,5%, de acordo com a jurisprudência islâmica clássica, e destine-a diretamente a órfãos e famílias carenciadas verificadas."
+  },
+  "nisabSelector": {
+    "eyebrow": "Selecione a referência de Nisab",
+    "note": "A maioria dos estudiosos contemporâneos recomenda o <1>padrão da prata</1> para maximizar a ajuda aos pobres.",
+    "silverOption": "Nisab em prata (612,36g)",
+    "goldOption": "Nisab em ouro (87,48g)",
+    "activeThreshold": "Limiar ativo:",
+    "standardSuffix": "padrão",
+    "rateNote": "Cotação da prata: ₨{{silverRate}}/g • Cotação do ouro: ₨{{goldRate}}/g"
+  },
+  "fields": {
+    "cashInHand": { "label": "Dinheiro em casa e no banco", "description": "Poupanças, contas correntes e fundos de emergência em dinheiro" },
+    "foreignCurrency": { "label": "Moeda estrangeira (em PKR)", "description": "Valor equivalente em USD, GBP, EUR, SAR, etc." },
+    "goldValue": { "label": "Ouro e joias de ouro (PKR)", "description": "Valor total atual de revenda no mercado dos ativos em ouro" },
+    "silverValue": { "label": "Prata e artigos de prata (PKR)", "description": "Valor de mercado atual de barras, moedas e joias de prata" },
+    "businessStock": { "label": "Mercadoria e stock do negócio", "description": "Valor de mercado grossista líquido dos bens para revenda" },
+    "receivables": { "label": "Dinheiro que lhe é devido (boas dívidas)", "description": "Empréstimos concedidos que espera que sejam reembolsados" },
+    "sharesInvestments": { "label": "Ações, fundos mútuos e criptomoedas", "description": "Valores de carteira de investimento líquidos e negociáveis" },
+    "liabilities": { "label": "Dívidas imediatas e contas a pagar", "description": "Pagamentos em atraso, contas do próximo mês, empréstimos imediatos" }
+  },
+  "assetsCard": {
+    "title": "Insira os seus bens (PKR)",
+    "resetAll": "Repor tudo"
+  },
+  "results": {
+    "liveCalculation": "Cálculo em tempo real",
+    "nisabMet": "Nisab atingido (obrigatório)",
+    "belowNisab": "Abaixo do limiar de Nisab",
+    "totalGrossWealth": "Riqueza bruta total:",
+    "deductibleLiabilities": "Dívidas dedutíveis:",
+    "netZakatableWealth": "Riqueza líquida sujeita a Zakat:",
+    "calculatedZakat": "Zakat calculado devido (2,5%)",
+    "purifyNote": "Purifique a sua riqueza com ajuda direta a 100% para órfãos e emergências.",
+    "noObligatoryNote": "Não deve Zakat obrigatório, mas a Sadaqah voluntária é amada por Alá.",
+    "instantAllocation": "Alocação instantânea à AASRA:",
+    "allocateOrphan": "Alocar ao Fundo de Cuidado de Órfãos",
+    "allocateWater": "Alocar a poços de água limpa",
+    "allocateGeneral": "Fundo geral de Zakat Mustahiq"
+  },
+  "causes": {
+    "orphanCare": "Cuidado e educação de órfãos",
+    "cleanWater": "Projetos de água limpa",
+    "generalZakat": "Fundo geral de Zakat"
+  },
+  "hawlNote": {
+    "title": "Regra do Hawl (1 ano lunar)",
+    "text": "O Zakat é devido quando um indivíduo possui o limiar de Nisab de forma contínua durante um ano lunar completo (aproximadamente 354 dias)."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Áreas de impacto humanitário",
+    "title": "Os nossos programas principais",
+    "subtitle": "Iniciativas de assistência direcionadas e centradas na comunidade, concebidas para uma autossuficiência, dignidade e transparência duradouras em todo o Paquistão."
+  },
+  "filters": {
+    "all": "Todos os programas",
+    "orphan-care": "Cuidado e educação de órfãos",
+    "clean-water": "Projetos de água limpa",
+    "flood-relief": "Ajuda em inundações e emergências",
+    "relief-work": "Apoio alimentar comunitário"
+  },
+  "card": {
+    "donationGoal": "Meta de doação",
+    "raisedOf": "angariado de",
+    "funded": "% financiado",
+    "needed": "M necessários",
+    "unitCosts": "Custos unitários:",
+    "fullStory": "História completa do programa e fotos",
+    "sponsorProject": "Apadrinhar projeto"
+  },
+  "bottomCta": {
+    "title": "Não consegue decidir qual programa apoiar?",
+    "text": "Doe ao nosso <1>Fundo para o Mais Necessário</1>, e os nossos diretores de campo alocarão a sua Sadaqah para o caso de emergência mais urgente no terreno.",
+    "fundName": "Fundo para o Mais Necessário",
+    "cta": "Doar para o mais necessário"
+  },
+  "detail": {
+    "aboutInitiative": "Sobre a iniciativa",
+    "sustainableTitle": "Impacto sustentável",
+    "sustainableText": "Concebido para um benefício perpétuo, não uma ajuda temporária. As bombas manuais duram décadas, e os órfãos educados tornam-se líderes independentes.",
+    "photographicTitle": "Prova fotográfica a 100%",
+    "photographicText": "Os doadores recebem entregas fotográficas em tempo real com localizações GPS e placas de dedicatória gravadas com o nome do doador.",
+    "fieldDocEyebrow": "Documentação de campo",
+    "fromTheField": "Direto do terreno",
+    "clickToView": "Clique em qualquer foto para a ver em tamanho completo",
+    "supportInitiative": "Apoie esta iniciativa específica",
+    "makeADifference": "Faça uma diferença real hoje",
+    "everyContribution": "Cada contribuição traz dignidade, sustento e esperança a famílias que não têm mais para onde se voltar.",
+    "sponsorNow": "Apadrinhar este programa agora",
+    "activeCampaignGoal": "Meta da campanha ativa",
+    "funded": "% financiado",
+    "raised": "Angariado:",
+    "targetGoal": "Meta alvo:",
+    "millionNeeded": "milhões necessários para atingir a meta deste ciclo.",
+    "standardUnitCosts": "Custos unitários padrão:",
+    "immediateAction": "Ação imediata",
+    "supportProgram": "Apoiar {{title}}",
+    "zakatSadaqah": "Escolha doar o seu Zakat ou Sadaqah a esta iniciativa verificada com alocação direta a 100%.",
+    "donateProject": "Doar para este projeto",
+    "speakCoordinator": "Falar com o Coordenador do Programa",
+    "whatsappCoordinator": "Coordenador via WhatsApp",
+    "callPhone": "Ligar para {{phone}}",
+    "backToPrograms": "Voltar à visão geral de todos os programas",
+    "closeViewer": "Fechar visualizador de imagens",
+    "previousPhoto": "Foto anterior",
+    "nextPhoto": "Foto seguinte",
+    "photoCounter": "Foto {{current}} de {{total}} • {{title}}",
+    "fullView": "vista completa",
+    "documentation": "documentação"
+  },
+  "items": {
+    "orphan-care": {
+      "title": "Cuidado e educação de órfãos",
+      "tagline": "Abrigo, escolaridade e família para crianças que não os têm.",
+      "description": "Fornecendo abrigo seguro, educação de qualidade, refeições nutritivas e formação religiosa a crianças órfãs e vulneráveis.",
+      "longDescription": [
+        "A Aasra Welfare Society gere um lar dedicado ao cuidado de órfãos em Lahore, apoiando atualmente mais de 32 crianças que perderam um ou ambos os pais. Cada criança sob os nossos cuidados recebe um local seguro para viver, três refeições nutritivas por dia, e acesso a escolaridade formal juntamente com educação islâmica.",
+        "Além do essencial, investimos no futuro a longo prazo de cada criança através de apoio a explicações, atividades extracurriculares, celebrações anuais de resultados e check-ups de saúde regulares. O nosso objetivo não é apenas abrigar crianças, mas formar indivíduos confiantes e educados, capazes de serem independentes.",
+        "Cada doação a este programa é utilizada diretamente para custos de internato, propinas escolares, uniformes, livros e cuidados de saúde das crianças sob os nossos cuidados."
+      ],
+      "unitCosts": ["Apadrinhamento mensal", "Apadrinhamento anual"]
+    },
+    "clean-water": {
+      "title": "Projetos de água limpa",
+      "tagline": "Bombas manuais e pontos de água limpa para aldeias carenciadas.",
+      "description": "Instalação de bombas manuais e pontos de água solares em aldeias afetadas por inundações e com escassez de água em todo o Punjab, para que as famílias já não precisem de caminhar em busca de água limpa.",
+      "longDescription": [
+        "O acesso a água potável limpa continua a ser um dos maiores desafios para as comunidades rurais em todo o Paquistão, especialmente em áreas em recuperação de inundações. A Aasra Welfare Society já instalou e entregou mais de 170 bombas manuais e pontos de água até à data, cada um numerado, documentado e dedicado em nome do doador ou dos seus entes queridos.",
+        "Cada instalação é concluída com a presença da comunidade local, e cada bomba tem uma placa que regista o número do projeto para que os doadores possam acompanhar exatamente onde foi utilizada a sua contribuição. Damos prioridade a aldeias sem uma fonte de água segura existente, trabalhando de perto com os anciãos locais para identificar os locais mais urgentes.",
+        "Uma única bomba de água pode servir dezenas de famílias durante anos, tornando-a uma das formas de caridade (Sadaqah Jariyah) mais sustentáveis e rentáveis que pode oferecer."
+      ],
+      "unitCosts": ["Bomba manual dedicada", "Bomba submersível solar"]
+    },
+    "relief-work": {
+      "title": "Assistência comunitária e apoio alimentar",
+      "tagline": "Ao lado de famílias vulneráveis nas dificuldades do dia a dia.",
+      "description": "Ação comunitária no terreno, distribuição de rações, refeições cozinhadas diárias e apoio a viúvas, trabalhadores diaristas e famílias que vivem abaixo da linha de pobreza.",
+      "longDescription": [
+        "Nem todas as dificuldades fazem manchetes. Juntamente com o nosso trabalho de resposta a emergências, a Aasra Welfare Society realiza operações contínuas de assistência comunitária — visitando aldeias e povoações para distribuir rações alimentares, encontrar-se com famílias necessitadas e ligá-las aos nossos outros programas, como o apadrinhamento de órfãos e os projetos de água.",
+        "As nossas equipas de campo trabalham diretamente com as comunidades, ouvindo as suas necessidades e garantindo que o apoio chega às famílias que mais precisam, com total transparência e sem intermediários."
+      ],
+      "unitCosts": ["Comida para 1 pessoa", "Pacote de ração mensal"]
+    },
+    "flood-relief": {
+      "title": "Ajuda em inundações e resposta de emergência",
+      "tagline": "Resposta rápida no terreno quando ocorre um desastre.",
+      "description": "Tendas de emergência, pacotes de rações, água limpa e apoio à reconstrução entregues diretamente às famílias afetadas por inundações no Punjab e Sindh.",
+      "longDescription": [
+        "Quando as inundações devastam uma região, as equipas da Aasra Welfare Society estão entre as primeiras no terreno — avaliando os danos, distribuindo tendas de emergência e pacotes de rações, e montando pontos de água temporários nas aldeias afetadas.",
+        "A nossa resposta de ajuda vai além da emergência imediata. Damos seguimento com trabalhos de reabilitação, incluindo a reconstrução de estruturas comunitárias danificadas, como mesquitas e instalações partilhadas, e a distribuição de itens essenciais como cobertores, kits de higiene e refeições cozinhadas às famílias deslocadas.",
+        "Em operações recentes de resposta a inundações, distribuímos pacotes de rações e água limpa a centenas de famílias, e continuamos a apoiar os esforços de reabilitação muito depois de a emergência inicial ter passado."
+      ],
+      "unitCosts": ["Kit de emergência", "Tenda de abrigo"]
+    }
+  }
+}

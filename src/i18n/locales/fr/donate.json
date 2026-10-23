@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "badge": "Politique d'aide directe à 100 % • Zéro gaspillage intermédiaire",
+    "titlePrefix": "Investissez dans votre",
+    "titleHighlight": "avenir éternel",
+    "subtitle": "Votre Sadaqah et votre Zakat fournissent nourriture, éducation, eau potable et abri aux orphelins et familles dans le plus grand besoin à travers le Pakistan."
+  },
+  "preSelected": {
+    "label": "Contribution présélectionnée",
+    "defaultCause": "Cause sélectionnée",
+    "note": "Continuez ci-dessous par carte ou virement direct à la Bank Makramah."
+  },
+  "tiers": {
+    "eyebrow": "Tarification de référence",
+    "title": "Formules de parrainage vérifiées",
+    "swipeHint": "Balayez horizontalement pour explorer"
+  },
+  "gatewaySelector": {
+    "bank": "Banque directe et portefeuilles mobiles",
+    "card": "Carte en ligne (International)"
+  },
+  "bankPortal": {
+    "eyebrow": "Services bancaires locaux et numériques",
+    "title": "Virement bancaire direct",
+    "bankLogoAlt": "Bank Makramah",
+    "description": "Transférez directement depuis n'importe quel compte bancaire pakistanais, identifiant Raast, ou application Easypaisa ou JazzCash, sans frais de transaction.",
+    "rows": {
+      "bankName": "Nom de la banque",
+      "accountTitle": "Titulaire du compte",
+      "accountNumber": "Numéro de compte",
+      "ibanNumber": "Numéro IBAN",
+      "branchCode": "Code d'agence",
+      "branchAddress": "Adresse de l'agence"
+    },
+    "copy": "Copier",
+    "copied": "Copié",
+    "copyAllDetails": "Copier toutes les coordonnées bancaires",
+    "allCopied": "Toutes les coordonnées copiées !",
+    "whatsappSlip": "Envoyer le reçu de don sur WhatsApp",
+    "doorstepTitle": "Collecte à domicile et remise de chèque",
+    "doorstepText": "Vous préférez la collecte d'espèces/chèque à domicile à Lahore ? Ou vous souhaitez envoyer un chèque barré par courrier ? Contactez notre ligne d'assistance au {{phone}} ou rendez-vous à notre bureau au {{address}}."
+  },
+  "cardPortal": {
+    "eyebrow": "Don par carte de crédit et de débit international",
+    "title": "Don par carte en ligne",
+    "subtitle": "Contribution instantanée et sécurisée via Visa, MasterCard, Apple Pay et Google Pay dans le monde entier.",
+    "categories": {
+      "Zakat": "Zakat",
+      "Sadaqah": "Sadaqah",
+      "General Relief": "Secours général",
+      "Orphan Care": "Soin des orphelins"
+    },
+    "trustBadges": {
+      "ssl": "Cryptage SSL 256 bits",
+      "receipt": "Reçu de don officiel",
+      "taxExempt": "Exonéré d'impôt FBR NTN : 4547488",
+      "compliant": "Conforme à 100 % à la politique"
+    }
+  },
+  "impactTiers": {
+    "meal-person": { "title": "Nourriture pour 1 personne", "description": "Fournit un repas chaud sain et nutritif à un enfant affamé ou à un travailleur journalier.", "badge": "Sadaqah rapide" },
+    "food-pack": { "title": "Pack de rations alimentaires mensuel", "description": "Farine, riz, légumineuses, huile de cuisson et produits essentiels pour subvenir aux besoins d'une famille pendant un mois complet." },
+    "orphan-month": { "title": "Parrainer 1 orphelin (mensuel)", "description": "Pension complète, 3 repas nutritifs par jour, scolarité privée formelle, soins de santé et soutien scolaire.", "badge": "Le plus nécessaire" },
+    "hand-pump": { "title": "Pompe à main dédiée pour l'eau potable", "description": "Installation complète d'une pompe à main robuste et gravée, desservant plus de 40 familles quotidiennement.", "badge": "Sadaqah Jariyah" },
+    "solar-pump": { "title": "Projet de pompe à eau solaire", "description": "Système d'extraction d'eau submersible profond, alimenté par l'énergie solaire, desservant des villages entiers touchés par la sécheresse.", "badge": "Fort impact" },
+    "orphan-year": { "title": "Parrainer 1 orphelin (1 an)", "description": "12 mois complets de développement global, pension, éducation de qualité, soins médicaux et dignité.", "badge": "Transformateur" }
+  }
+}

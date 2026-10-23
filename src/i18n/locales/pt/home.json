@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "badge": "Servindo com Ihsan desde 2021 • ONG registada",
+    "donateNow": "Doar agora",
+    "explorePrograms": "Explorar os 4 programas",
+    "slides": {
+      "orphan-care": {
+        "eyebrow": "Apadrinhe um órfão",
+        "title": "Devolva a uma criança a sua",
+        "highlight": "infância e o seu futuro",
+        "subtitle": "Internato completo, ensino de qualidade, cuidados de saúde e um lar amoroso para mais de 32 crianças órfãs. Por ₨30.000 por mês, pode apadrinhar todo o futuro de uma criança."
+      },
+      "clean-water": {
+        "eyebrow": "Instale um ponto de água",
+        "title": "Transforme a sede em",
+        "highlight": "esperança duradoura",
+        "subtitle": "Uma bomba manual dedicada traz água segura e limpa a mais de 40 famílias durante anos. Instale hoje um ponto de água como uma Sadaqah Jariyah eterna."
+      }
+    }
+  },
+  "stats": {
+    "orphanCare": "Cuidado de órfãos",
+    "orphanCareDesc": "Crianças em internato completo e escolarizadas",
+    "lahoreHome": "Lar em Lahore",
+    "ongoingCare": "Cuidado contínuo",
+    "cleanWater": "Água limpa",
+    "waterDesc": "Bombas manuais instaladas no Punjab rural",
+    "numberedPlaques": "Placas numeradas",
+    "sadaqahJariyah": "Sadaqah Jariyah",
+    "foodRelief": "Ajuda alimentar",
+    "foodDesc": "Sacos de rações e refeições quentes distribuídas",
+    "widowsNeedy": "Viúvas e necessitados",
+    "directHandover": "Entrega direta",
+    "totalBeneficiaries": "Total de beneficiários",
+    "beneficiariesDesc": "Vidas humanas alcançadas e apoiadas",
+    "punjabSindh": "Punjab e Sindh",
+    "audited": "Auditado"
+  },
+  "about": {
+    "yearsOfService": "Anos de serviço",
+    "registeredLine": "Registada em Lahore, ao serviço de todo o Paquistão",
+    "govtCertified": "Organização sem fins lucrativos certificada pelo governo",
+    "eyebrow": "Quem somos",
+    "titleLine1": "Restaurando a esperança,",
+    "titleLine2": "preservando a dignidade humana.",
+    "paragraph": "Fundada em Lahore em 2021, a Aasra Welfare Society nasceu de uma convicção inabalável: todas as crianças órfãs e famílias empobrecidas merecem igual acesso à segurança, água limpa, educação e compaixão.",
+    "pillar1Title": "Servir com Ihsan",
+    "pillar1Text": "Excelência em cada ração entregue, cada poço instalado e cada órfão criado.",
+    "pillar2Title": "100% de transparência",
+    "pillar2Text": "Documentação fotográfica e de localização direta fornecida aos doadores para cada projeto.",
+    "learnMoreLink": "Saiba mais sobre a nossa missão, liderança e registos"
+  },
+  "donateSection": {
+    "eyebrow": "Doação fácil e verificada",
+    "title": "Como enviar a sua doação",
+    "subtitle": "Oferecemos várias formas transparentes e 100% verificadas de contribuir com a sua Sadaqah, Zakat e doações do Paquistão e de todo o mundo.",
+    "card1": {
+      "badgeShort": "01",
+      "badgeFull": "Opção 01 • Instantânea",
+      "title": "Doação online",
+      "descShort": "Doe por cartão de crédito/débito ou transferência direta.",
+      "descFull": "Doe por cartão de crédito/débito (Visa, MasterCard, Apple Pay) ou transferência direta para o Bank Makramah com recibo instantâneo.",
+      "accountLabel": "Conta direta:",
+      "ctaShort": "Doar agora",
+      "ctaFull": "Doar online agora"
+    },
+    "card2": {
+      "badgeShort": "02",
+      "badgeFull": "Opção 02 • Rápida",
+      "title": "Carteiras móveis e Raast",
+      "desc": "Transfira instantaneamente através do seu EasyPaisa, JazzCash ou ID de pagamento instantâneo Raast, sem deduções de transação.",
+      "ibanLabel": "IBAN / Raast:",
+      "titleLabel": "Titular:",
+      "ctaShort": "Guia da carteira",
+      "ctaFull": "Ver guia da carteira"
+    },
+    "card3": {
+      "badgeShort": "03",
+      "badgeFull": "Opção 03 • Cheque",
+      "title": "Pagar por cheque via correio",
+      "descPrefix": "Emita um cheque cruzado a favor de",
+      "descQuoted": "Aasra Welfare Society",
+      "descSuffix": "e envie-o diretamente para o nosso escritório registado em Lahore.",
+      "addressLabel": "Endereço postal:",
+      "ctaShort": "Copiar endereço",
+      "ctaFull": "Copiar endereço do escritório",
+      "ctaCopiedShort": "Copiado!",
+      "ctaCopiedFull": "Endereço copiado!"
+    },
+    "card4": {
+      "badgeShort": "04",
+      "badgeFull": "Opção 04 • Recolha",
+      "title": "Recolha ao domicílio",
+      "desc": "O nosso representante autorizado visitará pessoalmente a sua casa ou escritório em Lahore para recolher dinheiro ou cheque com recibo oficial.",
+      "coverageLabel": "Cobertura:",
+      "coverageValue": "Cidade de Lahore e arredores",
+      "receiptNote": "✓ Recibo carimbado emitido no local",
+      "ctaShort": "Pedir recolha",
+      "ctaFull": "Pedir recolha via WhatsApp"
+    }
+  },
+  "quote": {
+    "text": "\"O exemplo daqueles que gastam os seus bens no caminho de Alá é como uma semente que faz brotar sete espigas, e em cada espiga há cem grãos.\"",
+    "reference": "Surata Al-Baqara 2:261"
+  },
+  "programsSection": {
+    "eyebrow": "Os nossos principais programas",
+    "title": "Ação transformadora no terreno",
+    "viewAll": "Ver as 4 áreas de impacto",
+    "funded": "% financiado",
+    "raised": "Angariado:",
+    "goal": "Meta:",
+    "details": "Detalhes",
+    "sponsor": "Apadrinhar →"
+  },
+  "zakatSection": {
+    "badge": "3.º pilar do Islão • Purificação de 2,5%",
+    "title": "Purifique a sua riqueza com o Fundo Zakat da AASRA",
+    "text": "100% do seu Zakat vai diretamente para órfãos, viúvas e famílias elegíveis (Mustahiq) que vivem em extrema pobreza em todo o Paquistão, seguindo rigorosamente os princípios da Sharia.",
+    "nisabLabel": "Referência de Nisab em prata (612,36g):",
+    "nisabNote": "Se as suas poupanças líquidas ultrapassarem este limiar durante um ano lunar completo, o Zakat é devido a 2,5%.",
+    "calculatorCta": "Abrir calculadora interativa de Zakat",
+    "donateCta": "Doar Zakat diretamente",
+    "imageCaptionTitle": "Alocação direta aos beneficiários",
+    "imageCaptionText": "Zero deduções de intermediários"
+  },
+  "achievementsSection": {
+    "eyebrow": "Progresso documentado",
+    "title": "Principais marcos e reconhecimentos",
+    "verifiedMilestone": "Marco verificado",
+    "items": {
+      "1": {
+        "title": "Inauguração do projeto de água limpa",
+        "text": "Cerimónia comunitária de dua a marcar a entrega de uma nova bomba manual, um dos mais de 170 pontos de água instalados pela AASRA em todo o Punjab."
+      },
+      "2": {
+        "title": "Reconhecimento pela distribuição de cadeiras de rodas",
+        "text": "Reconhecida junto de organizações de assistência aliadas pela distribuição de cadeiras de rodas a pessoas com deficiência em comunidades afetadas por inundações."
+      },
+      "3": {
+        "title": "Dia anual de resultados e conquistas",
+        "text": "Os nossos alunos órfãos foram celebrados pelas suas conquistas académicas na cerimónia anual de resultados, com jogos, prémios e presentes."
+      }
+    }
+  },
+  "reviewsSection": {
+    "eyebrow": "Vozes da nossa comunidade",
+    "title": "O que dizem visitantes e doadores",
+    "ratingLabel": "Avaliado por visitantes e doadores no Google",
+    "readAll": "Ler todas as avaliações no Google"
+  },
+  "gallerySection": {
+    "eyebrow": "Transparência em imagens",
+    "title": "Momentos de esperança",
+    "exploreLink": "Explorar a galeria completa com mais de 50 fotos",
+    "viewInGallery": "Ver na galeria"
+  },
+  "volunteerSection": {
+    "eyebrow": "Torne-se um agente de mudança",
+    "title": "Ofereça as suas competências, coração e voz à AASRA",
+    "text": "Seja estudante, profissional de saúde, educador ou criador digital, pode juntar-se à nossa rede de embaixadores altruístas que impulsionam uma mudança real.",
+    "registerCta": "Registar-se como voluntário",
+    "whatsappCta": "Perguntar via WhatsApp"
+  }
+}

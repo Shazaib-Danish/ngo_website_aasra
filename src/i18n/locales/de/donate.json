@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "badge": "100 % direkte Hilfspolitik • Keine Verluste durch Zwischenhändler",
+    "titlePrefix": "Investieren Sie in Ihre",
+    "titleHighlight": "ewige Zukunft",
+    "subtitle": "Ihre Sadaqah und Zakat versorgen Waisen und Familien in größter Not in ganz Pakistan mit Nahrung, Bildung, sauberem Wasser und Unterkunft."
+  },
+  "preSelected": {
+    "label": "Vorausgewählter Beitrag",
+    "defaultCause": "Ausgewählter Zweck",
+    "note": "Fahren Sie unten mit Karte oder direkter Bank-Makramah-Überweisung fort."
+  },
+  "tiers": {
+    "eyebrow": "Referenzpreise",
+    "title": "Verifizierte Patenschaftspakete",
+    "swipeHint": "Horizontal wischen zum Entdecken"
+  },
+  "gatewaySelector": {
+    "bank": "Direkte Bank & mobile Wallets",
+    "card": "Online-Karte (weltweit)"
+  },
+  "bankPortal": {
+    "eyebrow": "Lokales & digitales Bankwesen",
+    "title": "Direkte Banküberweisung",
+    "bankLogoAlt": "Bank Makramah",
+    "description": "Überweisen Sie direkt von jedem pakistanischen Bankkonto, Ihrer Raast-ID oder über die Easypaisa- oder JazzCash-App, ohne Transaktionsgebühren.",
+    "rows": {
+      "bankName": "Bankname",
+      "accountTitle": "Kontoinhaber",
+      "accountNumber": "Kontonummer",
+      "ibanNumber": "IBAN-Nummer",
+      "branchCode": "Filialcode",
+      "branchAddress": "Filialadresse"
+    },
+    "copy": "Kopieren",
+    "copied": "Kopiert",
+    "copyAllDetails": "Alle Bankdaten kopieren",
+    "allCopied": "Alle Daten kopiert!",
+    "whatsappSlip": "Spendenbeleg per WhatsApp senden",
+    "doorstepTitle": "Abholung vor Ort & Scheckübergabe",
+    "doorstepText": "Bevorzugen Sie die Abholung von Bargeld/Scheck direkt bei Ihnen zu Hause in Lahore? Oder möchten Sie einen Verrechnungsscheck per Kurier senden? Kontaktieren Sie unsere Hotline unter {{phone}} oder besuchen Sie unser Büro unter {{address}}."
+  },
+  "cardPortal": {
+    "eyebrow": "Weltweite Kredit- & Debitkartenspenden",
+    "title": "Online-Kartenspende",
+    "subtitle": "Sichere Sofortspende weltweit per Visa, MasterCard, Apple Pay und Google Pay.",
+    "categories": {
+      "Zakat": "Zakat",
+      "Sadaqah": "Sadaqah",
+      "General Relief": "Allgemeine Hilfe",
+      "Orphan Care": "Waisenbetreuung"
+    },
+    "trustBadges": {
+      "ssl": "256-Bit-SSL-Verschlüsselung",
+      "receipt": "Offizielle Spendenquittung",
+      "taxExempt": "FBR-steuerbefreit NTN: 4547488",
+      "compliant": "100 % richtlinienkonform"
+    }
+  },
+  "impactTiers": {
+    "meal-person": { "title": "Essen für 1 Person", "description": "Bietet einem hungernden Kind oder Tagelöhner eine vollwertige, nahrhafte warme Mahlzeit.", "badge": "Schnelle Sadaqah" },
+    "food-pack": { "title": "Monatliches Nahrungsmittel-Rationspaket", "description": "Mehl, Reis, Hülsenfrüchte, Speiseöl und lebenswichtige Güter zur Versorgung einer bedürftigen Familie für einen ganzen Monat." },
+    "orphan-month": { "title": "1 Waisenkind sponsern (monatlich)", "description": "Vollständige Unterbringung, 3 nahrhafte Mahlzeiten täglich, formale Privatschulbildung, Gesundheitsversorgung und Nachhilfe.", "badge": "Am dringendsten benötigt" },
+    "hand-pump": { "title": "Eigene Trinkwasser-Handpumpe", "description": "Vollständige Installation einer gravierten, robusten Handpumpe, die täglich über 40 Familien versorgt.", "badge": "Sadaqah Jariyah" },
+    "solar-pump": { "title": "Solarwasserpumpenprojekt", "description": "Tiefes, solarbetriebenes Tauchpumpensystem zur Wasserförderung für ganze von Dürre betroffene Dörfer.", "badge": "Hohe Wirkung" },
+    "orphan-year": { "title": "1 Waisenkind sponsern (1 Jahr)", "description": "12 volle Monate ganzheitlicher Entwicklung, Unterbringung, hochwertiger Bildung, medizinischer Versorgung und Würde.", "badge": "Transformativ" }
+  }
+}

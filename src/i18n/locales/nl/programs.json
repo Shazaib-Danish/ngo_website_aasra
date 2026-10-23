@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Gebieden van humanitaire impact",
+    "title": "Onze kernprogramma's",
+    "subtitle": "Gerichte, gemeenschapsgerichte welzijnsinitiatieven, ontworpen voor blijvende zelfredzaamheid, waardigheid en transparantie in heel Pakistan."
+  },
+  "filters": {
+    "all": "Alle programma's",
+    "orphan-care": "Zorg en onderwijs voor wezen",
+    "clean-water": "Schoonwaterprojecten",
+    "flood-relief": "Overstromings- en noodhulp",
+    "relief-work": "Gemeenschappelijke voedselhulp"
+  },
+  "card": {
+    "donationGoal": "Donatiedoel",
+    "raisedOf": "opgehaald van",
+    "funded": "% gefinancierd",
+    "needed": "mln. nodig",
+    "unitCosts": "Eenheidskosten:",
+    "fullStory": "Volledig programmaverhaal & foto's",
+    "sponsorProject": "Sponsor project"
+  },
+  "bottomCta": {
+    "title": "Kunt u niet kiezen welk programma u wilt steunen?",
+    "text": "Doneer aan ons <1>Fonds voor de Grootste Nood</1>, en onze veldcoördinatoren wijzen uw Sadaqah toe aan de meest urgente noodsituatie ter plaatse.",
+    "fundName": "Fonds voor de Grootste Nood",
+    "cta": "Doneer aan grootste nood"
+  },
+  "detail": {
+    "aboutInitiative": "Over het initiatief",
+    "sustainableTitle": "Duurzame impact",
+    "sustainableText": "Ontworpen voor blijvend voordeel, geen tijdelijke hulp. Handpompen gaan tientallen jaren mee, en opgeleide wezen worden zelfstandige leiders.",
+    "photographicTitle": "100% fotografisch bewijs",
+    "photographicText": "Donateurs ontvangen realtime fotografische overdrachten met gps-locaties en gegraveerde opdrachtplaquettes met de naam van de donateur.",
+    "fieldDocEyebrow": "Documentatie uit het veld",
+    "fromTheField": "Vanuit het veld",
+    "clickToView": "Klik op een foto om deze op ware grootte te bekijken",
+    "supportInitiative": "Steun dit specifieke initiatief",
+    "makeADifference": "Maak vandaag een echt verschil",
+    "everyContribution": "Elke bijdrage brengt waardigheid, levensonderhoud en hoop aan gezinnen die nergens anders terechtkunnen.",
+    "sponsorNow": "Sponsor dit programma nu",
+    "activeCampaignGoal": "Doel van de actieve campagne",
+    "funded": "% gefinancierd",
+    "raised": "Opgehaald:",
+    "targetGoal": "Streefdoel:",
+    "millionNeeded": "mln. nodig om het doel van deze cyclus te bereiken.",
+    "standardUnitCosts": "Standaard eenheidskosten:",
+    "immediateAction": "Directe actie",
+    "supportProgram": "Steun {{title}}",
+    "zakatSadaqah": "Kies ervoor uw Zakat of Sadaqah te doneren aan dit geverifieerde initiatief met 100% directe toewijzing.",
+    "donateProject": "Doneer aan dit project",
+    "speakCoordinator": "Spreek met de programmacoördinator",
+    "whatsappCoordinator": "WhatsApp-coördinator",
+    "callPhone": "Bel {{phone}}",
+    "backToPrograms": "Terug naar overzicht van alle programma's",
+    "closeViewer": "Beeldviewer sluiten",
+    "previousPhoto": "Vorige foto",
+    "nextPhoto": "Volgende foto",
+    "photoCounter": "Foto {{current}} van {{total}} • {{title}}",
+    "fullView": "volledige weergave",
+    "documentation": "documentatie"
+  },
+  "items": {
+    "orphan-care": {
+      "title": "Zorg en onderwijs voor wezen",
+      "tagline": "Onderdak, scholing en een gezin voor kinderen die dat niet hebben.",
+      "description": "Het bieden van veilig onderdak, kwalitatief onderwijs, voedzame maaltijden en religieuze opvoeding aan weeskinderen en kwetsbare kinderen.",
+      "longDescription": [
+        "Aasra Welfare Society beheert een toegewijd weeshuis in Lahore, waar momenteel meer dan 32 kinderen worden ondersteund die één of beide ouders hebben verloren. Elk kind onder onze zorg krijgt een veilige plek om te wonen, drie voedzame maaltijden per dag, en toegang tot formeel onderwijs naast islamitisch onderwijs.",
+        "Naast de basisbehoeften investeren wij in de langetermijntoekomst van elk kind via bijlesondersteuning, buitenschoolse activiteiten, jaarlijkse resultatenvieringen en regelmatige gezondheidscontroles. Ons doel is niet alleen kinderen op te vangen, maar zelfverzekerde, opgeleide individuen op te voeden die op eigen benen kunnen staan.",
+        "Elke donatie aan dit programma wordt rechtstreeks gebruikt voor kost en inwoning, schoolgeld, uniformen, boeken en gezondheidszorg voor de kinderen onder onze zorg."
+      ],
+      "unitCosts": ["Maandelijks sponsorschap", "Jaarlijks sponsorschap"]
+    },
+    "clean-water": {
+      "title": "Schoonwaterprojecten",
+      "tagline": "Handpompen en schoonwaterpunten voor onderbediende dorpen.",
+      "description": "Het installeren van handpompen en zonne-energie waterpunten in door overstromingen getroffen en waterarme dorpen in Punjab, zodat gezinnen niet langer hoeven te lopen voor schoon water.",
+      "longDescription": [
+        "Toegang tot schoon drinkwater blijft een van de grootste uitdagingen voor plattelandsgemeenschappen in heel Pakistan, vooral in gebieden die herstellen van overstromingen. Aasra Welfare Society heeft tot nu toe meer dan 170 waterhandpompen en waterpunten geïnstalleerd en overgedragen, elk genummerd, gedocumenteerd en opgedragen namens de donateur of hun dierbaren.",
+        "Elke installatie wordt voltooid in aanwezigheid van de lokale gemeenschap, en elke pomp krijgt een plaquette met het projectnummer, zodat donateurs precies kunnen volgen waar hun bijdrage naartoe is gegaan. Wij geven prioriteit aan dorpen zonder bestaande veilige waterbron, in nauwe samenwerking met lokale oudsten om de meest urgente locaties te identificeren.",
+        "Eén enkele waterpomp kan jarenlang tientallen gezinnen van dienst zijn, waardoor dit een van de meest duurzame en kosteneffectieve vormen van liefdadigheid (Sadaqah Jariyah) is die u kunt geven."
+      ],
+      "unitCosts": ["Eigen handpomp", "Zonne-onderwaterpomp"]
+    },
+    "relief-work": {
+      "title": "Gemeenschapshulp en voedselondersteuning",
+      "tagline": "Aan de zijde van kwetsbare gezinnen in dagelijkse tegenslag.",
+      "description": "Gemeenschapswerk ter plaatse, rantsoenverdeling, dagelijkse warme maaltijden en ondersteuning voor weduwen, dagloners en gezinnen onder de armoedegrens.",
+      "longDescription": [
+        "Niet elke tegenslag haalt de krantenkoppen. Naast ons noodhulpwerk voert Aasra Welfare Society doorlopende gemeenschapshulpoperaties uit — het bezoeken van dorpen en nederzettingen om voedselrantsoenen te verstrekken, gezinnen in nood te ontmoeten en hen te verbinden met onze andere programma's, zoals weespatronage en waterprojecten.",
+        "Onze veldteams werken rechtstreeks samen met gemeenschappen, luisteren naar hun behoeften en zorgen ervoor dat hulp de huishoudens bereikt die het het hardst nodig hebben, met volledige transparantie en zonder tussenpersonen."
+      ],
+      "unitCosts": ["Voedsel voor 1 persoon", "Maandelijks rantsoenpakket"]
+    },
+    "flood-relief": {
+      "title": "Overstromingshulp en noodrespons",
+      "tagline": "Snelle actie ter plaatse wanneer een ramp toeslaat.",
+      "description": "Noodtenten, rantsoenpakketten, schoon water en wederopbouwsteun rechtstreeks geleverd aan gezinnen die getroffen zijn door overstromingen in Punjab en Sindh.",
+      "longDescription": [
+        "Wanneer overstromingen een regio verwoesten, zijn de teams van Aasra Welfare Society onder de eersten ter plaatse — zij beoordelen de schade, verdelen noodtenten en rantsoenpakketten, en richten tijdelijke waterpunten in in getroffen dorpen.",
+        "Onze hulprespons gaat verder dan de directe noodsituatie. Wij vervolgen met herstelwerkzaamheden, waaronder de wederopbouw van beschadigde gemeenschapsvoorzieningen zoals moskeeën en gedeelde faciliteiten, en het verstrekken van essentiële benodigdheden zoals dekens, hygiënepakketten en warme maaltijden aan ontheemde gezinnen.",
+        "Bij recente overstromingshulpoperaties hebben wij rantsoenpakketten en schoon water verstrekt aan honderden gezinnen, en blijven wij de herstelinspanningen ondersteunen, lang nadat de eerste noodsituatie voorbij is."
+      ],
+      "unitCosts": ["Noodpakket", "Onderdakstent"]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Interactieve sharia-berekeningstool",
+    "title": "Zakat-calculator",
+    "subtitle": "Bereken nauwkeurig uw verplichte vermogenszuivering van 2,5%, volgens de klassieke islamitische rechtsleer, en wijs deze rechtstreeks toe aan geverifieerde wezen en behoeftige gezinnen."
+  },
+  "nisabSelector": {
+    "eyebrow": "Selecteer Nisab-richtwaarde",
+    "note": "De meeste hedendaagse geleerden raden de <1>zilverstandaard</1> aan om de hulp aan de armen te maximaliseren.",
+    "silverOption": "Zilveren Nisab (612,36g)",
+    "goldOption": "Gouden Nisab (87,48g)",
+    "activeThreshold": "Actieve drempel:",
+    "standardSuffix": "standaard",
+    "rateNote": "Zilverprijs: ₨{{silverRate}}/g • Goudprijs: ₨{{goldRate}}/g"
+  },
+  "fields": {
+    "cashInHand": { "label": "Contant geld thuis & op de bank", "description": "Spaargeld, betaalrekeningen en contante noodfondsen" },
+    "foreignCurrency": { "label": "Buitenlandse valuta (in PKR)", "description": "Equivalente waarde in USD, GBP, EUR, SAR, enz." },
+    "goldValue": { "label": "Goud & gouden sieraden (PKR)", "description": "Totale huidige marktwaarde bij verkoop van goudbezit" },
+    "silverValue": { "label": "Zilver & zilveren voorwerpen (PKR)", "description": "Huidige marktwaarde van zilverstaven, munten & sieraden" },
+    "businessStock": { "label": "Handelswaar & voorraad van bedrijf", "description": "Netto groothandelswaarde van goederen bestemd voor wederverkoop" },
+    "receivables": { "label": "Geld dat u toekomt (goede schulden)", "description": "Verstrekte leningen die u verwacht terugbetaald te krijgen" },
+    "sharesInvestments": { "label": "Aandelen, beleggingsfondsen & crypto", "description": "Liquide, verhandelbare beleggingsportefeuillewaarden" },
+    "liabilities": { "label": "Directe schulden & openstaande rekeningen", "description": "Achterstallige betalingen, komende maandrekeningen, directe leningen" }
+  },
+  "assetsCard": {
+    "title": "Voer uw bezittingen in (PKR)",
+    "resetAll": "Alles resetten"
+  },
+  "results": {
+    "liveCalculation": "Live berekening",
+    "nisabMet": "Nisab bereikt (verplicht)",
+    "belowNisab": "Onder de Nisab-drempel",
+    "totalGrossWealth": "Totaal bruto vermogen:",
+    "deductibleLiabilities": "Aftrekbare schulden:",
+    "netZakatableWealth": "Netto zakatplichtig vermogen:",
+    "calculatedZakat": "Berekende verschuldigde Zakat (2,5%)",
+    "purifyNote": "Zuiver uw vermogen met 100% directe hulp aan wezen en noodgevallen.",
+    "noObligatoryNote": "U bent geen verplichte Zakat verschuldigd, maar vrijwillige Sadaqah wordt door Allah bemind.",
+    "instantAllocation": "Directe toewijzing aan AASRA:",
+    "allocateOrphan": "Toewijzen aan Weeszorgfonds",
+    "allocateWater": "Toewijzen aan schoonwaterputten",
+    "allocateGeneral": "Algemeen Mustahiq Zakat-fonds"
+  },
+  "causes": {
+    "orphanCare": "Zorg en onderwijs voor wezen",
+    "cleanWater": "Schoonwaterprojecten",
+    "generalZakat": "Algemeen Zakat-fonds"
+  },
+  "hawlNote": {
+    "title": "Hawl-regel (1 maanjaar)",
+    "text": "Zakat is verschuldigd zodra iemand de Nisab-drempel gedurende één volledig maanjaar (ongeveer 354 dagen) onafgebroken bezit."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Interaktiver Scharia-Berechnungsmotor",
+    "title": "Zakat-Rechner",
+    "subtitle": "Berechnen Sie Ihre obligatorische 2,5%ige Vermögensläuterung genau nach klassischer islamischer Rechtsprechung und weisen Sie sie direkt verifizierten Waisen und bedürftigen Familien zu."
+  },
+  "nisabSelector": {
+    "eyebrow": "Nisab-Richtwert wählen",
+    "note": "Die meisten zeitgenössischen Gelehrten empfehlen den <1>Silberstandard</1>, um die Hilfe für die Armen zu maximieren.",
+    "silverOption": "Silber-Nisab (612,36g)",
+    "goldOption": "Gold-Nisab (87,48g)",
+    "activeThreshold": "Aktueller Schwellenwert:",
+    "standardSuffix": "Standard",
+    "rateNote": "Silberpreis: ₨{{silverRate}}/g • Goldpreis: ₨{{goldRate}}/g"
+  },
+  "fields": {
+    "cashInHand": { "label": "Bargeld zu Hause & auf der Bank", "description": "Ersparnisse, Girokonten und Notfall-Bargeldreserven" },
+    "foreignCurrency": { "label": "Fremdwährung (in PKR)", "description": "Gegenwert in USD, GBP, EUR, SAR usw." },
+    "goldValue": { "label": "Gold & Goldschmuck (PKR)", "description": "Aktueller Gesamtwiederverkaufswert der Goldbestände auf dem Markt" },
+    "silverValue": { "label": "Silber & Silberwaren (PKR)", "description": "Aktueller Marktwert von Silberbarren, -münzen und -schmuck" },
+    "businessStock": { "label": "Geschäftsware & Lagerbestand", "description": "Netto-Großhandelswert der zum Wiederverkauf bestimmten Waren" },
+    "receivables": { "label": "Ihnen geschuldetes Geld (gute Forderungen)", "description": "Vergebene Darlehen, deren Rückzahlung Sie erwarten" },
+    "sharesInvestments": { "label": "Aktien, Investmentfonds & Krypto", "description": "Liquide, handelbare Anlageportfoliowerte" },
+    "liabilities": { "label": "Sofortige Schulden & fällige Rechnungen", "description": "Überfällige Zahlungen, anstehende Monatsrechnungen, sofortige Kredite" }
+  },
+  "assetsCard": {
+    "title": "Geben Sie Ihr Vermögen ein (PKR)",
+    "resetAll": "Alles zurücksetzen"
+  },
+  "results": {
+    "liveCalculation": "Live-Berechnung",
+    "nisabMet": "Nisab erreicht (verpflichtend)",
+    "belowNisab": "Unter dem Nisab-Schwellenwert",
+    "totalGrossWealth": "Gesamtes Bruttovermögen:",
+    "deductibleLiabilities": "Abzugsfähige Verbindlichkeiten:",
+    "netZakatableWealth": "Netto-zakatpflichtiges Vermögen:",
+    "calculatedZakat": "Berechnete fällige Zakat (2,5 %)",
+    "purifyNote": "Läutern Sie Ihr Vermögen mit 100 % direkter Waisen- und Nothilfe.",
+    "noObligatoryNote": "Sie schulden keine verpflichtende Zakat, aber freiwillige Sadaqah wird von Allah geliebt.",
+    "instantAllocation": "Sofortige Zuteilung an AASRA:",
+    "allocateOrphan": "Dem Waisenbetreuungsfonds zuteilen",
+    "allocateWater": "Trinkwasserbrunnen zuteilen",
+    "allocateGeneral": "Allgemeiner Mustahiq-Zakat-Fonds"
+  },
+  "causes": {
+    "orphanCare": "Waisenbetreuung & Bildung",
+    "cleanWater": "Trinkwasserprojekte",
+    "generalZakat": "Allgemeiner Zakat-Fonds"
+  },
+  "hawlNote": {
+    "title": "Hawl-Regel (1 Mondjahr)",
+    "text": "Zakat wird fällig, sobald eine Person den Nisab-Schwellenwert durchgehend für ein volles Mondjahr (etwa 354 Tage) besitzt."
+  }
+}

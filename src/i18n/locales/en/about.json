@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "badge": "Our Origin & Commitment",
+    "title": "Restoring Hope & Dignity",
+    "quote": "\"Serving humanity with Ihsan, ethical stewardship, and radical transparency.\""
+  },
+  "story": {
+    "eyebrow": "Our Journey",
+    "title": "From a Humble Beginning to a Nationwide Lifeline",
+    "paragraph1": "Aasra Welfare Society was founded in 2021 in Lahore, Pakistan, with a deeply personal conviction: no orphan should ever feel abandoned, unloved, or uneducated.",
+    "paragraph2": "What started with a handful of children in a modest home has grown into an impactful welfare society. We combine long-term orphan sponsorship with urgent emergency water wells and disaster relief, operating with 100% direct accountability."
+  },
+  "timeline": {
+    "title": "Key Milestones",
+    "items": {
+      "1": {
+        "year": "2021",
+        "badge": "Inception",
+        "title": "The Foundation in Lahore",
+        "text": "Established in Lahore with a heartfelt mission: to rescue orphaned children from destitution, providing full shelter, family care, and formal schooling."
+      },
+      "2": {
+        "year": "2022–2024",
+        "badge": "Sadaqah Jariyah",
+        "title": "Clean Water Expansion",
+        "text": "Launched our dedicated hand pump installation initiative across underserved Punjab villages, surpassing 170+ clean water projects with individual donor dedication plaques."
+      },
+      "3": {
+        "year": "2025–Present",
+        "badge": "Disaster Relief",
+        "title": "Emergency Flood Relief & Rapid Response",
+        "text": "Mobilized emergency field response teams during catastrophic floods across South Punjab and Sindh, delivering waterproof tents, food rations, clean water, and rehabilitation."
+      }
+    }
+  },
+  "vision": {
+    "title": "Our Vision",
+    "text": "A compassionate, equitable society where orphans thrive, clean drinking water is accessible to every rural home, and no family sleeps hungry."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "text": "Delivering holistic welfare services through character-building education, permanent clean water infrastructure, and transparent emergency distribution."
+  },
+  "imageAlts": {
+    "students": "AASRA Orphan Care Home students",
+    "waterHandover": "Clean Water Handover"
+  },
+  "commitmentBox": {
+    "eyebrow": "Ethical Stewardship",
+    "title": "100% Policy Guarantee",
+    "text": "AASRA Welfare Society does not subtract administrative overhead from your designated charity gifts. Every rupee reaches the children and field projects directly."
+  },
+  "registrations": {
+    "eyebrow": "Legal Verification",
+    "title": "Officially Registered & Verified NGO",
+    "subtitle": "Fully compliant with Pakistani non-profit statutes, social welfare regulations, and charity commission audits.",
+    "items": {
+      "1": {
+        "authority": "Government of Punjab",
+        "label": "Social Welfare & Bait-ul-Maal",
+        "status": "Verified & Active"
+      },
+      "2": {
+        "authority": "Punjab Charity Commission",
+        "label": "Official Registration",
+        "status": "Audited & Compliant"
+      },
+      "3": {
+        "authority": "Federal Board of Revenue (FBR)",
+        "label": "National Tax Number (NTN)",
+        "status": "Tax-Exempt Non-Profit"
+      }
+    },
+    "exploreCta": "Explore Our Programs in Action"
+  }
+}

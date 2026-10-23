@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "badge": "Onze oorsprong & toewijding",
+    "title": "Hoop & Waardigheid Herstellen",
+    "quote": "\"De mensheid dienen met Ihsan, ethisch beheer en radicale transparantie.\""
+  },
+  "story": {
+    "eyebrow": "Onze reis",
+    "title": "Van een bescheiden begin tot een landelijke levenslijn",
+    "paragraph1": "Aasra Welfare Society werd in 2021 opgericht in Lahore, Pakistan, vanuit een diep persoonlijke overtuiging: geen enkele wees zou zich ooit verlaten, ongeliefd of ongeschoold moeten voelen.",
+    "paragraph2": "Wat begon met een handjevol kinderen in een bescheiden huis, is uitgegroeid tot een invloedrijke welzijnsorganisatie. Wij combineren langdurige weespatronage met dringende noodwaterputten en rampenhulp, met 100% directe verantwoording."
+  },
+  "timeline": {
+    "title": "Belangrijke mijlpalen",
+    "items": {
+      "1": {
+        "year": "2021",
+        "badge": "Oprichting",
+        "title": "De oprichting in Lahore",
+        "text": "Opgericht in Lahore met een oprechte missie: weeskinderen redden van armoede door volledige opvang, gezinszorg en formeel onderwijs te bieden."
+      },
+      "2": {
+        "year": "2022–2024",
+        "badge": "Sadaqah Jariyah",
+        "title": "Uitbreiding schoon water",
+        "text": "Lancering van ons toegewijde initiatief voor de aanleg van handpompen in onderbediende dorpen in Punjab, met inmiddels meer dan 170 schoonwaterprojecten met individuele opdrachtplaquettes voor donateurs."
+      },
+      "3": {
+        "year": "2025–Heden",
+        "badge": "Rampenhulp",
+        "title": "Noodhulp bij overstromingen & snelle respons",
+        "text": "Mobilisatie van noodresponsteams tijdens catastrofale overstromingen in Zuid-Punjab en Sindh, met waterdichte tenten, voedselrantsoenen, schoon water en herstel."
+      }
+    }
+  },
+  "vision": {
+    "title": "Onze visie",
+    "text": "Een meelevende, rechtvaardige samenleving waarin wezen floreren, schoon drinkwater toegankelijk is voor elk landelijk huishouden, en geen gezin hongerig naar bed gaat."
+  },
+  "mission": {
+    "title": "Onze missie",
+    "text": "Het leveren van holistische welzijnsdiensten door karaktervormend onderwijs, permanente infrastructuur voor schoon water en transparante nooddistributie."
+  },
+  "imageAlts": {
+    "students": "Leerlingen van het AASRA-weeshuis",
+    "waterHandover": "Overdracht van schoon water"
+  },
+  "commitmentBox": {
+    "eyebrow": "Ethisch beheer",
+    "title": "100% beleidsgarantie",
+    "text": "Aasra Welfare Society trekt geen administratieve kosten af van uw bestemde liefdadigheidsgiften. Elke roepie komt rechtstreeks bij de kinderen en veldprojecten terecht."
+  },
+  "registrations": {
+    "eyebrow": "Juridische verificatie",
+    "title": "Officieel geregistreerde & geverifieerde ngo",
+    "subtitle": "Volledig conform de Pakistaanse non-profitstatuten, sociale welzijnsregelgeving en audits van de liefdadigheidscommissie.",
+    "items": {
+      "1": {
+        "authority": "Regering van Punjab",
+        "label": "Sociaal welzijn & Bait-ul-Maal",
+        "status": "Geverifieerd & actief"
+      },
+      "2": {
+        "authority": "Liefdadigheidscommissie Punjab",
+        "label": "Officiële registratie",
+        "status": "Gecontroleerd & conform"
+      },
+      "3": {
+        "authority": "Federale Belastingdienst (FBR)",
+        "label": "Nationaal belastingnummer (NTN)",
+        "status": "Belastingvrije non-profitorganisatie"
+      }
+    },
+    "exploreCta": "Ontdek onze programma's in actie"
+  }
+}

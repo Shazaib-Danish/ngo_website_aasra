@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "badge": "Join Our Volunteer Family",
+    "title": "Give Your Time. Change a Life.",
+    "subtitle": "Students, professionals, parents and retirees: every skill matters. Join AASRA volunteers helping orphans, flood-hit families and communities across Pakistan.",
+    "cta": "Apply to Volunteer",
+    "whatsapp": "Ask on WhatsApp",
+    "statValue": "Every hour counts",
+    "statLabel": "Real impact, on the ground"
+  },
+  "why": {
+    "eyebrow": "Why Volunteer",
+    "title": "More Than Helping. Belonging.",
+    "perks": {
+      "impact": {
+        "title": "Direct Impact",
+        "text": "See your effort reach orphans, families and flood survivors first-hand."
+      },
+      "certificate": {
+        "title": "Certificate",
+        "text": "Receive a volunteer certificate and reference for your work."
+      },
+      "community": {
+        "title": "Community",
+        "text": "Meet like-minded people who share your values of Ihsan and service."
+      },
+      "flexible": {
+        "title": "Flexible Time",
+        "text": "Help on-site or remotely, weekends or a few hours a month."
+      }
+    }
+  },
+  "steps": {
+    "title": "How It Works",
+    "apply": {
+      "title": "Apply Online",
+      "text": "Fill in the short form. It takes about 2 minutes."
+    },
+    "call": {
+      "title": "We Get in Touch",
+      "text": "Our team contacts you on WhatsApp or by phone."
+    },
+    "start": {
+      "title": "Start Making a Difference",
+      "text": "Join a project that matches your skills and time."
+    }
+  },
+  "form": {
+    "eyebrow": "Volunteer Registration",
+    "title": "Tell Us About Yourself",
+    "subtitle": "Fields marked * are required.",
+    "sections": {
+      "about": "Your Details",
+      "skills": "Your Skills",
+      "more": "Anything Else"
+    },
+    "name": "Full Name *",
+    "namePlaceholder": "e.g. Ayesha Malik",
+    "email": "Email Address *",
+    "emailPlaceholder": "ayesha@example.com",
+    "phone": "Phone Number *",
+    "phonePlaceholder": "+92 300 1234567",
+    "sameWhatsapp": "I use this number on WhatsApp",
+    "whatsapp": "WhatsApp Number *",
+    "skillsHint": "Select any that apply (optional), or add your own.",
+    "otherSkillPlaceholder": "Other skill, e.g. Cooking",
+    "addSkill": "Add",
+    "removeSkill": "Remove {{skill}}",
+    "additionalInfo": "Any Other Information",
+    "additionalInfoPlaceholder": "Your city, availability, past volunteering, languages you speak...",
+    "submit": "Submit Volunteer Application",
+    "sending": "Submitting...",
+    "error": "Sorry, your application could not be sent. Please check your connection and try again, or message us on WhatsApp at {{whatsapp}}.",
+    "privacyNote": "Your details are only used by AASRA to contact you about volunteering."
+  },
+  "success": {
+    "title": "JazakAllah Khair!",
+    "text": "Your volunteer application has been received. Our team will contact you on WhatsApp or by phone soon.",
+    "explore": "Explore Our Programs",
+    "another": "Register another volunteer"
+  },
+  "skills": {
+    "Teaching & Tutoring": "Teaching & Tutoring",
+    "Medical & Healthcare": "Medical & Healthcare",
+    "Social Media & Design": "Social Media & Design",
+    "Photography & Video": "Photography & Video",
+    "Fundraising": "Fundraising",
+    "Event Management": "Event Management",
+    "IT & Web Development": "IT & Web Development",
+    "Logistics & Distribution": "Logistics & Distribution",
+    "Translation": "Translation",
+    "Field Work": "Field Work"
+  }
+}

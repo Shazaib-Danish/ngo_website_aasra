@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "badge": "Notre origine et notre engagement",
+    "title": "Restaurer l'espoir et la dignité",
+    "quote": "« Servir l'humanité avec Ihsan, une gestion éthique et une transparence radicale. »"
+  },
+  "story": {
+    "eyebrow": "Notre parcours",
+    "title": "D'un humble début à un soutien national",
+    "paragraph1": "Aasra Welfare Society a été fondée en 2021 à Lahore, au Pakistan, avec une conviction profondément personnelle : aucun orphelin ne devrait jamais se sentir abandonné, non aimé ou non instruit.",
+    "paragraph2": "Ce qui a commencé avec une poignée d'enfants dans un modeste foyer est devenu une société de bienfaisance influente. Nous combinons le parrainage d'orphelins à long terme avec des puits d'eau d'urgence et des secours en cas de catastrophe, en fonctionnant avec une responsabilité directe à 100 %."
+  },
+  "timeline": {
+    "title": "Étapes clés",
+    "items": {
+      "1": {
+        "year": "2021",
+        "badge": "Création",
+        "title": "La fondation à Lahore",
+        "text": "Fondée à Lahore avec une mission sincère : sauver les enfants orphelins de la misère, en leur offrant un abri complet, des soins familiaux et une scolarité formelle."
+      },
+      "2": {
+        "year": "2022–2024",
+        "badge": "Sadaqah Jariyah",
+        "title": "Expansion de l'eau potable",
+        "text": "Lancement de notre initiative dédiée d'installation de pompes à main dans les villages défavorisés du Pendjab, dépassant 170+ projets d'eau potable avec des plaques de dédicace individuelles pour les donateurs."
+      },
+      "3": {
+        "year": "2025–Présent",
+        "badge": "Secours aux sinistrés",
+        "title": "Secours d'urgence en cas d'inondation et réponse rapide",
+        "text": "Mobilisation d'équipes d'intervention d'urgence sur le terrain lors des inondations catastrophiques dans le sud du Pendjab et le Sindh, fournissant tentes étanches, rations alimentaires, eau potable et réhabilitation."
+      }
+    }
+  },
+  "vision": {
+    "title": "Notre vision",
+    "text": "Une société compatissante et équitable où les orphelins s'épanouissent, où l'eau potable est accessible à chaque foyer rural, et où aucune famille ne se couche affamée."
+  },
+  "mission": {
+    "title": "Notre mission",
+    "text": "Fournir des services sociaux holistiques grâce à une éducation formatrice, une infrastructure permanente d'eau potable et une distribution d'urgence transparente."
+  },
+  "imageAlts": {
+    "students": "Élèves du foyer d'accueil pour orphelins AASRA",
+    "waterHandover": "Remise d'un point d'eau potable"
+  },
+  "commitmentBox": {
+    "eyebrow": "Gestion éthique",
+    "title": "Garantie de politique à 100 %",
+    "text": "Aasra Welfare Society ne déduit aucun frais administratif de vos dons caritatifs désignés. Chaque roupie parvient directement aux enfants et aux projets sur le terrain."
+  },
+  "registrations": {
+    "eyebrow": "Vérification légale",
+    "title": "ONG officiellement enregistrée et vérifiée",
+    "subtitle": "Entièrement conforme aux statuts pakistanais des organismes à but non lucratif, aux réglementations sur le bien-être social et aux audits de la commission caritative.",
+    "items": {
+      "1": {
+        "authority": "Gouvernement du Pendjab",
+        "label": "Bien-être social et Bait-ul-Maal",
+        "status": "Vérifié et actif"
+      },
+      "2": {
+        "authority": "Commission caritative du Pendjab",
+        "label": "Enregistrement officiel",
+        "status": "Audité et conforme"
+      },
+      "3": {
+        "authority": "Bureau fédéral des recettes (FBR)",
+        "label": "Numéro fiscal national (NTN)",
+        "status": "Organisme à but non lucratif exonéré d'impôt"
+      }
+    },
+    "exploreCta": "Découvrir nos programmes en action"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Trasparenza visiva e prova del lavoro svolto",
+    "title": "L'impatto in immagini",
+    "subtitle": "Assisti alla trasformazione reale portata dalla tua generosità a orfani, villaggi assetati d'acqua e famiglie colpite dalle alluvioni."
+  },
+  "clickToView": "Clicca per visualizzare",
+  "closeViewer": "Chiudi il visualizzatore di foto",
+  "previousImage": "Immagine precedente",
+  "nextImage": "Immagine successiva",
+  "photoCounter": "Foto {{current}} di {{total}} • {{category}}",
+  "categories": {
+    "All": "Tutte",
+    "Orphan Care": "Cura degli orfani",
+    "Clean Water": "Acqua pulita",
+    "Flood Relief": "Soccorso alluvioni",
+    "Relief Work": "Lavoro di soccorso"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "La vita nella casa di accoglienza per orfani",
+    "Learning Together": "Imparare insieme",
+    "Shared Meals, Shared Family": "Pasti condivisi, famiglia condivisa",
+    "Celebrating Achievements": "Celebrare i risultati",
+    "A Safe Place to Grow": "Un luogo sicuro per crescere",
+    "School Days": "Giorni di scuola",
+    "Clean Water Handover": "Consegna di acqua pulita",
+    "Hand Pump Installation": "Installazione di pompa a mano",
+    "Water for Every Home": "Acqua per ogni casa",
+    "Community Water Point": "Punto d'acqua comunitario",
+    "Dua Ceremony at a New Well": "Cerimonia di dua a un nuovo pozzo",
+    "Flood Relief Response": "Risposta al soccorso alluvioni",
+    "Assessing the Damage": "Valutazione dei danni",
+    "Emergency Aid Distribution": "Distribuzione di aiuti di emergenza",
+    "Standing With Flood-Hit Families": "Al fianco delle famiglie colpite dalle alluvioni",
+    "Field Relief Operations": "Operazioni di soccorso sul campo",
+    "Rebuilding After the Flood": "Ricostruire dopo l'alluvione",
+    "Community Outreach": "Sensibilizzazione della comunità",
+    "Field Visit": "Visita sul campo",
+    "Serving the Community": "Al servizio della comunità",
+    "Relief Work in Progress": "Lavoro di soccorso in corso"
+  }
+}

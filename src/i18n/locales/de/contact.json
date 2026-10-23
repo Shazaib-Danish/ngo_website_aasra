@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "badge": "Wir sind immer für Sie da",
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Assalam-o-Alaikum! Haben Sie Fragen zur Waisenpatenschaft, zur Widmung eines Trinkwasserbrunnens oder zur ehrenamtlichen Mitarbeit? Wenden Sie sich an unser engagiertes Team."
+  },
+  "intentChips": {
+    "Sponsor an Orphan": "Waisenkind sponsern",
+    "Water Well Dedication": "Brunnenwidmung",
+    "Volunteer / Ambassador": "Freiwilliger / Botschafter",
+    "Zakat Inquiries": "Fragen zur Zakat",
+    "General Question": "Allgemeine Frage"
+  },
+  "inquiryPrefill": "Anfrage bezüglich: {{chip}}",
+  "contactPoints": {
+    "headquarters": {
+      "label": "Hauptsitz",
+      "action": "Karte öffnen"
+    },
+    "helpline": {
+      "label": "Hotline & Anfragen",
+      "action": "Jetzt anrufen"
+    },
+    "email": {
+      "label": "Offizielle E-Mail",
+      "action": "E-Mail senden"
+    },
+    "whatsapp": {
+      "label": "WhatsApp-Hotline",
+      "action": "Live chatten"
+    }
+  },
+  "map": {
+    "openInMaps": "In Maps öffnen"
+  },
+  "form": {
+    "eyebrow": "Direktnachricht",
+    "title": "Wie können wir Ihnen helfen?",
+    "selectReason": "Wählen Sie den Grund Ihrer Anfrage:",
+    "fullName": "Ihr vollständiger Name *",
+    "fullNamePlaceholder": "z. B. Abdullah Khan",
+    "email": "E-Mail-Adresse *",
+    "emailPlaceholder": "abdullah@example.com",
+    "phone": "Telefon-/WhatsApp-Nummer",
+    "phonePlaceholder": "+92 300 1234567",
+    "subject": "Betreff *",
+    "message": "Ihre Nachricht *",
+    "messagePlaceholder": "Bitte teilen Sie uns Details oder Fragen mit...",
+    "submit": "Nachricht an Team senden",
+    "privacyNote": "Wir respektieren Ihre Privatsphäre. Anfragen werden direkt von unseren Geschäftsführern bearbeitet.",
+    "sending": "Wird gesendet...",
+    "error": "Leider konnte Ihre Nachricht nicht gesendet werden. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut, oder schreiben Sie uns auf WhatsApp unter {{whatsapp}}."
+  },
+  "success": {
+    "title": "Vielen Dank!",
+    "text": "Ihre Nachricht ist bei unserem Team eingegangen. Wir antworten in der Regel innerhalb von 24–48 Stunden. Schneller geht es auf WhatsApp unter {{whatsapp}}.",
+    "sendAnother": "Weitere Anfrage senden"
+  },
+  "volunteerPrompt": "Möchten Sie helfen? Nutzen Sie unser Formular für Ehrenamtliche"
+}

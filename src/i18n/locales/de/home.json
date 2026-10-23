@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "badge": "Im Dienst mit Ihsan seit 2021 • Eingetragene NGO",
+    "donateNow": "Jetzt spenden",
+    "explorePrograms": "4 Programme entdecken",
+    "slides": {
+      "orphan-care": {
+        "eyebrow": "Ein Waisenkind sponsern",
+        "title": "Geben Sie einem Kind seine",
+        "highlight": "Kindheit & Zukunft zurück",
+        "subtitle": "Volle Unterbringung, hochwertige Schulbildung, Gesundheitsversorgung und ein liebevolles Zuhause für über 32 Waisenkinder. Für ₨30.000 im Monat können Sie die gesamte Zukunft eines Kindes sponsern."
+      },
+      "clean-water": {
+        "eyebrow": "Eine Wasserstelle errichten",
+        "title": "Verwandeln Sie Durst in",
+        "highlight": "bleibende Hoffnung",
+        "subtitle": "Eine Handpumpe versorgt über 40 Familien jahrelang mit sauberem, sicherem Wasser. Errichten Sie noch heute eine Wasserstelle als immerwährende Sadaqah Jariyah."
+      }
+    }
+  },
+  "stats": {
+    "orphanCare": "Waisenbetreuung",
+    "orphanCareDesc": "Kinder in voller Unterbringung und Schulbildung",
+    "lahoreHome": "Heim in Lahore",
+    "ongoingCare": "Laufende Betreuung",
+    "cleanWater": "Sauberes Wasser",
+    "waterDesc": "Handpumpen im ländlichen Punjab installiert",
+    "numberedPlaques": "Nummerierte Plaketten",
+    "sadaqahJariyah": "Sadaqah Jariyah",
+    "foodRelief": "Nahrungsmittelhilfe",
+    "foodDesc": "Verteilte Rationstüten & warme Mahlzeiten",
+    "widowsNeedy": "Witwen & Bedürftige",
+    "directHandover": "Direkte Übergabe",
+    "totalBeneficiaries": "Begünstigte insgesamt",
+    "beneficiariesDesc": "Erreichte und unterstützte Menschenleben",
+    "punjabSindh": "Punjab & Sindh",
+    "audited": "Geprüft"
+  },
+  "about": {
+    "yearsOfService": "Jahre im Dienst",
+    "registeredLine": "In Lahore registriert, im Dienst für ganz Pakistan",
+    "govtCertified": "Staatlich zertifizierte gemeinnützige Organisation",
+    "eyebrow": "Wer wir sind",
+    "titleLine1": "Hoffnung wiederherstellen,",
+    "titleLine2": "menschliche Würde bewahren.",
+    "paragraph": "2021 in Lahore gegründet, entstand Aasra Welfare Society aus der festen Überzeugung, dass jedes verwaiste Kind und jede bedürftige Familie gleichen Zugang zu Sicherheit, sauberem Wasser, Bildung und Mitgefühl verdient.",
+    "pillar1Title": "Dienen mit Ihsan",
+    "pillar1Text": "Exzellenz bei jeder gelieferten Ration, jedem installierten Brunnen und jedem großgezogenen Waisenkind.",
+    "pillar2Title": "100 % Transparenz",
+    "pillar2Text": "Direkte fotografische und standortbezogene Dokumentation für Spender zu jedem Projekt.",
+    "learnMoreLink": "Mehr über unsere Mission, Führung & Registrierungen erfahren"
+  },
+  "donateSection": {
+    "eyebrow": "Einfaches & verifiziertes Spenden",
+    "title": "So senden Sie Ihre Spende",
+    "subtitle": "Wir bieten mehrere transparente, 100 % verifizierte Wege, um Ihre Sadaqah, Zakat und Spenden aus Pakistan und der ganzen Welt beizusteuern.",
+    "card1": {
+      "badgeShort": "01",
+      "badgeFull": "Option 01 • Sofort",
+      "title": "Online-Spende",
+      "descShort": "Spenden Sie per Kredit-/Debitkarte oder Direktüberweisung.",
+      "descFull": "Spenden Sie per Kredit-/Debitkarte (Visa, MasterCard, Apple Pay) oder direkter Bank-Makramah-Überweisung mit sofortiger Quittung.",
+      "accountLabel": "Direktes Konto:",
+      "ctaShort": "Jetzt spenden",
+      "ctaFull": "Jetzt online spenden"
+    },
+    "card2": {
+      "badgeShort": "02",
+      "badgeFull": "Option 02 • Schnell",
+      "title": "Mobile Wallets & Raast",
+      "desc": "Überweisen Sie sofort über Ihre EasyPaisa-, JazzCash- oder Raast-Sofortzahlungs-ID ohne Transaktionsabzüge.",
+      "ibanLabel": "IBAN / Raast:",
+      "titleLabel": "Titel:",
+      "ctaShort": "Wallet-Anleitung",
+      "ctaFull": "Wallet-Anleitung ansehen"
+    },
+    "card3": {
+      "badgeShort": "03",
+      "badgeFull": "Option 03 • Scheck",
+      "title": "Per Scheck per Post zahlen",
+      "descPrefix": "Stellen Sie einen Verrechnungsscheck aus auf",
+      "descQuoted": "Aasra Welfare Society",
+      "descSuffix": "und senden Sie ihn direkt an unser registriertes Büro in Lahore.",
+      "addressLabel": "Postanschrift:",
+      "ctaShort": "Adresse kopieren",
+      "ctaFull": "Büroadresse kopieren",
+      "ctaCopiedShort": "Kopiert!",
+      "ctaCopiedFull": "Adresse kopiert!"
+    },
+    "card4": {
+      "badgeShort": "04",
+      "badgeFull": "Option 04 • Abholung",
+      "title": "Abholung vor Ort",
+      "desc": "Unser autorisierter Vertreter besucht Sie persönlich zu Hause oder im Büro in Lahore, um Bargeld oder einen Scheck mit offizieller Quittung entgegenzunehmen.",
+      "coverageLabel": "Abdeckung:",
+      "coverageValue": "Stadt Lahore & Vororte",
+      "receiptNote": "✓ Gestempelte Quittung vor Ort ausgestellt",
+      "ctaShort": "Abholung anfordern",
+      "ctaFull": "Abholung per WhatsApp anfordern"
+    }
+  },
+  "quote": {
+    "text": "„Das Gleichnis derer, die ihr Vermögen auf dem Weg Allahs ausgeben, ist wie ein Korn, das sieben Ähren wachsen lässt, in jeder Ähre hundert Körner.“",
+    "reference": "Sure Al-Baqara 2:261"
+  },
+  "programsSection": {
+    "eyebrow": "Unsere Kernprogramme",
+    "title": "Transformative Arbeit vor Ort",
+    "viewAll": "Alle 4 Wirkungsbereiche ansehen",
+    "funded": "% finanziert",
+    "raised": "Gesammelt:",
+    "goal": "Ziel:",
+    "details": "Details",
+    "sponsor": "Sponsern →"
+  },
+  "zakatSection": {
+    "badge": "3. Säule des Islam • 2,5 % Läuterung",
+    "title": "Reinigen Sie Ihr Vermögen mit dem AASRA-Zakat-Fonds",
+    "text": "100 % Ihrer Zakat gehen direkt an anspruchsberechtigte (Mustahiq) Waisen, Witwen und Familien in extremer Armut in ganz Pakistan, streng nach den Prinzipien der Scharia.",
+    "nisabLabel": "Silber-Nisab-Richtwert (612,36 g):",
+    "nisabNote": "Übersteigt Ihr Nettovermögen diesen Schwellenwert für ein volles Mondjahr, ist Zakat in Höhe von 2,5 % fällig.",
+    "calculatorCta": "Interaktiven Zakat-Rechner öffnen",
+    "donateCta": "Zakat direkt spenden",
+    "imageCaptionTitle": "Direkte Zuteilung an Begünstigte",
+    "imageCaptionText": "Keine Abzüge durch Zwischenhändler"
+  },
+  "achievementsSection": {
+    "eyebrow": "Dokumentierter Fortschritt",
+    "title": "Wichtige Meilensteine & Anerkennungen",
+    "verifiedMilestone": "Verifizierter Meilenstein",
+    "items": {
+      "1": {
+        "title": "Einweihung des Trinkwasserprojekts",
+        "text": "Gemeinschaftliche Dua-Zeremonie zur Übergabe einer neuen Handpumpe, einer von über 170 von AASRA im gesamten Punjab installierten Wasserstellen."
+      },
+      "2": {
+        "title": "Anerkennung für Rollstuhlverteilung",
+        "text": "Gemeinsam mit verbündeten Wohlfahrtsorganisationen ausgezeichnet für die Verteilung von Rollstühlen an Menschen mit Behinderungen in von Überschwemmungen betroffenen Gemeinden."
+      },
+      "3": {
+        "title": "Jährlicher Ergebnis- und Erfolgstag",
+        "text": "Unsere Waisenschüler wurden bei der jährlichen Ergebnisfeier mit Spielen, Preisen und Geschenken für ihre schulischen Leistungen geehrt."
+      }
+    }
+  },
+  "reviewsSection": {
+    "eyebrow": "Stimmen aus unserer Gemeinschaft",
+    "title": "Was Besucher & Spender sagen",
+    "ratingLabel": "Bewertet von Besuchern & Spendern auf Google",
+    "readAll": "Alle Bewertungen auf Google lesen"
+  },
+  "gallerySection": {
+    "eyebrow": "Transparenz in Bildern",
+    "title": "Momente der Hoffnung",
+    "exploreLink": "Komplette Galerie mit über 50 Fotos entdecken",
+    "viewInGallery": "In der Galerie ansehen"
+  },
+  "volunteerSection": {
+    "eyebrow": "Werden Sie zum Veränderer",
+    "title": "Schenken Sie AASRA Ihre Fähigkeiten, Ihr Herz & Ihre Stimme",
+    "text": "Ob Student, medizinische Fachkraft, Pädagoge oder digitaler Kreativer – Sie können unserem Netzwerk selbstloser Botschafter beitreten, die echten Wandel bewirken.",
+    "registerCta": "Als Freiwilliger registrieren",
+    "whatsappCta": "Über WhatsApp anfragen"
+  }
+}

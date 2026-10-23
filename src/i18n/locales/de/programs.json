@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Bereiche humanitärer Wirkung",
+    "title": "Unsere Kernprogramme",
+    "subtitle": "Zielgerichtete, gemeinschaftsorientierte Wohlfahrtsinitiativen für dauerhafte Eigenständigkeit, Würde und Transparenz in ganz Pakistan."
+  },
+  "filters": {
+    "all": "Alle Programme",
+    "orphan-care": "Waisenbetreuung & Bildung",
+    "clean-water": "Trinkwasserprojekte",
+    "flood-relief": "Flut- & Nothilfe",
+    "relief-work": "Gemeinschaftliche Nahrungsmittelhilfe"
+  },
+  "card": {
+    "donationGoal": "Spendenziel",
+    "raisedOf": "gesammelt von",
+    "funded": "% finanziert",
+    "needed": "Mio. benötigt",
+    "unitCosts": "Stückkosten:",
+    "fullStory": "Vollständige Programmgeschichte & Fotos",
+    "sponsorProject": "Projekt sponsern"
+  },
+  "bottomCta": {
+    "title": "Können Sie sich nicht entscheiden, welches Programm Sie unterstützen möchten?",
+    "text": "Spenden Sie an unseren <1>Fonds für dringendste Bedürfnisse</1>, und unsere Feldleiter weisen Ihre Sadaqah dem dringendsten Notfall vor Ort zu.",
+    "fundName": "Fonds für dringendste Bedürfnisse",
+    "cta": "An dringendste Bedürfnisse spenden"
+  },
+  "detail": {
+    "aboutInitiative": "Über die Initiative",
+    "sustainableTitle": "Nachhaltige Wirkung",
+    "sustainableText": "Konzipiert für dauerhaften Nutzen – nicht für vorübergehende Hilfe. Handpumpen halten Jahrzehnte, und gebildete Waisenkinder werden zu eigenständigen Führungspersönlichkeiten.",
+    "photographicTitle": "100 % fotografischer Nachweis",
+    "photographicText": "Spender erhalten Echtzeit-Fotodokumentationen mit GPS-Standorten und eingravierten Spendernamen-Widmungsplaketten.",
+    "fieldDocEyebrow": "Felddokumentation",
+    "fromTheField": "Direkt vor Ort",
+    "clickToView": "Klicken Sie auf ein Foto, um es in voller Größe anzuzeigen",
+    "supportInitiative": "Diese konkrete Initiative unterstützen",
+    "makeADifference": "Bewirken Sie heute einen echten Unterschied",
+    "everyContribution": "Jeder einzelne Beitrag bringt Würde, Lebensunterhalt und Hoffnung für Familien, die sich sonst an niemanden wenden können.",
+    "sponsorNow": "Dieses Programm jetzt sponsern",
+    "activeCampaignGoal": "Aktuelles Kampagnenziel",
+    "funded": "% finanziert",
+    "raised": "Gesammelt:",
+    "targetGoal": "Zielbetrag:",
+    "millionNeeded": "Mio. werden benötigt, um das Ziel dieses Zyklus zu erreichen.",
+    "standardUnitCosts": "Standard-Stückkosten:",
+    "immediateAction": "Sofortige Maßnahme",
+    "supportProgram": "{{title}} unterstützen",
+    "zakatSadaqah": "Spenden Sie Ihre Zakat oder Sadaqah für diese verifizierte Initiative mit 100 % direkter Zuteilung.",
+    "donateProject": "Für dieses Projekt spenden",
+    "speakCoordinator": "Mit dem Programmkoordinator sprechen",
+    "whatsappCoordinator": "WhatsApp-Koordinator",
+    "callPhone": "{{phone}} anrufen",
+    "backToPrograms": "Zurück zur Programmübersicht",
+    "closeViewer": "Bildbetrachter schließen",
+    "previousPhoto": "Vorheriges Foto",
+    "nextPhoto": "Nächstes Foto",
+    "photoCounter": "Foto {{current}} von {{total}} • {{title}}",
+    "fullView": "Vollansicht",
+    "documentation": "Dokumentation"
+  },
+  "items": {
+    "orphan-care": {
+      "title": "Waisenbetreuung & Bildung",
+      "tagline": "Unterkunft, Schulbildung und Familie für Kinder ohne eine solche.",
+      "description": "Bereitstellung von sicherer Unterkunft, qualitativ hochwertiger Bildung, nahrhaften Mahlzeiten und religiöser Erziehung für verwaiste und schutzbedürftige Kinder.",
+      "longDescription": [
+        "Aasra Welfare Society betreibt ein eigenes Waisenheim in Lahore, in dem derzeit mehr als 32 Kinder betreut werden, die ein oder beide Elternteile verloren haben. Jedes Kind in unserer Obhut erhält einen sicheren Wohnort, drei nahrhafte Mahlzeiten täglich und Zugang zu formaler Schulbildung neben islamischer Erziehung.",
+        "Über die Grundversorgung hinaus investieren wir in die langfristige Zukunft jedes Kindes durch Nachhilfe, außerschulische Aktivitäten, jährliche Ergebnisfeiern und regelmäßige Gesundheitschecks. Unser Ziel ist es nicht nur, Kinder unterzubringen, sondern selbstbewusste, gebildete Menschen heranzuziehen, die auf eigenen Beinen stehen können.",
+        "Jede Spende an dieses Programm wird direkt für Unterbringungskosten, Schulgebühren, Uniformen, Bücher und Gesundheitsversorgung der Kinder in unserer Obhut verwendet."
+      ],
+      "unitCosts": ["Monatliche Patenschaft", "Jährliche Patenschaft"]
+    },
+    "clean-water": {
+      "title": "Trinkwasserprojekte",
+      "tagline": "Handpumpen und Trinkwasserstellen für unterversorgte Dörfer.",
+      "description": "Installation von Handpumpen und solarbetriebenen Wasserstellen in von Überschwemmungen betroffenen und wasserarmen Dörfern im Punjab, damit Familien nicht mehr für sauberes Wasser weite Wege zurücklegen müssen.",
+      "longDescription": [
+        "Der Zugang zu sauberem Trinkwasser bleibt eine der größten Herausforderungen für ländliche Gemeinden in ganz Pakistan, insbesondere in Gebieten, die sich von Überschwemmungen erholen. Aasra Welfare Society hat bisher über 170 Wasserhandpumpen und Wasserstellen installiert und übergeben, jede nummeriert, dokumentiert und im Namen des Spenders oder seiner Angehörigen gewidmet.",
+        "Jede Installation erfolgt in Anwesenheit der örtlichen Gemeinschaft, und jede Pumpe trägt eine Plakette mit der Projektnummer, damit Spender genau nachverfolgen können, wohin ihr Beitrag geflossen ist. Wir priorisieren Dörfer ohne bestehende sichere Wasserquelle und arbeiten dabei eng mit örtlichen Ältesten zusammen, um die dringendsten Standorte zu identifizieren.",
+        "Eine einzige Wasserpumpe kann jahrelang Dutzenden von Familien dienen – das macht sie zu einer der nachhaltigsten und kosteneffizientesten Formen der Wohltätigkeit (Sadaqah Jariyah), die Sie geben können."
+      ],
+      "unitCosts": ["Eigene Handpumpe", "Solar-Tauchpumpe"]
+    },
+    "relief-work": {
+      "title": "Gemeinschaftshilfe & Nahrungsmittelunterstützung",
+      "tagline": "An der Seite gefährdeter Familien im Alltag.",
+      "description": "Gemeinschaftliche Basisarbeit vor Ort, Verteilung von Rationen, tägliche warme Mahlzeiten und Unterstützung für Witwen, Tagelöhner und Familien unterhalb der Armutsgrenze.",
+      "longDescription": [
+        "Nicht jede Notlage macht Schlagzeilen. Neben unserer Notfallarbeit betreibt Aasra Welfare Society fortlaufende Gemeinschaftshilfe – wir besuchen Dörfer und Siedlungen, um Nahrungsmittelrationen zu verteilen, bedürftige Familien zu treffen und sie mit unseren anderen Programmen wie Waisenpatenschaften und Wasserprojekten zu verbinden.",
+        "Unsere Feldteams arbeiten direkt mit den Gemeinden zusammen, hören auf ihre Bedürfnisse und stellen sicher, dass die Hilfe die Haushalte erreicht, die sie am dringendsten benötigen – mit voller Transparenz und ohne Zwischenhändler."
+      ],
+      "unitCosts": ["Essen für 1 Person", "Monatliches Rationspaket"]
+    },
+    "flood-relief": {
+      "title": "Flutkatastrophenhilfe & Notfalleinsatz",
+      "tagline": "Schnelle Reaktion vor Ort, wenn eine Katastrophe eintritt.",
+      "description": "Notzelte, Rationspakete, sauberes Wasser und Wiederaufbauhilfe, die direkt an von Überschwemmungen betroffene Familien in Punjab und Sindh geliefert werden.",
+      "longDescription": [
+        "Wenn Überschwemmungen eine Region verwüsten, gehören die Teams von Aasra Welfare Society zu den Ersten vor Ort – sie beurteilen die Schäden, verteilen Notzelte und Rationspakete und richten temporäre Wasserstellen in betroffenen Dörfern ein.",
+        "Unsere Hilfsmaßnahmen gehen über den unmittelbaren Notfall hinaus. Wir setzen mit Wiederaufbauarbeiten fort, einschließlich der Instandsetzung beschädigter Gemeinschaftseinrichtungen wie Moscheen und Gemeinschaftsanlagen, sowie der Verteilung wichtiger Güter wie Decken, Hygienesets und warmer Mahlzeiten an vertriebene Familien.",
+        "Bei jüngsten Flutkatastropheneinsätzen haben wir Hunderten von Familien Rationspakete und sauberes Wasser zur Verfügung gestellt und unterstützen die Wiederaufbaubemühungen auch lange nach dem eigentlichen Notfall weiter."
+      ],
+      "unitCosts": ["Notfallpaket", "Notunterkunftszelt"]
+    }
+  }
+}

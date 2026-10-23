@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Visuelle Transparenz & Nachweis der Arbeit",
+    "title": "Wirkung in Bildern",
+    "subtitle": "Erleben Sie die reale Veränderung, die Ihre Großzügigkeit für Waisen, wasserarme Dörfer und von Überschwemmungen betroffene Familien bewirkt hat."
+  },
+  "clickToView": "Klicken zum Anzeigen",
+  "closeViewer": "Fotobetrachter schließen",
+  "previousImage": "Vorheriges Bild",
+  "nextImage": "Nächstes Bild",
+  "photoCounter": "Foto {{current}} von {{total}} • {{category}}",
+  "categories": {
+    "All": "Alle",
+    "Orphan Care": "Waisenbetreuung",
+    "Clean Water": "Sauberes Wasser",
+    "Flood Relief": "Flutkatastrophenhilfe",
+    "Relief Work": "Hilfsarbeit"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "Leben im Waisenheim",
+    "Learning Together": "Gemeinsam lernen",
+    "Shared Meals, Shared Family": "Gemeinsame Mahlzeiten, gemeinsame Familie",
+    "Celebrating Achievements": "Erfolge feiern",
+    "A Safe Place to Grow": "Ein sicherer Ort zum Aufwachsen",
+    "School Days": "Schultage",
+    "Clean Water Handover": "Übergabe von sauberem Wasser",
+    "Hand Pump Installation": "Installation einer Handpumpe",
+    "Water for Every Home": "Wasser für jedes Zuhause",
+    "Community Water Point": "Gemeinschaftliche Wasserstelle",
+    "Dua Ceremony at a New Well": "Dua-Zeremonie an einem neuen Brunnen",
+    "Flood Relief Response": "Reaktion auf Flutkatastrophe",
+    "Assessing the Damage": "Schadensbewertung",
+    "Emergency Aid Distribution": "Verteilung von Nothilfe",
+    "Standing With Flood-Hit Families": "An der Seite von flutbetroffenen Familien",
+    "Field Relief Operations": "Hilfseinsätze vor Ort",
+    "Rebuilding After the Flood": "Wiederaufbau nach der Flut",
+    "Community Outreach": "Gemeinschaftsarbeit",
+    "Field Visit": "Feldbesuch",
+    "Serving the Community": "Im Dienst der Gemeinschaft",
+    "Relief Work in Progress": "Laufende Hilfsarbeit"
+  }
+}

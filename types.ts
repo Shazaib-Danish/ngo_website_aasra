@@ -2,20 +2,16 @@
 export interface Program {
   id: string;
   title: string;
+  tagline: string;
   description: string;
-  longDescription?: string;
+  longDescription: string[];
   image: string;
+  homeImage?: string;
   icon: string;
-}
-
-export interface Post {
-  id: string;
-  title: string;
-  excerpt: string;
-  content: string;
-  image: string;
-  date: string;
-  category: string;
+  gallery: string[];
+  goalPKR: number;
+  raisedPKR: number;
+  unitCosts?: { label: string; amountPKR: number }[];
 }
 
 export interface GalleryItem {
@@ -25,14 +21,6 @@ export interface GalleryItem {
   title: string;
 }
 
-export interface TeamMember {
-  id: string;
-  name: string;
-  role: string;
-  image: string;
-  bio: string;
-}
-
 export interface SliderImage {
   id: string;
   url: string;
@@ -40,11 +28,23 @@ export interface SliderImage {
   subtitle: string;
 }
 
-export interface Campaign {
+export interface HeroSlide {
   id: string;
-  imageUrl: string;
+  poster: string;
+  eyebrow: string;
   title: string;
-  link: string;
+  highlight: string;
+  subtitle: string;
+  donateUrl: string;
+}
+
+export interface Review {
+  id: string;
+  name: string;
+  rating: number;
+  date: string;
+  text: string;
+  avatar: string;
 }
 
 export interface Achievement {
@@ -57,17 +57,7 @@ export interface Achievement {
 
 export interface Stats {
   orphans: number;
-  waterWells: number;
+  waterProjects: number;
   mealsServed: number;
-  projects: number;
-}
-
-export interface ChatMessage {
-  id: string;
-  name: string;
-  email: string;
-  subject: string;
-  message: string;
-  timestamp: any;
-  status: 'new' | 'read' | 'replied';
+  beneficiaries: number;
 }

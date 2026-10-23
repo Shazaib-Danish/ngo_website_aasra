@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "badge": "In dienst met Ihsan sinds 2021 • Geregistreerde ngo",
+    "donateNow": "Nu doneren",
+    "explorePrograms": "Ontdek 4 programma's",
+    "slides": {
+      "orphan-care": {
+        "eyebrow": "Sponsor een wees",
+        "title": "Geef een kind zijn",
+        "highlight": "jeugd en toekomst terug",
+        "subtitle": "Volledige kost en inwoning, kwalitatief onderwijs, gezondheidszorg en een liefdevol thuis voor meer dan 32 weeskinderen. Voor ₨30.000 per maand sponsort u de hele toekomst van een kind."
+      },
+      "clean-water": {
+        "eyebrow": "Installeer een waterpunt",
+        "title": "Verander dorst in",
+        "highlight": "blijvende hoop",
+        "subtitle": "Eén handpomp brengt jarenlang veilig, schoon water naar meer dan 40 gezinnen. Installeer vandaag een waterpunt als een blijvende Sadaqah Jariyah."
+      }
+    }
+  },
+  "stats": {
+    "orphanCare": "Zorg voor wezen",
+    "orphanCareDesc": "Kinderen in volledige kost, inwoning en scholing",
+    "lahoreHome": "Tehuis in Lahore",
+    "ongoingCare": "Doorlopende zorg",
+    "cleanWater": "Schoon water",
+    "waterDesc": "Handpompen geïnstalleerd in landelijk Punjab",
+    "numberedPlaques": "Genummerde plaquettes",
+    "sadaqahJariyah": "Sadaqah Jariyah",
+    "foodRelief": "Voedselhulp",
+    "foodDesc": "Rantsoentassen & warme maaltijden verstrekt",
+    "widowsNeedy": "Weduwen & behoeftigen",
+    "directHandover": "Directe overdracht",
+    "totalBeneficiaries": "Totaal aantal begunstigden",
+    "beneficiariesDesc": "Bereikte en ondersteunde mensenlevens",
+    "punjabSindh": "Punjab & Sindh",
+    "audited": "Gecontroleerd"
+  },
+  "about": {
+    "yearsOfService": "Jaren dienst",
+    "registeredLine": "Geregistreerd in Lahore, actief in heel Pakistan",
+    "govtCertified": "Door de overheid gecertificeerde non-profit",
+    "eyebrow": "Wie wij zijn",
+    "titleLine1": "Hoop herstellen,",
+    "titleLine2": "menselijke waardigheid bewaren.",
+    "paragraph": "Aasra Welfare Society werd in 2021 in Lahore opgericht vanuit een onwrikbare overtuiging: elk weeskind en elk arm gezin verdient gelijke toegang tot veiligheid, schoon water, onderwijs en medeleven.",
+    "pillar1Title": "Dienen met Ihsan",
+    "pillar1Text": "Uitmuntendheid bij elk geleverd rantsoen, elke aangelegde put en elk grootgebracht weeskind.",
+    "pillar2Title": "100% transparantie",
+    "pillar2Text": "Directe fotografische en locatiedocumentatie voor donateurs bij elk project.",
+    "learnMoreLink": "Meer over onze missie, leiding & registraties"
+  },
+  "donateSection": {
+    "eyebrow": "Eenvoudig & geverifieerd doneren",
+    "title": "Hoe u uw donatie kunt sturen",
+    "subtitle": "Wij bieden meerdere transparante, 100% geverifieerde manieren om uw Sadaqah, Zakat en donaties vanuit Pakistan en de rest van de wereld bij te dragen.",
+    "card1": {
+      "badgeShort": "01",
+      "badgeFull": "Optie 01 • Direct",
+      "title": "Online donatie",
+      "descShort": "Doneer via creditcard/betaalpas of directe overschrijving.",
+      "descFull": "Doneer via creditcard/betaalpas (Visa, MasterCard, Apple Pay) of directe Bank Makramah-overschrijving met directe ontvangstbevestiging.",
+      "accountLabel": "Direct rekeningnummer:",
+      "ctaShort": "Nu doneren",
+      "ctaFull": "Nu online doneren"
+    },
+    "card2": {
+      "badgeShort": "02",
+      "badgeFull": "Optie 02 • Snel",
+      "title": "Mobiele wallets & Raast",
+      "desc": "Maak direct over via uw EasyPaisa, JazzCash of Raast instant-betaal-ID, zonder transactiekosten.",
+      "ibanLabel": "IBAN / Raast:",
+      "titleLabel": "Naam:",
+      "ctaShort": "Wallet-gids",
+      "ctaFull": "Bekijk de wallet-gids"
+    },
+    "card3": {
+      "badgeShort": "03",
+      "badgeFull": "Optie 03 • Cheque",
+      "title": "Betalen per cheque via post",
+      "descPrefix": "Stel een gekruiste cheque op ten name van",
+      "descQuoted": "Aasra Welfare Society",
+      "descSuffix": "en stuur deze rechtstreeks naar ons geregistreerde kantoor in Lahore.",
+      "addressLabel": "Postadres:",
+      "ctaShort": "Adres kopiëren",
+      "ctaFull": "Kantooradres kopiëren",
+      "ctaCopiedShort": "Gekopieerd!",
+      "ctaCopiedFull": "Adres gekopieerd!"
+    },
+    "card4": {
+      "badgeShort": "04",
+      "badgeFull": "Optie 04 • Ophaling",
+      "title": "Ophaling aan huis",
+      "desc": "Onze bevoegde vertegenwoordiger komt persoonlijk bij u thuis of op kantoor in Lahore langs om contant geld of een cheque op te halen, met een officiële ontvangstbevestiging.",
+      "coverageLabel": "Dekking:",
+      "coverageValue": "Stad Lahore & omgeving",
+      "receiptNote": "✓ Gestempelde ontvangstbevestiging ter plaatse",
+      "ctaShort": "Ophaling aanvragen",
+      "ctaFull": "Ophaling aanvragen via WhatsApp"
+    }
+  },
+  "quote": {
+    "text": "\"Het voorbeeld van hen die hun rijkdom besteden op de weg van Allah is als een graankorrel die zeven aren voortbrengt, in elke aar honderd korrels.\"",
+    "reference": "Surah Al-Baqarah 2:261"
+  },
+  "programsSection": {
+    "eyebrow": "Onze kernprogramma's",
+    "title": "Transformerende actie op het terrein",
+    "viewAll": "Bekijk alle 4 impactgebieden",
+    "funded": "% gefinancierd",
+    "raised": "Opgehaald:",
+    "goal": "Doel:",
+    "details": "Details",
+    "sponsor": "Sponsoren →"
+  },
+  "zakatSection": {
+    "badge": "3e zuil van de islam • 2,5% zuivering",
+    "title": "Zuiver uw vermogen met het AASRA Zakat-fonds",
+    "text": "100% van uw Zakat gaat rechtstreeks naar in aanmerking komende (Mustahiq) wezen, weduwen en gezinnen die in extreme armoede leven in heel Pakistan, strikt volgens de sharia-principes.",
+    "nisabLabel": "Zilveren Nisab-drempel (612,36g):",
+    "nisabNote": "Als uw netto spaargeld deze drempel gedurende één maanjaar overschrijdt, is Zakat verschuldigd tegen 2,5%.",
+    "calculatorCta": "Open interactieve Zakat-calculator",
+    "donateCta": "Zakat rechtstreeks doneren",
+    "imageCaptionTitle": "Directe toewijzing aan begunstigden",
+    "imageCaptionText": "Geen tussenpersoon-aftrekkingen"
+  },
+  "achievementsSection": {
+    "eyebrow": "Gedocumenteerde voortgang",
+    "title": "Belangrijke mijlpalen & erkenning",
+    "verifiedMilestone": "Geverifieerde mijlpaal",
+    "items": {
+      "1": {
+        "title": "Inauguratie schoonwaterproject",
+        "text": "Gemeenschappelijke dua-ceremonie ter gelegenheid van de overdracht van een nieuwe handpomp, een van de meer dan 170 waterpunten die AASRA in heel Punjab heeft aangelegd."
+      },
+      "2": {
+        "title": "Erkenning voor rolstoeldistributie",
+        "text": "Erkend samen met bevriende welzijnsorganisaties voor het verstrekken van rolstoelen aan mensen met een beperking in door overstromingen getroffen gemeenschappen."
+      },
+      "3": {
+        "title": "Jaarlijkse resultaten- en prestatiedag",
+        "text": "Onze weeskinderen werden gevierd voor hun academische prestaties tijdens de jaarlijkse resultatendag, met spelletjes, prijzen en cadeaus."
+      }
+    }
+  },
+  "reviewsSection": {
+    "eyebrow": "Stemmen uit onze gemeenschap",
+    "title": "Wat bezoekers & donateurs zeggen",
+    "ratingLabel": "Beoordeeld door bezoekers & donateurs op Google",
+    "readAll": "Lees alle beoordelingen op Google"
+  },
+  "gallerySection": {
+    "eyebrow": "Transparantie in beeld",
+    "title": "Momenten van hoop",
+    "exploreLink": "Bekijk de volledige galerij met meer dan 50 foto's",
+    "viewInGallery": "Bekijk in de galerij"
+  },
+  "volunteerSection": {
+    "eyebrow": "Word een changemaker",
+    "title": "Zet uw vaardigheden, hart & stem in voor AASRA",
+    "text": "Of u nu student, medisch professional, docent of digitale creator bent, u kunt zich aansluiten bij ons netwerk van onbaatzuchtige ambassadeurs die echte verandering teweegbrengen.",
+    "registerCta": "Registreer als vrijwilliger",
+    "whatsappCta": "Vraag het via WhatsApp"
+  }
+}

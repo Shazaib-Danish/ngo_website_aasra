@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "badge": "Werden Sie Teil unseres Teams",
+    "title": "Schenken Sie Zeit. Verändern Sie ein Leben.",
+    "subtitle": "Studierende, Berufstätige, Eltern und Ruheständler: Jede Fähigkeit zählt. Helfen Sie mit AASRA Waisen, Flutopfern und Gemeinden in ganz Pakistan.",
+    "cta": "Jetzt bewerben",
+    "whatsapp": "Per WhatsApp fragen",
+    "statValue": "Jede Stunde zählt",
+    "statLabel": "Echte Hilfe vor Ort"
+  },
+  "why": {
+    "eyebrow": "Warum Ehrenamt",
+    "title": "Mehr als Helfen. Dazugehören.",
+    "perks": {
+      "impact": {
+        "title": "Direkte Wirkung",
+        "text": "Erleben Sie, wie Ihr Einsatz Waisen, Familien und Flutopfer erreicht."
+      },
+      "certificate": {
+        "title": "Zertifikat",
+        "text": "Sie erhalten eine Bescheinigung und Referenz für Ihr Engagement."
+      },
+      "community": {
+        "title": "Gemeinschaft",
+        "text": "Lernen Sie Menschen kennen, die Ihre Werte von Ihsan und Dienst teilen."
+      },
+      "flexible": {
+        "title": "Flexible Zeiten",
+        "text": "Helfen Sie vor Ort oder online, am Wochenende oder ein paar Stunden im Monat."
+      }
+    }
+  },
+  "steps": {
+    "title": "So funktioniert es",
+    "apply": {
+      "title": "Online bewerben",
+      "text": "Füllen Sie das kurze Formular aus, ca. 2 Minuten."
+    },
+    "call": {
+      "title": "Wir melden uns",
+      "text": "Unser Team kontaktiert Sie per WhatsApp oder Telefon."
+    },
+    "start": {
+      "title": "Loslegen",
+      "text": "Arbeiten Sie in einem Projekt, das zu Ihren Fähigkeiten passt."
+    }
+  },
+  "form": {
+    "eyebrow": "Anmeldung als Ehrenamtliche/r",
+    "title": "Erzählen Sie uns von sich",
+    "subtitle": "Mit * markierte Felder sind Pflichtfelder.",
+    "sections": {
+      "about": "Ihre Angaben",
+      "skills": "Ihre Fähigkeiten",
+      "more": "Sonstiges"
+    },
+    "name": "Vollständiger Name *",
+    "namePlaceholder": "z. B. Ayesha Malik",
+    "email": "E-Mail-Adresse *",
+    "emailPlaceholder": "ayesha@example.com",
+    "phone": "Telefonnummer *",
+    "phonePlaceholder": "+92 300 1234567",
+    "sameWhatsapp": "Diese Nummer nutze ich für WhatsApp",
+    "whatsapp": "WhatsApp-Nummer *",
+    "skillsHint": "Wählen Sie passende Bereiche (optional) oder fügen Sie eigene hinzu.",
+    "otherSkillPlaceholder": "Weitere Fähigkeit, z. B. Kochen",
+    "addSkill": "Hinzufügen",
+    "removeSkill": "{{skill}} entfernen",
+    "additionalInfo": "Weitere Informationen",
+    "additionalInfoPlaceholder": "Ihre Stadt, Verfügbarkeit, bisheriges Engagement, Sprachen...",
+    "submit": "Bewerbung absenden",
+    "sending": "Wird gesendet...",
+    "error": "Leider konnte Ihre Bewerbung nicht gesendet werden. Bitte prüfen Sie Ihre Verbindung und versuchen Sie es erneut, oder schreiben Sie uns auf WhatsApp unter {{whatsapp}}.",
+    "privacyNote": "Ihre Daten werden nur von AASRA verwendet, um Sie zum Ehrenamt zu kontaktieren."
+  },
+  "success": {
+    "title": "JazakAllah Khair!",
+    "text": "Ihre Bewerbung ist eingegangen. Unser Team meldet sich bald per WhatsApp oder Telefon.",
+    "explore": "Unsere Programme entdecken",
+    "another": "Weitere Person anmelden"
+  },
+  "skills": {
+    "Teaching & Tutoring": "Unterricht & Nachhilfe",
+    "Medical & Healthcare": "Medizin & Gesundheit",
+    "Social Media & Design": "Social Media & Design",
+    "Photography & Video": "Foto & Video",
+    "Fundraising": "Spendensammeln",
+    "Event Management": "Eventplanung",
+    "IT & Web Development": "IT & Webentwicklung",
+    "Logistics & Distribution": "Logistik & Verteilung",
+    "Translation": "Übersetzung",
+    "Field Work": "Feldarbeit"
+  }
+}

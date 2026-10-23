@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Transparence visuelle et preuve du travail accompli",
+    "title": "L'impact en images",
+    "subtitle": "Découvrez la transformation réelle apportée par votre générosité aux orphelins, aux villages en manque d'eau et aux familles touchées par les inondations."
+  },
+  "clickToView": "Cliquer pour voir",
+  "closeViewer": "Fermer la visionneuse de photos",
+  "previousImage": "Image précédente",
+  "nextImage": "Image suivante",
+  "photoCounter": "Photo {{current}} sur {{total}} • {{category}}",
+  "categories": {
+    "All": "Toutes",
+    "Orphan Care": "Soin des orphelins",
+    "Clean Water": "Eau potable",
+    "Flood Relief": "Secours aux inondations",
+    "Relief Work": "Travail de secours"
+  },
+  "captions": {
+    "Life at the Orphan Care Home": "La vie au foyer d'accueil pour orphelins",
+    "Learning Together": "Apprendre ensemble",
+    "Shared Meals, Shared Family": "Repas partagés, famille partagée",
+    "Celebrating Achievements": "Célébrer les réussites",
+    "A Safe Place to Grow": "Un endroit sûr pour grandir",
+    "School Days": "Journées d'école",
+    "Clean Water Handover": "Remise d'eau potable",
+    "Hand Pump Installation": "Installation de pompe à main",
+    "Water for Every Home": "De l'eau pour chaque foyer",
+    "Community Water Point": "Point d'eau communautaire",
+    "Dua Ceremony at a New Well": "Cérémonie de dua à un nouveau puits",
+    "Flood Relief Response": "Réponse aux secours d'inondation",
+    "Assessing the Damage": "Évaluation des dégâts",
+    "Emergency Aid Distribution": "Distribution d'aide d'urgence",
+    "Standing With Flood-Hit Families": "Aux côtés des familles touchées par les inondations",
+    "Field Relief Operations": "Opérations de secours sur le terrain",
+    "Rebuilding After the Flood": "Reconstruire après l'inondation",
+    "Community Outreach": "Sensibilisation communautaire",
+    "Field Visit": "Visite de terrain",
+    "Serving the Community": "Au service de la communauté",
+    "Relief Work in Progress": "Travail de secours en cours"
+  }
+}

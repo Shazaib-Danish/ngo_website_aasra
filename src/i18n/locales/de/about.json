@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "badge": "Unser Ursprung & Engagement",
+    "title": "Hoffnung & Würde wiederherstellen",
+    "quote": "„Der Menschheit dienen mit Ihsan, ethischer Verantwortung und radikaler Transparenz.“"
+  },
+  "story": {
+    "eyebrow": "Unser Werdegang",
+    "title": "Von bescheidenen Anfängen zu einer landesweiten Lebensader",
+    "paragraph1": "Aasra Welfare Society wurde 2021 in Lahore, Pakistan, gegründet – aus der tief persönlichen Überzeugung, dass sich kein Waisenkind jemals verlassen, ungeliebt oder ungebildet fühlen sollte.",
+    "paragraph2": "Was mit einer Handvoll Kindern in einem bescheidenen Zuhause begann, ist zu einer wirkungsvollen Wohlfahrtsorganisation herangewachsen. Wir verbinden langfristige Waisenpatenschaften mit dringenden Notwasserbrunnen und Katastrophenhilfe – mit 100 % direkter Rechenschaftspflicht."
+  },
+  "timeline": {
+    "title": "Wichtige Meilensteine",
+    "items": {
+      "1": {
+        "year": "2021",
+        "badge": "Gründung",
+        "title": "Die Gründung in Lahore",
+        "text": "Gegründet in Lahore mit einer aufrichtigen Mission: verwaiste Kinder aus der Not zu retten und ihnen vollständige Unterkunft, familiäre Fürsorge und formale Schulbildung zu bieten."
+      },
+      "2": {
+        "year": "2022–2024",
+        "badge": "Sadaqah Jariyah",
+        "title": "Ausbau der Trinkwasserversorgung",
+        "text": "Start unserer eigenen Handpumpen-Installationsinitiative in unterversorgten Dörfern des Punjab, mit mittlerweile über 170 Trinkwasserprojekten mit individuellen Spender-Widmungsplaketten."
+      },
+      "3": {
+        "year": "2025–Heute",
+        "badge": "Katastrophenhilfe",
+        "title": "Nothilfe bei Überschwemmungen & schnelle Reaktion",
+        "text": "Mobilisierung von Notfall-Einsatzteams während verheerender Überschwemmungen im Süden von Punjab und Sindh, mit wasserdichten Zelten, Nahrungsmittelrationen, sauberem Wasser und Wiederaufbau."
+      }
+    }
+  },
+  "vision": {
+    "title": "Unsere Vision",
+    "text": "Eine mitfühlende, gerechte Gesellschaft, in der Waisenkinder aufblühen, sauberes Trinkwasser jedem ländlichen Haushalt zugänglich ist und keine Familie hungrig schlafen geht."
+  },
+  "mission": {
+    "title": "Unsere Mission",
+    "text": "Ganzheitliche Wohlfahrtsdienste durch charakterbildende Bildung, dauerhafte Trinkwasserinfrastruktur und transparente Nothilfeverteilung."
+  },
+  "imageAlts": {
+    "students": "Schüler des AASRA-Waisenheims",
+    "waterHandover": "Übergabe von sauberem Wasser"
+  },
+  "commitmentBox": {
+    "eyebrow": "Ethische Verantwortung",
+    "title": "100 % Richtliniengarantie",
+    "text": "Aasra Welfare Society zieht keine Verwaltungskosten von Ihren zweckgebundenen Spenden ab. Jede Rupie erreicht direkt die Kinder und Feldprojekte."
+  },
+  "registrations": {
+    "eyebrow": "Rechtliche Verifizierung",
+    "title": "Offiziell registrierte & verifizierte NGO",
+    "subtitle": "Vollständig konform mit pakistanischen Non-Profit-Statuten, Sozialwohlfahrtsvorschriften und Prüfungen der Wohltätigkeitskommission.",
+    "items": {
+      "1": {
+        "authority": "Regierung von Punjab",
+        "label": "Sozialwohlfahrt & Bait-ul-Maal",
+        "status": "Verifiziert & aktiv"
+      },
+      "2": {
+        "authority": "Wohltätigkeitskommission Punjab",
+        "label": "Offizielle Registrierung",
+        "status": "Geprüft & konform"
+      },
+      "3": {
+        "authority": "Bundessteuerbehörde (FBR)",
+        "label": "Nationale Steuernummer (NTN)",
+        "status": "Steuerbefreite gemeinnützige Organisation"
+      }
+    },
+    "exploreCta": "Unsere Programme in Aktion entdecken"
+  }
+}

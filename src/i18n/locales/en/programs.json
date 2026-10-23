@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Humanitarian Impact Areas",
+    "title": "Our Core Programs",
+    "subtitle": "Targeted, community-first welfare initiatives engineered for lasting self-reliance, dignity, and transparency across Pakistan."
+  },
+  "filters": {
+    "all": "All Programs",
+    "orphan-care": "Orphan Care & Education",
+    "clean-water": "Clean Water Projects",
+    "flood-relief": "Flood & Emergency Relief",
+    "relief-work": "Community Food Support"
+  },
+  "card": {
+    "donationGoal": "Donation Goal",
+    "raisedOf": "raised of",
+    "funded": "% Funded",
+    "needed": "M needed",
+    "unitCosts": "Unit Costs:",
+    "fullStory": "Full Program Story & Photos",
+    "sponsorProject": "Sponsor Project"
+  },
+  "bottomCta": {
+    "title": "Can't Decide Which Program to Support?",
+    "text": "Donate to our <1>Where Most Needed Fund</1>, and our field directors will allocate your Sadaqah to the most urgent emergency case on the ground.",
+    "fundName": "Where Most Needed Fund",
+    "cta": "Donate to Most Needed"
+  },
+  "detail": {
+    "aboutInitiative": "About the Initiative",
+    "sustainableTitle": "Sustainable Impact",
+    "sustainableText": "Designed for perpetual benefit — not temporary aid. Hand pumps last decades, and educated orphans become independent leaders.",
+    "photographicTitle": "100% Photographic Proof",
+    "photographicText": "Donors receive real-time photographic handovers with GPS locations and inscribed donor name dedication plaques.",
+    "fieldDocEyebrow": "Field Documentation",
+    "fromTheField": "From the Field",
+    "clickToView": "Click any photo to view full size",
+    "supportInitiative": "Support this exact initiative",
+    "makeADifference": "Make a Real Difference Today",
+    "everyContribution": "Every single contribution brings dignity, sustenance, and hope to families who have nowhere else to turn.",
+    "sponsorNow": "Sponsor This Program Now",
+    "activeCampaignGoal": "Active Campaign Goal",
+    "funded": "% Funded",
+    "raised": "Raised:",
+    "targetGoal": "Target Goal:",
+    "millionNeeded": "Million needed to reach this cycle's target.",
+    "standardUnitCosts": "Standard Unit Costs:",
+    "immediateAction": "Immediate Action",
+    "supportProgram": "Support {{title}}",
+    "zakatSadaqah": "Choose to donate your Zakat or Sadaqah towards this verified initiative with 100% direct allocation.",
+    "donateProject": "Donate to this Project",
+    "speakCoordinator": "Speak to Program Coordinator",
+    "whatsappCoordinator": "WhatsApp Coordinator",
+    "callPhone": "Call {{phone}}",
+    "backToPrograms": "Back to all programs overview",
+    "closeViewer": "Close image viewer",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "photoCounter": "Photo {{current}} of {{total}} • {{title}}",
+    "fullView": "full view",
+    "documentation": "documentation"
+  },
+  "items": {
+    "orphan-care": {
+      "title": "Orphan Care & Education",
+      "tagline": "Shelter, schooling and family for children without one.",
+      "description": "Providing safe shelter, quality education, nutritious meals and religious upbringing to orphaned and vulnerable children.",
+      "longDescription": [
+        "AASRA Welfare Society runs a dedicated orphan care home in Lahore, currently supporting more than 32 children who have lost one or both parents. Every child under our care receives a safe place to live, three nutritious meals a day, and access to formal schooling alongside Islamic education.",
+        "Beyond the basics, we invest in each child's long-term future through tutoring support, extracurricular activities, annual result celebrations, and regular health check-ups. Our goal is not just to shelter children, but to raise confident, educated individuals who can stand on their own feet.",
+        "Every donation to this program is used directly for boarding costs, school fees, uniforms, books and healthcare for the children in our care."
+      ],
+      "unitCosts": ["Monthly Sponsorship", "Annual Sponsorship"]
+    },
+    "clean-water": {
+      "title": "Clean Water Projects",
+      "tagline": "Hand pumps and clean water points for underserved villages.",
+      "description": "Installing hand pumps and solar water points in flood-affected and water-scarce villages across Punjab so families no longer have to walk for clean water.",
+      "longDescription": [
+        "Access to clean drinking water remains one of the biggest challenges for rural communities across Pakistan, especially in areas recovering from flooding. AASRA Welfare Society has installed and handed over more than 170 water hand pumps and water points to date, each one numbered, documented, and dedicated in the name of the donor or their loved ones.",
+        "Every installation is completed with the local community present, and each pump comes with a plaque recording the project number so donors can track exactly where their contribution went. We prioritise villages with no existing safe water source, working closely with local elders to identify the most urgent locations.",
+        "A single water pump can serve dozens of families for years, making this one of the most sustainable and cost-effective forms of charity (Sadaqah Jariyah) you can give."
+      ],
+      "unitCosts": ["Dedicated Hand Pump", "Solar Submersible Pump"]
+    },
+    "relief-work": {
+      "title": "Community Relief & Food Support",
+      "tagline": "Standing with vulnerable families in everyday hardship.",
+      "description": "On-ground community outreach, ration distribution, daily cooked meals and support for widows, daily-wage workers and families living below the poverty line.",
+      "longDescription": [
+        "Not every hardship makes headlines. Alongside our emergency response work, AASRA Welfare Society runs ongoing community relief operations — visiting villages and settlements to distribute food rations, meet with families in need, and connect them with our other programs such as orphan sponsorship and water projects.",
+        "Our field teams work directly with communities, listening to their needs and ensuring that support reaches the households that need it most, with full transparency and no middlemen."
+      ],
+      "unitCosts": ["Food for 1 Person", "Monthly Ration Pack"]
+    },
+    "flood-relief": {
+      "title": "Flood Relief & Emergency Response",
+      "tagline": "Rapid, on-ground response when disaster strikes.",
+      "description": "Emergency tents, ration packs, clean water and rebuilding support delivered directly to families affected by flooding across Punjab and Sindh.",
+      "longDescription": [
+        "When floods devastate a region, AASRA Welfare Society teams are among the first on the ground — assessing damage, distributing emergency tents and ration packs, and setting up temporary water points in affected villages.",
+        "Our relief response goes beyond the immediate emergency. We follow up with rehabilitation work, including rebuilding damaged community structures such as mosques and shared facilities, and distributing essentials like blankets, hygiene kits and cooked meals to displaced families.",
+        "In recent flood response operations we distributed ration packs and clean water to hundreds of families, and continue to support rehabilitation efforts long after the initial emergency has passed."
+      ],
+      "unitCosts": ["Emergency Kit", "Shelter Tent"]
+    }
+  }
+}

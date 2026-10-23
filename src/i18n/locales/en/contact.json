@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "badge": "We Are Always Here to Assist You",
+    "title": "Get in Touch",
+    "subtitle": "Assalam-o-Alaikum! Have questions about orphan sponsorship, dedicating a clean water well, or volunteering? Reach out to our dedicated team."
+  },
+  "intentChips": {
+    "Sponsor an Orphan": "Sponsor an Orphan",
+    "Water Well Dedication": "Water Well Dedication",
+    "Volunteer / Ambassador": "Volunteer / Ambassador",
+    "Zakat Inquiries": "Zakat Inquiries",
+    "General Question": "General Question"
+  },
+  "inquiryPrefill": "Inquiry regarding: {{chip}}",
+  "contactPoints": {
+    "headquarters": {
+      "label": "Headquarters",
+      "action": "Open Map"
+    },
+    "helpline": {
+      "label": "Helpline & Inquiries",
+      "action": "Call Now"
+    },
+    "email": {
+      "label": "Official Email",
+      "action": "Email Us"
+    },
+    "whatsapp": {
+      "label": "WhatsApp Helpline",
+      "action": "Chat Live"
+    }
+  },
+  "map": {
+    "openInMaps": "Open in Maps"
+  },
+  "form": {
+    "eyebrow": "Direct Message",
+    "title": "How Can We Help You?",
+    "selectReason": "Select Inquiry Reason:",
+    "fullName": "Your Full Name *",
+    "fullNamePlaceholder": "e.g. Abdullah Khan",
+    "email": "Email Address *",
+    "emailPlaceholder": "abdullah@example.com",
+    "phone": "Phone / WhatsApp Number",
+    "phonePlaceholder": "+92 300 1234567",
+    "subject": "Subject *",
+    "message": "Your Message *",
+    "messagePlaceholder": "Please share any details or questions...",
+    "submit": "Send Message to Team",
+    "privacyNote": "We respect your privacy. Inquiries are handled directly by our executive directors.",
+    "sending": "Sending...",
+    "error": "Sorry, your message could not be sent. Please check your connection and try again, or message us on WhatsApp at {{whatsapp}}."
+  },
+  "success": {
+    "title": "Thank You!",
+    "text": "Your message has reached our team. We usually reply within 24–48 hours. For faster responses, message us on WhatsApp at {{whatsapp}}.",
+    "sendAnother": "Send another inquiry"
+  },
+  "volunteerPrompt": "Want to volunteer? Fill in our volunteer form instead"
+}

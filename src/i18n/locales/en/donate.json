@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "badge": "100% Direct Aid Policy • Zero Intermediary Waste",
+    "titlePrefix": "Invest in Your",
+    "titleHighlight": "Eternal Future",
+    "subtitle": "Your Sadaqah and Zakat provide food, education, clean water, and shelter to orphans and families in deepest need across Pakistan."
+  },
+  "preSelected": {
+    "label": "Pre-Selected Contribution",
+    "defaultCause": "Selected Cause",
+    "note": "Proceed below with Card or Direct Bank Makramah transfer."
+  },
+  "tiers": {
+    "eyebrow": "Reference Pricing",
+    "title": "Verified Sponsorship Packages",
+    "swipeHint": "Swipe horizontally to explore"
+  },
+  "gatewaySelector": {
+    "bank": "Direct Bank & Mobile Wallets",
+    "card": "Online Card (Global)"
+  },
+  "bankPortal": {
+    "eyebrow": "Local & Digital Banking",
+    "title": "Direct Bank Transfer",
+    "bankLogoAlt": "Bank Makramah",
+    "description": "Transfer directly from any Pakistani bank account, Raast ID, Easypaisa, or JazzCash app with zero transaction charges.",
+    "rows": {
+      "bankName": "Bank Name",
+      "accountTitle": "Account Title",
+      "accountNumber": "Account Number",
+      "ibanNumber": "IBAN Number",
+      "branchCode": "Branch Code",
+      "branchAddress": "Branch Address"
+    },
+    "copy": "Copy",
+    "copied": "Copied",
+    "copyAllDetails": "Copy Full Bank Information",
+    "allCopied": "All Details Copied!",
+    "whatsappSlip": "Send Donation Slip on WhatsApp",
+    "doorstepTitle": "Doorstep Pickup & Cheque Giving",
+    "doorstepText": "Prefer cash/cheque collection at your doorstep in Lahore? Or want to courier a crossed cheque? Contact our helpline at {{phone}} or visit our office at {{address}}."
+  },
+  "cardPortal": {
+    "eyebrow": "Global Credit & Debit Card Giving",
+    "title": "Online Card Donation",
+    "subtitle": "Secure instant contribution via Visa, MasterCard, Apple Pay, and Google Pay worldwide.",
+    "categories": {
+      "Zakat": "Zakat",
+      "Sadaqah": "Sadaqah",
+      "General Relief": "General Relief",
+      "Orphan Care": "Orphan Care"
+    },
+    "trustBadges": {
+      "ssl": "256-Bit SSL Encryption",
+      "receipt": "Official Donation Receipt",
+      "taxExempt": "FBR Tax Exempt NTN: 4547488",
+      "compliant": "100% Policy Compliant"
+    }
+  },
+  "impactTiers": {
+    "meal-person": { "title": "Food for 1 Person", "description": "Provides a wholesome nutritious hot meal to a starving child or daily-wage worker.", "badge": "Quick Sadaqah" },
+    "food-pack": { "title": "Monthly Food Ration Pack", "description": "Flour, rice, pulses, cooking oil, and essentials sustaining a family in need for a full month." },
+    "orphan-month": { "title": "Sponsor 1 Orphan (Monthly)", "description": "Complete boarding, 3 nutritious meals/day, formal private schooling, healthcare & tutoring.", "badge": "Most Needed" },
+    "hand-pump": { "title": "Dedicated Clean Water Hand Pump", "description": "Complete installation of an inscribed heavy-duty hand pump serving 40+ families daily.", "badge": "Sadaqah Jariyah" },
+    "solar-pump": { "title": "Solar Water Pump Project", "description": "Deep solar-powered submersible water extraction system serving entire drought-hit villages.", "badge": "High Impact" },
+    "orphan-year": { "title": "Sponsor 1 Orphan (1 Year)", "description": "Full 12 months of holistic development, boarding, quality education, medical care, and dignity.", "badge": "Transformative" }
+  }
+}

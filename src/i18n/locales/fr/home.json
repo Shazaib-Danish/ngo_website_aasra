@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "badge": "Au service avec Ihsan depuis 2021 • ONG enregistrée",
+    "donateNow": "Faire un don",
+    "explorePrograms": "Découvrir nos 4 programmes",
+    "slides": {
+      "orphan-care": {
+        "eyebrow": "Parrainer un orphelin",
+        "title": "Rendez à un enfant son",
+        "highlight": "enfance et son avenir",
+        "subtitle": "Pension complète, scolarité de qualité, soins de santé et un foyer aimant pour plus de 32 enfants orphelins. Pour ₨30 000 par mois, vous pouvez parrainer l'avenir entier d'un enfant."
+      },
+      "clean-water": {
+        "eyebrow": "Installer un point d'eau",
+        "title": "Transformez la soif en",
+        "highlight": "espoir durable",
+        "subtitle": "Une pompe à main dédiée apporte une eau propre et sûre à plus de 40 familles pour des années. Installez un point d'eau aujourd'hui, une Sadaqah Jariyah éternelle."
+      }
+    }
+  },
+  "stats": {
+    "orphanCare": "Soin des orphelins",
+    "orphanCareDesc": "Enfants en pension complète et scolarisés",
+    "lahoreHome": "Foyer de Lahore",
+    "ongoingCare": "Prise en charge continue",
+    "cleanWater": "Eau potable",
+    "waterDesc": "Pompes à main installées dans le Pendjab rural",
+    "numberedPlaques": "Plaques numérotées",
+    "sadaqahJariyah": "Sadaqah Jariyah",
+    "foodRelief": "Aide alimentaire",
+    "foodDesc": "Sacs de rations et repas chauds distribués",
+    "widowsNeedy": "Veuves et nécessiteux",
+    "directHandover": "Remise directe",
+    "totalBeneficiaries": "Total des bénéficiaires",
+    "beneficiariesDesc": "Vies humaines touchées et soutenues",
+    "punjabSindh": "Pendjab et Sindh",
+    "audited": "Audité"
+  },
+  "about": {
+    "yearsOfService": "Années de service",
+    "registeredLine": "Enregistrée à Lahore, au service de tout le Pakistan",
+    "govtCertified": "Organisme à but non lucratif certifié par l'État",
+    "eyebrow": "Qui sommes-nous",
+    "titleLine1": "Restaurer l'espoir,",
+    "titleLine2": "préserver la dignité humaine.",
+    "paragraph": "Fondée à Lahore en 2021, Aasra Welfare Society est née d'une conviction inébranlable : chaque enfant orphelin et chaque famille démunie mérite un accès égal à la sécurité, à l'eau potable, à l'éducation et à la compassion.",
+    "pillar1Title": "Servir avec Ihsan",
+    "pillar1Text": "L'excellence dans chaque ration livrée, chaque puits installé et chaque orphelin élevé.",
+    "pillar2Title": "Transparence à 100 %",
+    "pillar2Text": "Documentation photographique et de localisation directe fournie aux donateurs pour chaque projet.",
+    "learnMoreLink": "En savoir plus sur notre mission, notre direction et nos enregistrements"
+  },
+  "donateSection": {
+    "eyebrow": "Don facile et vérifié",
+    "title": "Comment envoyer votre don",
+    "subtitle": "Nous proposons plusieurs moyens transparents et 100 % vérifiés de contribuer à votre Sadaqah, Zakat et dons depuis le Pakistan et le monde entier.",
+    "card1": {
+      "badgeShort": "01",
+      "badgeFull": "Option 01 • Instantané",
+      "title": "Don en ligne",
+      "descShort": "Faites un don par carte de crédit/débit ou virement direct.",
+      "descFull": "Faites un don par carte de crédit/débit (Visa, MasterCard, Apple Pay) ou virement direct à la Bank Makramah avec reçu instantané.",
+      "accountLabel": "Compte direct :",
+      "ctaShort": "Faire un don",
+      "ctaFull": "Faire un don en ligne maintenant"
+    },
+    "card2": {
+      "badgeShort": "02",
+      "badgeFull": "Option 02 • Rapide",
+      "title": "Portefeuilles mobiles et Raast",
+      "desc": "Transférez instantanément depuis votre EasyPaisa, JazzCash ou identifiant de paiement instantané Raast, sans frais de transaction.",
+      "ibanLabel": "IBAN / Raast :",
+      "titleLabel": "Titulaire :",
+      "ctaShort": "Guide du portefeuille",
+      "ctaFull": "Voir le guide du portefeuille"
+    },
+    "card3": {
+      "badgeShort": "03",
+      "badgeFull": "Option 03 • Chèque",
+      "title": "Payer par chèque postal",
+      "descPrefix": "Établissez un chèque barré à l'ordre de",
+      "descQuoted": "Aasra Welfare Society",
+      "descSuffix": "et envoyez-le directement à notre bureau enregistré de Lahore.",
+      "addressLabel": "Adresse postale :",
+      "ctaShort": "Copier l'adresse",
+      "ctaFull": "Copier l'adresse du bureau",
+      "ctaCopiedShort": "Copié !",
+      "ctaCopiedFull": "Adresse copiée !"
+    },
+    "card4": {
+      "badgeShort": "04",
+      "badgeFull": "Option 04 • Collecte",
+      "title": "Collecte à domicile",
+      "desc": "Notre représentant agréé se rendra personnellement à votre domicile ou bureau à Lahore pour collecter des espèces ou un chèque avec un reçu officiel.",
+      "coverageLabel": "Couverture :",
+      "coverageValue": "Ville de Lahore et banlieues",
+      "receiptNote": "✓ Reçu tamponné délivré sur place",
+      "ctaShort": "Demander une collecte",
+      "ctaFull": "Demander une collecte sur WhatsApp"
+    }
+  },
+  "quote": {
+    "text": "« L'exemple de ceux qui dépensent leurs biens dans le sentier d'Allah est celui d'un grain qui fait pousser sept épis, dans chaque épi cent grains. »",
+    "reference": "Sourate Al-Baqara 2:261"
+  },
+  "programsSection": {
+    "eyebrow": "Nos programmes phares",
+    "title": "Une action transformatrice sur le terrain",
+    "viewAll": "Voir les 4 domaines d'impact",
+    "funded": "% financé",
+    "raised": "Collecté :",
+    "goal": "Objectif :",
+    "details": "Détails",
+    "sponsor": "Parrainer →"
+  },
+  "zakatSection": {
+    "badge": "3e pilier de l'Islam • Purification de 2,5 %",
+    "title": "Purifiez votre richesse avec le Fonds Zakat AASRA",
+    "text": "100 % de votre Zakat va directement aux orphelins, veuves et familles éligibles (Mustahiq) vivant dans une extrême pauvreté à travers le Pakistan, dans le strict respect des principes de la Charia.",
+    "nisabLabel": "Seuil du Nisab en argent (612,36 g) :",
+    "nisabNote": "Si votre épargne nette dépasse ce seuil pendant une année lunaire complète, la Zakat est due à 2,5 %.",
+    "calculatorCta": "Ouvrir le calculateur de Zakat interactif",
+    "donateCta": "Donner sa Zakat directement",
+    "imageCaptionTitle": "Allocation directe aux bénéficiaires",
+    "imageCaptionText": "Aucune déduction intermédiaire"
+  },
+  "achievementsSection": {
+    "eyebrow": "Progrès documentés",
+    "title": "Grandes étapes et reconnaissances",
+    "verifiedMilestone": "Étape vérifiée",
+    "items": {
+      "1": {
+        "title": "Inauguration d'un projet d'eau potable",
+        "text": "Cérémonie communautaire de dua marquant la remise d'une nouvelle pompe à main, l'un des plus de 170 points d'eau installés par AASRA à travers le Pendjab."
+      },
+      "2": {
+        "title": "Reconnaissance pour la distribution de fauteuils roulants",
+        "text": "Reconnue aux côtés d'organisations caritatives partenaires pour la distribution de fauteuils roulants aux personnes handicapées dans les communautés touchées par les inondations."
+      },
+      "3": {
+        "title": "Journée annuelle des résultats et des réussites",
+        "text": "Nos élèves orphelins ont été célébrés pour leurs résultats scolaires lors de la cérémonie annuelle des résultats, animée par des jeux, des prix et des cadeaux."
+      }
+    }
+  },
+  "reviewsSection": {
+    "eyebrow": "La voix de notre communauté",
+    "title": "Ce que disent nos visiteurs et donateurs",
+    "ratingLabel": "Noté par les visiteurs et donateurs sur Google",
+    "readAll": "Lire tous les avis sur Google"
+  },
+  "gallerySection": {
+    "eyebrow": "Transparence en images",
+    "title": "Moments d'espoir",
+    "exploreLink": "Découvrir la galerie complète de plus de 50 photos",
+    "viewInGallery": "Voir dans la galerie"
+  },
+  "volunteerSection": {
+    "eyebrow": "Devenez un acteur du changement",
+    "title": "Offrez vos compétences, votre cœur et votre voix à AASRA",
+    "text": "Que vous soyez étudiant, professionnel de santé, éducateur ou créateur numérique, vous pouvez rejoindre notre réseau d'ambassadeurs dévoués qui font vraiment la différence.",
+    "registerCta": "S'inscrire comme bénévole",
+    "whatsappCta": "Nous contacter sur WhatsApp"
+  }
+}

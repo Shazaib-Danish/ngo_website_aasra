@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "badge": "Al servizio con Ihsan dal 2021 • ONG registrata",
+    "donateNow": "Dona ora",
+    "explorePrograms": "Scopri i 4 programmi",
+    "slides": {
+      "orphan-care": {
+        "eyebrow": "Sponsorizza un orfano",
+        "title": "Ridai a un bambino la sua",
+        "highlight": "infanzia e il suo futuro",
+        "subtitle": "Vitto e alloggio completi, istruzione di qualità, assistenza sanitaria e una casa amorevole per oltre 32 bambini orfani. Con ₨30.000 al mese puoi sponsorizzare l'intero futuro di un bambino."
+      },
+      "clean-water": {
+        "eyebrow": "Installa un punto d'acqua",
+        "title": "Trasforma la sete in",
+        "highlight": "speranza duratura",
+        "subtitle": "Una pompa a mano dedicata porta acqua sicura e pulita a oltre 40 famiglie per anni. Installa oggi un punto d'acqua come Sadaqah Jariyah eterna."
+      }
+    }
+  },
+  "stats": {
+    "orphanCare": "Cura degli orfani",
+    "orphanCareDesc": "Bambini in convitto completo e scolarizzati",
+    "lahoreHome": "Casa di Lahore",
+    "ongoingCare": "Assistenza continua",
+    "cleanWater": "Acqua pulita",
+    "waterDesc": "Pompe a mano installate nel Punjab rurale",
+    "numberedPlaques": "Targhe numerate",
+    "sadaqahJariyah": "Sadaqah Jariyah",
+    "foodRelief": "Aiuti alimentari",
+    "foodDesc": "Sacchi di razioni e pasti caldi distribuiti",
+    "widowsNeedy": "Vedove e bisognosi",
+    "directHandover": "Consegna diretta",
+    "totalBeneficiaries": "Totale beneficiari",
+    "beneficiariesDesc": "Vite umane raggiunte e sostenute",
+    "punjabSindh": "Punjab e Sindh",
+    "audited": "Verificato"
+  },
+  "about": {
+    "yearsOfService": "Anni di servizio",
+    "registeredLine": "Registrata a Lahore, al servizio di tutto il Pakistan",
+    "govtCertified": "Organizzazione non profit certificata dal governo",
+    "eyebrow": "Chi siamo",
+    "titleLine1": "Ripristinare la speranza,",
+    "titleLine2": "preservare la dignità umana.",
+    "paragraph": "Fondata a Lahore nel 2021, Aasra Welfare Society è nata da una convinzione incrollabile: ogni bambino orfano e ogni famiglia povera merita pari accesso a sicurezza, acqua pulita, istruzione e compassione.",
+    "pillar1Title": "Servire con Ihsan",
+    "pillar1Text": "Eccellenza in ogni razione consegnata, ogni pozzo installato e ogni orfano cresciuto.",
+    "pillar2Title": "Trasparenza al 100%",
+    "pillar2Text": "Documentazione fotografica e di localizzazione diretta fornita ai donatori per ogni progetto.",
+    "learnMoreLink": "Scopri di più sulla nostra missione, leadership e registrazioni"
+  },
+  "donateSection": {
+    "eyebrow": "Donazione facile e verificata",
+    "title": "Come inviare la tua donazione",
+    "subtitle": "Offriamo diverse modalità trasparenti e verificate al 100% per contribuire con la tua Sadaqah, Zakat e donazioni dal Pakistan e da tutto il mondo.",
+    "card1": {
+      "badgeShort": "01",
+      "badgeFull": "Opzione 01 • Istantanea",
+      "title": "Donazione online",
+      "descShort": "Dona con carta di credito/debito o bonifico diretto.",
+      "descFull": "Dona con carta di credito/debito (Visa, MasterCard, Apple Pay) o bonifico diretto a Bank Makramah con ricevuta istantanea.",
+      "accountLabel": "Conto diretto:",
+      "ctaShort": "Dona ora",
+      "ctaFull": "Dona online ora"
+    },
+    "card2": {
+      "badgeShort": "02",
+      "badgeFull": "Opzione 02 • Veloce",
+      "title": "Portafogli mobili e Raast",
+      "desc": "Trasferisci istantaneamente da EasyPaisa, JazzCash o ID di pagamento istantaneo Raast, senza detrazioni sulla transazione.",
+      "ibanLabel": "IBAN / Raast:",
+      "titleLabel": "Intestatario:",
+      "ctaShort": "Guida al portafoglio",
+      "ctaFull": "Vedi la guida al portafoglio"
+    },
+    "card3": {
+      "badgeShort": "03",
+      "badgeFull": "Opzione 03 • Assegno",
+      "title": "Paga con assegno per posta",
+      "descPrefix": "Emetti un assegno sbarrato intestato a",
+      "descQuoted": "Aasra Welfare Society",
+      "descSuffix": "e spediscilo direttamente al nostro ufficio registrato di Lahore.",
+      "addressLabel": "Indirizzo postale:",
+      "ctaShort": "Copia indirizzo",
+      "ctaFull": "Copia indirizzo dell'ufficio",
+      "ctaCopiedShort": "Copiato!",
+      "ctaCopiedFull": "Indirizzo copiato!"
+    },
+    "card4": {
+      "badgeShort": "04",
+      "badgeFull": "Opzione 04 • Ritiro",
+      "title": "Ritiro a domicilio",
+      "desc": "Il nostro rappresentante autorizzato visiterà personalmente la tua casa o il tuo ufficio a Lahore per ritirare contanti o assegno con ricevuta ufficiale.",
+      "coverageLabel": "Copertura:",
+      "coverageValue": "Città di Lahore e dintorni",
+      "receiptNote": "✓ Ricevuta timbrata rilasciata sul posto",
+      "ctaShort": "Richiedi ritiro",
+      "ctaFull": "Richiedi ritiro su WhatsApp"
+    }
+  },
+  "quote": {
+    "text": "\"L'esempio di coloro che spendono i loro beni sulla via di Allah è come un seme che fa germogliare sette spighe, in ognuna delle quali ci sono cento chicchi.\"",
+    "reference": "Sura Al-Baqara 2:261"
+  },
+  "programsSection": {
+    "eyebrow": "I nostri programmi principali",
+    "title": "Azione trasformativa sul campo",
+    "viewAll": "Vedi tutte le 4 aree di impatto",
+    "funded": "% finanziato",
+    "raised": "Raccolto:",
+    "goal": "Obiettivo:",
+    "details": "Dettagli",
+    "sponsor": "Sponsorizza →"
+  },
+  "zakatSection": {
+    "badge": "3° pilastro dell'Islam • Purificazione del 2,5%",
+    "title": "Purifica la tua ricchezza con il Fondo Zakat AASRA",
+    "text": "Il 100% del tuo Zakat va direttamente a orfani, vedove e famiglie idonee (Mustahiq) che vivono in estrema povertà in tutto il Pakistan, nel pieno rispetto dei principi della Sharia.",
+    "nisabLabel": "Soglia Nisab dell'argento (612,36 g):",
+    "nisabNote": "Se i tuoi risparmi netti superano questa soglia per un anno lunare intero, lo Zakat è dovuto al 2,5%.",
+    "calculatorCta": "Apri il calcolatore interattivo dello Zakat",
+    "donateCta": "Dona direttamente lo Zakat",
+    "imageCaptionTitle": "Allocazione diretta ai beneficiari",
+    "imageCaptionText": "Zero detrazioni intermediarie"
+  },
+  "achievementsSection": {
+    "eyebrow": "Progressi documentati",
+    "title": "Principali traguardi e riconoscimenti",
+    "verifiedMilestone": "Traguardo verificato",
+    "items": {
+      "1": {
+        "title": "Inaugurazione del progetto per l'acqua pulita",
+        "text": "Cerimonia comunitaria di dua per la consegna di una nuova pompa a mano, uno degli oltre 170 punti d'acqua installati da AASRA in tutto il Punjab."
+      },
+      "2": {
+        "title": "Riconoscimento per la distribuzione di sedie a rotelle",
+        "text": "Riconosciuta insieme ad organizzazioni benefiche alleate per la distribuzione di sedie a rotelle a persone con disabilità nelle comunità colpite dalle alluvioni."
+      },
+      "3": {
+        "title": "Giornata annuale dei risultati e dei successi",
+        "text": "I nostri studenti orfani sono stati celebrati per i loro risultati accademici durante la cerimonia annuale dei risultati, con giochi, premi e regali."
+      }
+    }
+  },
+  "reviewsSection": {
+    "eyebrow": "Le voci della nostra comunità",
+    "title": "Cosa dicono visitatori e donatori",
+    "ratingLabel": "Valutato da visitatori e donatori su Google",
+    "readAll": "Leggi tutte le recensioni su Google"
+  },
+  "gallerySection": {
+    "eyebrow": "Trasparenza in immagini",
+    "title": "Momenti di speranza",
+    "exploreLink": "Scopri la galleria completa con oltre 50 foto",
+    "viewInGallery": "Vedi nella galleria"
+  },
+  "volunteerSection": {
+    "eyebrow": "Diventa un agente di cambiamento",
+    "title": "Dona le tue competenze, il tuo cuore e la tua voce ad AASRA",
+    "text": "Che tu sia uno studente, un professionista sanitario, un educatore o un creatore digitale, puoi unirti alla nostra rete di ambasciatori altruisti che guidano un cambiamento reale.",
+    "registerCta": "Iscriviti come volontario",
+    "whatsappCta": "Contattaci su WhatsApp"
+  }
+}
