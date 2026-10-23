@@ -206,3 +206,27 @@ body {
   background-size: 200% 200%;
   animation: gradient-x 6s ease infinite;
 }
+
+/* Contact page map: logo marker */
+.office-pin-wrap { background: none; border: 0; }
+.office-pin { position: relative; width: 56px; height: 68px; }
+.office-pin__badge {
+  position: absolute; top: 0; left: 0; width: 56px; height: 56px;
+  border-radius: 50% 50% 50% 0; transform: rotate(-45deg);
+  background: #fff; border: 3px solid var(--color-brand);
+  box-shadow: 0 8px 20px rgba(2, 27, 24, 0.3);
+  display: flex; align-items: center; justify-content: center;
+}
+.office-pin__badge img { width: 38px; height: 38px; object-fit: contain; transform: rotate(45deg); }
+.office-pin__pulse {
+  position: absolute; left: 50%; bottom: 0; width: 18px; height: 8px; margin-left: -9px;
+  border-radius: 50%; background: rgba(10, 122, 113, 0.45);
+  animation: office-pin-pulse 2s infinite ease-out;
+}
+@keyframes office-pin-pulse {
+  0% { transform: scale(0.6); opacity: 1; }
+  100% { transform: scale(2.6); opacity: 0; }
+}
+.office-popup { display: flex; flex-direction: column; gap: 2px; font-family: inherit; }
+.office-popup strong { color: var(--color-ink); font-size: 13px; }
+.office-popup span { color: var(--color-ink-soft); font-size: 12px; }

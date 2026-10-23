@@ -5,6 +5,7 @@ import { CONTACT_INFO } from '../constants';
 import { useSEO } from '../hooks/useSEO';
 import { trackEvent } from '../src/analytics';
 import { submitContactMessage } from '../src/firebase';
+import OfficeMap from '../components/OfficeMap';
 
 const INTENT_CHIPS = [
   'Sponsor an Orphan',
@@ -184,20 +185,16 @@ const Contact: React.FC = () => {
 
             {/* Interactive Map Embed */}
             <div className="bg-white rounded-3xl overflow-hidden border border-line shadow-md relative group h-72">
-              <iframe
-                src="https://www.google.com/maps?q=Aasra+Welfare+Society&&z=14&output=embed"
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
+              <OfficeMap
                 title="AASRA Welfare Society office location"
+                label="AASRA Welfare Society"
+                address={CONTACT_INFO.address}
               />
               <a
                 href={CONTACT_INFO.mapUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="absolute bottom-4 right-4 bg-brand-950 text-white px-4 py-2 rounded-xl text-xs font-heading font-bold shadow-lg hover:bg-brand transition-all flex items-center gap-1.5"
+                className="absolute bottom-6 right-4 z-[500] bg-brand-950 text-white px-4 py-2 rounded-xl text-xs font-heading font-bold shadow-lg hover:bg-brand transition-all flex items-center gap-1.5"
               >
                 <i className="fa-solid fa-location-arrow text-[10px]"></i>
                 <span>{t('map.openInMaps')}</span>
