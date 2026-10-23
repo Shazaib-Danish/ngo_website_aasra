@@ -51,6 +51,22 @@ const Home: React.FC = () => {
   const { t } = useTranslation(['home', 'programs']);
   const [activeSlide, setActiveSlide] = useState(0);
   const [copiedAddress, setCopiedAddress] = useState(false);
+  const methodsRef = useRef<HTMLDivElement>(null);
+  const [activeMethod, setActiveMethod] = useState(0);
+
+  // Which donation card is centred in the mobile swipe row (RTL scrollLeft is negative, hence abs).
+  const handleMethodsScroll = () => {
+    const el = methodsRef.current;
+    if (!el || !el.children.length) return;
+    const card = el.children[0] as HTMLElement;
+    const step = card.offsetWidth + parseFloat(getComputedStyle(el).columnGap || '0');
+    setActiveMethod(Math.min(el.children.length - 1, Math.round(Math.abs(el.scrollLeft) / step)));
+  };
+
+  const scrollToMethod = (idx: number) => {
+    const card = methodsRef.current?.children[idx] as HTMLElement | undefined;
+    card?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  };
 
   useSEO({
     path: '/',
@@ -500,9 +516,13 @@ const Home: React.FC = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 lg:gap-7">
+          <div
+            ref={methodsRef}
+            onScroll={handleMethodsScroll}
+            className="flex md:grid md:grid-cols-3 gap-4 lg:gap-7 overflow-x-auto md:overflow-visible snap-x snap-mandatory scroll-px-4 sm:scroll-px-6 -mx-4 px-4 sm:-mx-6 sm:px-6 md:mx-0 md:px-0 pb-2 md:pb-0 no-scrollbar"
+          >
             {/* Card 1: Online Donation */}
-            <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
+            <div className="w-[82%] min-[420px]:w-[75%] sm:w-[58%] md:w-auto shrink-0 snap-start bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
               <div className="relative aspect-[16/10] overflow-hidden bg-paper-dim">
                 <img
                   src="/images/donate/method-online.webp"
@@ -547,7 +567,7 @@ const Home: React.FC = () => {
             </div>
 
             {/* Card 2: Pay by Cheque via Mail */}
-            <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
+            <div className="w-[82%] min-[420px]:w-[75%] sm:w-[58%] md:w-auto shrink-0 snap-start bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
               <div className="relative aspect-[16/10] overflow-hidden bg-white">
                 <img
                   src="/images/donate/method-cheque.webp"
@@ -591,7 +611,7 @@ const Home: React.FC = () => {
             </div>
 
             {/* Card 3: Cash or Cheque Collection at Doorstep */}
-            <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
+            <div className="w-[82%] min-[420px]:w-[75%] sm:w-[58%] md:w-auto shrink-0 snap-start bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
               <div className="relative aspect-[16/10] overflow-hidden bg-paper-dim">
                 <img
                   src="/images/donate/method-doorstep.webp"
@@ -638,6 +658,22 @@ const Home: React.FC = () => {
                 </div>
               </div>
             </div>
+          </div>
+
+          <div className="md:hidden flex items-center justify-center gap-2 mt-5" role="tablist" aria-label={t('home:donateSection.title')}>
+            {[t('home:donateSection.card1.title'), t('home:donateSection.card3.title'), t('home:donateSection.card4.title')].map((label, idx) => (
+              <button
+                key={label}
+                type="button"
+                role="tab"
+                aria-selected={activeMethod === idx}
+                aria-label={label}
+                onClick={() => scrollToMethod(idx)}
+                className={`h-2 rounded-full transition-all duration-300 ${
+                  activeMethod === idx ? 'w-6 bg-brand' : 'w-2 bg-line hover:bg-brand-200'
+                }`}
+              />
+            ))}
           </div>
         </div>
       </section>
