@@ -64,19 +64,9 @@
       "ctaShort": "Nu doneren",
       "ctaFull": "Nu online doneren"
     },
-    "card2": {
-      "badgeShort": "02",
-      "badgeFull": "Optie 02 • Snel",
-      "title": "Mobiele wallets & Raast",
-      "desc": "Maak direct over via uw EasyPaisa, JazzCash of Raast instant-betaal-ID, zonder transactiekosten.",
-      "ibanLabel": "IBAN / Raast:",
-      "titleLabel": "Naam:",
-      "ctaShort": "Wallet-gids",
-      "ctaFull": "Bekijk de wallet-gids"
-    },
     "card3": {
-      "badgeShort": "03",
-      "badgeFull": "Optie 03 • Cheque",
+      "badgeShort": "02",
+      "badgeFull": "Optie 02 • Cheque",
       "title": "Betalen per cheque via post",
       "descPrefix": "Stel een gekruiste cheque op ten name van",
       "descQuoted": "Aasra Welfare Society",
@@ -88,8 +78,8 @@
       "ctaCopiedFull": "Adres gekopieerd!"
     },
     "card4": {
-      "badgeShort": "04",
-      "badgeFull": "Optie 04 • Ophaling",
+      "badgeShort": "03",
+      "badgeFull": "Optie 03 • Ophaling",
       "title": "Ophaling aan huis",
       "desc": "Onze bevoegde vertegenwoordiger komt persoonlijk bij u thuis of op kantoor in Lahore langs om contant geld of een cheque op te halen, met een officiële ontvangstbevestiging.",
       "coverageLabel": "Dekking:",

@@ -487,7 +487,7 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      {/* 4. HOW TO DONATE - 4 CONVENIENT OPTIONS */}
+      {/* 4. HOW TO DONATE - 3 CONVENIENT OPTIONS */}
       <section className="py-16 md:py-24 bg-white border-y border-line">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-14 space-y-3">
@@ -500,167 +500,142 @@ const Home: React.FC = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 sm:gap-5 md:gap-6 lg:grid-cols-4">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5 lg:gap-7">
             {/* Card 1: Online Donation */}
-            <div className="glass-card bg-paper-dim/60 rounded-2xl sm:rounded-3xl p-3.5 sm:p-6 lg:p-7 border border-line flex flex-col justify-between group hover:border-brand-300 hover:shadow-xl transition-all">
-              <div className="space-y-2.5 sm:space-y-4">
-                <div className="flex items-center justify-between gap-1.5">
-                  <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-brand-50 text-brand flex items-center justify-center text-sm sm:text-xl group-hover:scale-110 transition-transform shrink-0">
-                    <i className="fa-solid fa-credit-card"></i>
-                  </div>
-                  <span className="text-[9px] sm:text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full bg-brand-50 text-brand border border-brand-200 whitespace-nowrap">
-                    <span className="sm:hidden">{t('home:donateSection.card1.badgeShort')}</span>
-                    <span className="hidden sm:inline">{t('home:donateSection.card1.badgeFull')}</span>
-                  </span>
-                </div>
-                <div>
-                  <h3 className="font-heading font-bold text-sm sm:text-xl text-ink mb-1 sm:mb-1.5 leading-snug">
-                    {t('home:donateSection.card1.title')}
-                  </h3>
-                  <p className="sm:hidden text-[10px] text-ink-soft leading-snug">
-                    {t('home:donateSection.card1.descShort')}
-                  </p>
-                  <p className="hidden sm:block text-xs text-ink-soft leading-relaxed">
-                    {t('home:donateSection.card1.descFull')}
-                  </p>
-                </div>
-                <div className="p-2 sm:p-3.5 rounded-lg sm:rounded-xl bg-white border border-line text-xs space-y-0.5 sm:space-y-1">
-                  <span className="text-[8px] sm:text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card1.accountLabel')}</span>
-                  <span className="font-mono font-bold text-brand block select-all text-[9px] sm:text-xs break-all">{BANK_DETAILS.accountNumber}</span>
-                  <span className="hidden sm:block text-[10px] text-ink-soft">{BANK_DETAILS.bankName}</span>
-                </div>
+            <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
+              <div className="relative aspect-[16/10] overflow-hidden bg-paper-dim">
+                <img
+                  src="/images/donate/method-bank-transfer.webp"
+                  alt={t('home:donateSection.card1.title')}
+                  loading="lazy"
+                  width={800}
+                  height={500}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-brand-950/40 via-transparent to-transparent"></div>
+                <span className="absolute top-3 start-3 text-[10px] font-extrabold uppercase tracking-wider px-2.5 py-1 rounded-full bg-white/95 text-brand border border-brand-200 shadow-sm">
+                  {t('home:donateSection.card1.badgeFull')}
+                </span>
               </div>
+              <div className="p-5 sm:p-6 lg:p-7 flex flex-col flex-1 justify-between">
+                <div className="space-y-4">
+                  <div>
+                    <h3 className="font-heading font-bold text-lg sm:text-xl text-ink mb-1.5 leading-snug">
+                      {t('home:donateSection.card1.title')}
+                    </h3>
+                    <p className="text-xs text-ink-soft leading-relaxed">
+                      {t('home:donateSection.card1.descFull')}
+                    </p>
+                  </div>
+                  <div className="p-3.5 rounded-xl bg-white border border-line text-xs space-y-1">
+                    <span className="text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card1.accountLabel')}</span>
+                    <span className="font-mono font-bold text-brand block select-all text-xs break-all">{BANK_DETAILS.accountNumber}</span>
+                    <span className="block text-[10px] text-ink-soft">{BANK_DETAILS.bankName}</span>
+                  </div>
+                </div>
 
-              <div className="pt-3 mt-3 sm:pt-5 sm:mt-4 border-t border-line/60">
-                <Link
-                  to="/donate"
-                  className="w-full py-2 sm:py-3 px-2 sm:px-4 rounded-lg sm:rounded-xl font-heading font-bold text-[10px] sm:text-xs text-white bg-brand hover:bg-brand-600 transition-all flex items-center justify-center gap-1.5 sm:gap-2 shadow-xs"
-                >
-                  <span className="sm:hidden">{t('home:donateSection.card1.ctaShort')}</span>
-                  <span className="hidden sm:inline">{t('home:donateSection.card1.ctaFull')}</span>
-                  <i className="fa-solid fa-arrow-right text-[9px] sm:text-[10px]"></i>
-                </Link>
+                <div className="pt-5 mt-5 border-t border-line/60">
+                  <Link
+                    to="/donate"
+                    className="w-full py-3 px-4 rounded-xl font-heading font-bold text-xs text-white bg-brand hover:bg-brand-600 transition-all flex items-center justify-center gap-2 shadow-xs"
+                  >
+                    <span>{t('home:donateSection.card1.ctaFull')}</span>
+                    <i className="fa-solid fa-arrow-right text-[10px] rtl:rotate-180"></i>
+                  </Link>
+                </div>
               </div>
             </div>
 
-            {/* Card 2: Mobile Wallets & Raast */}
-            <div className="glass-card bg-paper-dim/60 rounded-2xl sm:rounded-3xl p-3.5 sm:p-6 lg:p-7 border border-line flex flex-col justify-between group hover:border-brand-300 hover:shadow-xl transition-all">
-              <div className="space-y-2.5 sm:space-y-4">
-                <div className="flex items-center justify-between gap-1.5">
-                  <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center text-sm sm:text-xl group-hover:scale-110 transition-transform shrink-0">
-                    <i className="fa-solid fa-mobile-screen-button"></i>
-                  </div>
-                  <span className="text-[9px] sm:text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 whitespace-nowrap">
-                    <span className="sm:hidden">{t('home:donateSection.card2.badgeShort')}</span>
-                    <span className="hidden sm:inline">{t('home:donateSection.card2.badgeFull')}</span>
-                  </span>
-                </div>
-                <div>
-                  <h3 className="font-heading font-bold text-sm sm:text-xl text-ink mb-1 sm:mb-1.5 leading-snug">
-                    {t('home:donateSection.card2.title')}
-                  </h3>
-                  <p className="hidden sm:block text-xs text-ink-soft leading-relaxed">
-                    {t('home:donateSection.card2.desc')}
-                  </p>
-                </div>
-                <div className="p-2 sm:p-3.5 rounded-lg sm:rounded-xl bg-white border border-line text-xs space-y-0.5 sm:space-y-1">
-                  <span className="text-[8px] sm:text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card2.ibanLabel')}</span>
-                  <span className="font-mono text-[9px] sm:text-[10px] font-bold text-ink block break-all select-all">{BANK_DETAILS.iban}</span>
-                  <span className="hidden sm:block text-[10px] text-emerald-700 font-semibold">{t('home:donateSection.card2.titleLabel')} {BANK_DETAILS.accountTitle}</span>
-                </div>
+            {/* Card 2: Pay by Cheque via Mail */}
+            <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
+              <div className="relative aspect-[16/10] overflow-hidden bg-white">
+                <img
+                  src="/images/donate/method-cheque.webp"
+                  alt={t('home:donateSection.card3.title')}
+                  loading="lazy"
+                  width={800}
+                  height={500}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+                <span className="absolute top-3 start-3 text-[10px] font-extrabold uppercase tracking-wider px-2.5 py-1 rounded-full bg-white/95 text-accent border border-accent/20 shadow-sm">
+                  {t('home:donateSection.card3.badgeFull')}
+                </span>
               </div>
+              <div className="p-5 sm:p-6 lg:p-7 flex flex-col flex-1 justify-between">
+                <div className="space-y-4">
+                  <div>
+                    <h3 className="font-heading font-bold text-lg sm:text-xl text-ink mb-1.5 leading-snug">
+                      {t('home:donateSection.card3.title')}
+                    </h3>
+                    <p className="text-xs text-ink-soft leading-relaxed">
+                      {t('home:donateSection.card3.descPrefix')} <strong>"{t('home:donateSection.card3.descQuoted')}"</strong> {t('home:donateSection.card3.descSuffix')}
+                    </p>
+                  </div>
+                  <div className="p-3.5 rounded-xl bg-white border border-line text-xs space-y-1">
+                    <span className="text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card3.addressLabel')}</span>
+                    <p className="text-[11px] font-semibold text-ink leading-snug">{CONTACT_INFO.address}</p>
+                  </div>
+                </div>
 
-              <div className="pt-3 mt-3 sm:pt-5 sm:mt-4 border-t border-line/60">
-                <Link
-                  to="/donate"
-                  className="w-full py-2 sm:py-3 px-2 sm:px-4 rounded-lg sm:rounded-xl font-heading font-bold text-[10px] sm:text-xs text-emerald-700 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 transition-all flex items-center justify-center gap-1.5 sm:gap-2"
-                >
-                  <i className="fa-solid fa-wallet text-[10px] sm:text-[11px]"></i>
-                  <span className="sm:hidden">{t('home:donateSection.card2.ctaShort')}</span>
-                  <span className="hidden sm:inline">{t('home:donateSection.card2.ctaFull')}</span>
-                </Link>
+                <div className="pt-5 mt-5 border-t border-line/60">
+                  <button
+                    type="button"
+                    onClick={handleCopyAddress}
+                    className="w-full py-3 px-4 rounded-xl font-heading font-bold text-xs text-ink-soft hover:text-ink bg-white hover:bg-paper-dim border border-line transition-all flex items-center justify-center gap-2"
+                  >
+                    <i className={`fa-solid ${copiedAddress ? 'fa-check text-emerald-600' : 'fa-copy'}`}></i>
+                    <span>{copiedAddress ? t('home:donateSection.card3.ctaCopiedFull') : t('home:donateSection.card3.ctaFull')}</span>
+                  </button>
+                </div>
               </div>
             </div>
 
-            {/* Card 3: Pay by Cheque via Mail */}
-            <div className="glass-card bg-paper-dim/60 rounded-2xl sm:rounded-3xl p-3.5 sm:p-6 lg:p-7 border border-line flex flex-col justify-between group hover:border-brand-300 hover:shadow-xl transition-all">
-              <div className="space-y-2.5 sm:space-y-4">
-                <div className="flex items-center justify-between gap-1.5">
-                  <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-accent/10 text-accent flex items-center justify-center text-sm sm:text-xl group-hover:scale-110 transition-transform shrink-0">
-                    <i className="fa-solid fa-envelope-open-text"></i>
+            {/* Card 3: Cash or Cheque Collection at Doorstep */}
+            <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
+              <div className="relative aspect-[16/10] overflow-hidden bg-paper-dim">
+                <img
+                  src="/images/donate/method-doorstep.webp"
+                  alt={t('home:donateSection.card4.title')}
+                  loading="lazy"
+                  width={800}
+                  height={500}
+                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-brand-950/40 via-transparent to-transparent"></div>
+                <span className="absolute top-3 start-3 text-[10px] font-extrabold uppercase tracking-wider px-2.5 py-1 rounded-full bg-white/95 text-amber-700 border border-amber-200 shadow-sm">
+                  {t('home:donateSection.card4.badgeFull')}
+                </span>
+              </div>
+              <div className="p-5 sm:p-6 lg:p-7 flex flex-col flex-1 justify-between">
+                <div className="space-y-4">
+                  <div>
+                    <h3 className="font-heading font-bold text-lg sm:text-xl text-ink mb-1.5 leading-snug">
+                      {t('home:donateSection.card4.title')}
+                    </h3>
+                    <p className="text-xs text-ink-soft leading-relaxed">
+                      {t('home:donateSection.card4.desc')}
+                    </p>
                   </div>
-                  <span className="text-[9px] sm:text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full bg-accent/10 text-accent border border-accent/20 whitespace-nowrap">
-                    <span className="sm:hidden">{t('home:donateSection.card3.badgeShort')}</span>
-                    <span className="hidden sm:inline">{t('home:donateSection.card3.badgeFull')}</span>
-                  </span>
-                </div>
-                <div>
-                  <h3 className="font-heading font-bold text-sm sm:text-xl text-ink mb-1 sm:mb-1.5 leading-snug">
-                    {t('home:donateSection.card3.title')}
-                  </h3>
-                  <p className="hidden sm:block text-xs text-ink-soft leading-relaxed">
-                    {t('home:donateSection.card3.descPrefix')} <strong>"{t('home:donateSection.card3.descQuoted')}"</strong> {t('home:donateSection.card3.descSuffix')}
-                  </p>
-                </div>
-                <div className="p-2 sm:p-3.5 rounded-lg sm:rounded-xl bg-white border border-line text-xs space-y-0.5 sm:space-y-1">
-                  <span className="text-[8px] sm:text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card3.addressLabel')}</span>
-                  <p className="text-[9px] sm:text-[11px] font-semibold text-ink leading-snug line-clamp-3 sm:line-clamp-none">{CONTACT_INFO.address}</p>
-                </div>
-              </div>
-
-              <div className="pt-3 mt-3 sm:pt-5 sm:mt-4 border-t border-line/60">
-                <button
-                  type="button"
-                  onClick={handleCopyAddress}
-                  className="w-full py-2 sm:py-3 px-2 sm:px-4 rounded-lg sm:rounded-xl font-heading font-bold text-[10px] sm:text-xs text-ink-soft hover:text-ink bg-white hover:bg-paper-dim border border-line transition-all flex items-center justify-center gap-1.5 sm:gap-2"
-                >
-                  <i className={`fa-solid ${copiedAddress ? 'fa-check text-emerald-600' : 'fa-copy'}`}></i>
-                  <span className="sm:hidden">{copiedAddress ? t('home:donateSection.card3.ctaCopiedShort') : t('home:donateSection.card3.ctaShort')}</span>
-                  <span className="hidden sm:inline">{copiedAddress ? t('home:donateSection.card3.ctaCopiedFull') : t('home:donateSection.card3.ctaFull')}</span>
-                </button>
-              </div>
-            </div>
-
-            {/* Card 4: Cash or Cheque Collection at Doorstep */}
-            <div className="glass-card bg-paper-dim/60 rounded-2xl sm:rounded-3xl p-3.5 sm:p-6 lg:p-7 border border-line flex flex-col justify-between group hover:border-brand-300 hover:shadow-xl transition-all">
-              <div className="space-y-2.5 sm:space-y-4">
-                <div className="flex items-center justify-between gap-1.5">
-                  <div className="w-8 h-8 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-amber-50 text-amber-600 flex items-center justify-center text-sm sm:text-xl group-hover:scale-110 transition-transform shrink-0">
-                    <i className="fa-solid fa-handshake-angle"></i>
+                  <div className="p-3.5 rounded-xl bg-white border border-line text-xs space-y-1">
+                    <span className="text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card4.coverageLabel')}</span>
+                    <p className="text-[11px] font-semibold text-ink">{t('home:donateSection.card4.coverageValue')}</p>
+                    <span className="block text-[10px] text-emerald-600 font-bold">{t('home:donateSection.card4.receiptNote')}</span>
                   </div>
-                  <span className="text-[9px] sm:text-[10px] font-extrabold uppercase tracking-wider px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full bg-amber-50 text-amber-700 border border-amber-200 whitespace-nowrap">
-                    <span className="sm:hidden">{t('home:donateSection.card4.badgeShort')}</span>
-                    <span className="hidden sm:inline">{t('home:donateSection.card4.badgeFull')}</span>
-                  </span>
                 </div>
-                <div>
-                  <h3 className="font-heading font-bold text-sm sm:text-xl text-ink mb-1 sm:mb-1.5 leading-snug">
-                    {t('home:donateSection.card4.title')}
-                  </h3>
-                  <p className="hidden sm:block text-xs text-ink-soft leading-relaxed">
-                    {t('home:donateSection.card4.desc')}
-                  </p>
-                </div>
-                <div className="p-2 sm:p-3.5 rounded-lg sm:rounded-xl bg-white border border-line text-xs space-y-0.5 sm:space-y-1">
-                  <span className="text-[8px] sm:text-[10px] uppercase font-bold text-ink-faint block">{t('home:donateSection.card4.coverageLabel')}</span>
-                  <p className="text-[9px] sm:text-[11px] font-semibold text-ink">{t('home:donateSection.card4.coverageValue')}</p>
-                  <span className="hidden sm:block text-[10px] text-emerald-600 font-bold">{t('home:donateSection.card4.receiptNote')}</span>
-                </div>
-              </div>
 
-              <div className="pt-3 mt-3 sm:pt-5 sm:mt-4 border-t border-line/60">
-                <a
-                  href={`https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(
-                    'Assalamualaikum, I would like to schedule a doorstep cash/cheque collection for my donation to Aasra Welfare Society. My address is:'
-                  )}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-full py-2 sm:py-3 px-2 sm:px-4 rounded-lg sm:rounded-xl font-heading font-bold text-[10px] sm:text-xs text-[#128C7E] bg-[#25D366]/15 hover:bg-[#25D366]/25 border border-[#25D366]/30 transition-all flex items-center justify-center gap-1.5 sm:gap-2"
-                >
-                  <i className="fa-brands fa-whatsapp text-xs sm:text-sm text-[#25D366]"></i>
-                  <span className="sm:hidden">{t('home:donateSection.card4.ctaShort')}</span>
-                  <span className="hidden sm:inline">{t('home:donateSection.card4.ctaFull')}</span>
-                </a>
+                <div className="pt-5 mt-5 border-t border-line/60">
+                  <a
+                    href={`https://wa.me/${CONTACT_INFO.whatsapp}?text=${encodeURIComponent(
+                      'Assalamualaikum, I would like to schedule a doorstep cash/cheque collection for my donation to Aasra Welfare Society. My address is:'
+                    )}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-full py-3 px-4 rounded-xl font-heading font-bold text-xs text-[#128C7E] bg-[#25D366]/15 hover:bg-[#25D366]/25 border border-[#25D366]/30 transition-all flex items-center justify-center gap-2"
+                  >
+                    <i className="fa-brands fa-whatsapp text-sm text-[#25D366]"></i>
+                    <span>{t('home:donateSection.card4.ctaFull')}</span>
+                  </a>
+                </div>
               </div>
             </div>
           </div>

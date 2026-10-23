@@ -64,19 +64,9 @@
       "ctaShort": "Jetzt spenden",
       "ctaFull": "Jetzt online spenden"
     },
-    "card2": {
-      "badgeShort": "02",
-      "badgeFull": "Option 02 • Schnell",
-      "title": "Mobile Wallets & Raast",
-      "desc": "Überweisen Sie sofort über Ihre EasyPaisa-, JazzCash- oder Raast-Sofortzahlungs-ID ohne Transaktionsabzüge.",
-      "ibanLabel": "IBAN / Raast:",
-      "titleLabel": "Titel:",
-      "ctaShort": "Wallet-Anleitung",
-      "ctaFull": "Wallet-Anleitung ansehen"
-    },
     "card3": {
-      "badgeShort": "03",
-      "badgeFull": "Option 03 • Scheck",
+      "badgeShort": "02",
+      "badgeFull": "Option 02 • Scheck",
       "title": "Per Scheck per Post zahlen",
       "descPrefix": "Stellen Sie einen Verrechnungsscheck aus auf",
       "descQuoted": "Aasra Welfare Society",
@@ -88,8 +78,8 @@
       "ctaCopiedFull": "Adresse kopiert!"
     },
     "card4": {
-      "badgeShort": "04",
-      "badgeFull": "Option 04 • Abholung",
+      "badgeShort": "03",
+      "badgeFull": "Option 03 • Abholung",
       "title": "Abholung vor Ort",
       "desc": "Unser autorisierter Vertreter besucht Sie persönlich zu Hause oder im Büro in Lahore, um Bargeld oder einen Scheck mit offizieller Quittung entgegenzunehmen.",
       "coverageLabel": "Abdeckung:",

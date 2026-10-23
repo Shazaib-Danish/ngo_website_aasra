@@ -64,19 +64,9 @@
       "ctaShort": "Dona ora",
       "ctaFull": "Dona online ora"
     },
-    "card2": {
-      "badgeShort": "02",
-      "badgeFull": "Opzione 02 • Veloce",
-      "title": "Portafogli mobili e Raast",
-      "desc": "Trasferisci istantaneamente da EasyPaisa, JazzCash o ID di pagamento istantaneo Raast, senza detrazioni sulla transazione.",
-      "ibanLabel": "IBAN / Raast:",
-      "titleLabel": "Intestatario:",
-      "ctaShort": "Guida al portafoglio",
-      "ctaFull": "Vedi la guida al portafoglio"
-    },
     "card3": {
-      "badgeShort": "03",
-      "badgeFull": "Opzione 03 • Assegno",
+      "badgeShort": "02",
+      "badgeFull": "Opzione 02 • Assegno",
       "title": "Paga con assegno per posta",
       "descPrefix": "Emetti un assegno sbarrato intestato a",
       "descQuoted": "Aasra Welfare Society",
@@ -88,8 +78,8 @@
       "ctaCopiedFull": "Indirizzo copiato!"
     },
     "card4": {
-      "badgeShort": "04",
-      "badgeFull": "Opzione 04 • Ritiro",
+      "badgeShort": "03",
+      "badgeFull": "Opzione 03 • Ritiro",
       "title": "Ritiro a domicilio",
       "desc": "Il nostro rappresentante autorizzato visiterà personalmente la tua casa o il tuo ufficio a Lahore per ritirare contanti o assegno con ricevuta ufficiale.",
       "coverageLabel": "Copertura:",

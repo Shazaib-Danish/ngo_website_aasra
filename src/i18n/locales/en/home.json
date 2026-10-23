@@ -52,15 +52,32 @@
     "categories": {
       "education": {
         "title": "Education",
-        "items": ["Private School", "School Van", "Home Tuition", "Stationery", "Tajweed & Quran Translation"]
+        "items": [
+          "Private School",
+          "School Van",
+          "Home Tuition",
+          "Stationery",
+          "Tajweed & Quran Translation"
+        ]
       },
       "food": {
         "title": "Food",
-        "items": ["3 Meals Daily", "Organic Meals", "Weekly Fast Food", "Fresh Fruits"]
+        "items": [
+          "3 Meals Daily",
+          "Organic Meals",
+          "Weekly Fast Food",
+          "Fresh Fruits"
+        ]
       },
       "other": {
         "title": "Home & Care",
-        "items": ["Rented House", "Utility Bills", "Caretakers & Chefs", "Weekly Doctor Visit", "Martial Arts Classes"]
+        "items": [
+          "Rented House",
+          "Utility Bills",
+          "Caretakers & Chefs",
+          "Weekly Doctor Visit",
+          "Martial Arts Classes"
+        ]
       }
     }
   },
@@ -92,19 +109,9 @@
       "ctaShort": "Donate Now",
       "ctaFull": "Donate Online Now"
     },
-    "card2": {
-      "badgeShort": "02",
-      "badgeFull": "Option 02 • Fast",
-      "title": "Mobile Wallets & Raast",
-      "desc": "Transfer instantly from your EasyPaisa, JazzCash, or Raast instant pay ID with zero transaction deductions.",
-      "ibanLabel": "IBAN / Raast:",
-      "titleLabel": "Title:",
-      "ctaShort": "Wallet Guide",
-      "ctaFull": "View Wallet Guide"
-    },
     "card3": {
-      "badgeShort": "03",
-      "badgeFull": "Option 03 • Cheque",
+      "badgeShort": "02",
+      "badgeFull": "Option 02 • Cheque",
       "title": "Pay Cheque via Mail",
       "descPrefix": "Make a crossed cheque payable to",
       "descQuoted": "Aasra Welfare Society",
@@ -116,8 +123,8 @@
       "ctaCopiedFull": "Address Copied!"
     },
     "card4": {
-      "badgeShort": "04",
-      "badgeFull": "Option 04 • Pickup",
+      "badgeShort": "03",
+      "badgeFull": "Option 03 • Pickup",
       "title": "Doorstep Pickup",
       "desc": "Our authorized representative will personally visit your home or office in Lahore to collect cash or cheque with an official receipt.",
       "coverageLabel": "Coverage:",
