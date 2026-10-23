@@ -33,7 +33,7 @@ export const PROGRAMS: Program[] = [
     icon: 'fa-child-reaching',
     gallery: ORPHANAGE_PHOTOS,
     goalPKR: 10000000,
-    raisedPKR: 2500000,
+    raisedPKR: 2800000,
     unitCosts: [
       { label: 'Monthly Sponsorship', amountPKR: 30000 },
       { label: 'Annual Sponsorship', amountPKR: 360000 },
@@ -54,7 +54,7 @@ export const PROGRAMS: Program[] = [
     icon: 'fa-faucet-drip',
     gallery: WATER_PHOTOS,
     goalPKR: 3000000,
-    raisedPKR: 500000,
+    raisedPKR: 560000,
     unitCosts: [
       { label: 'Dedicated Hand Pump', amountPKR: 60000 },
       { label: 'Solar Submersible Pump', amountPKR: 300000 },
@@ -74,7 +74,7 @@ export const PROGRAMS: Program[] = [
     icon: 'fa-bowl-food',
     gallery: RELIEF_PHOTOS,
     goalPKR: 2000000,
-    raisedPKR: 400000,
+    raisedPKR: 450000,
     unitCosts: [
       { label: 'Food for 1 Person', amountPKR: 300 },
       { label: 'Monthly Ration Pack', amountPKR: 5000 },
@@ -94,7 +94,7 @@ export const PROGRAMS: Program[] = [
     icon: 'fa-house-flood-water',
     gallery: FLOOD_PHOTOS,
     goalPKR: 5000000,
-    raisedPKR: 3200000,
+    raisedPKR: 3500000,
     unitCosts: [
       { label: 'Emergency Kit', amountPKR: 25000 },
       { label: 'Shelter Tent', amountPKR: 15000 },
