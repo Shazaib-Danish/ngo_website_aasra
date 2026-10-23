@@ -505,7 +505,7 @@ const Home: React.FC = () => {
             <div className="bg-paper-dim/60 rounded-3xl border border-line overflow-hidden flex flex-col group hover:border-brand-300 hover:shadow-xl transition-all">
               <div className="relative aspect-[16/10] overflow-hidden bg-paper-dim">
                 <img
-                  src="/images/donate/method-bank-transfer.webp"
+                  src="/images/donate/method-online.webp"
                   alt={t('home:donateSection.card1.title')}
                   loading="lazy"
                   width={800}
